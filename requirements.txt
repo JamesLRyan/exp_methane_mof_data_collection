@@ -1,0 +1,29 @@
+# Core scientific stack
+numpy
+pandas
+openpyxl
+tqdm
+matplotlib
+
+# Git-based NIST ISODB fetching
+gitpython
+
+# CIF / crystal structure processing
+pymatgen
+mendeleev
+
+# LLM-assisted matching (notebook 04)
+anthropic
+
+# HTTP requests (OpenAlex API for paper abstracts)
+requests
+
+# ── CSD Python API ────────────────────────────────────────────
+# Required for notebooks 02, 03, 04, 05.
+# Must be installed separately via the CCDC installer — not available on PyPI.
+# See: https://downloads.ccdc.cam.ac.uk/documentation/API/
+# ccdc  (install via CCDC Python API installer)
+
+# ── SAMOSA ───────────────────────────────────────────────────
+# Cloned as a git submodule at external/SAMOSA.
+# No separate pip install needed; used directly via subprocess in notebook 04.

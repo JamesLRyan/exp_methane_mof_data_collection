@@ -1,0 +1,6573 @@
+[
+  {
+    "name": "[Co(2)(pyridine)2(H2O)]",
+    "hashkey": "NIST-MATDB-002415bcd538b26626f2f03e5443f598",
+    "DOI": "10.1039/B927499e",
+    "DOIs": [
+      "10.1039/B927499e"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Zn3-(ntb)2]n",
+    "hashkey": "NIST-MATDB-002c3dec5dc95ba29da506c4ae80cfeb",
+    "DOI": "10.1002/chem.200601534",
+    "DOIs": [
+      "10.1002/chem.200601534"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Co3.bpda2- )3( tpt) /3 (DMF 2 )2",
+    "hashkey": "NIST-MATDB-00ba78345d8f9744f6626255fbb4bb09",
+    "DOI": "10.1039/c5ce01047k",
+    "DOIs": [
+      "10.1039/c5ce01047k"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Beta-[{Zn(F-pymo)2}n]",
+    "hashkey": "NIST-MATDB-00e77b7864c973ea6e0989974761c308",
+    "DOI": "10.1002/chem.200801048",
+    "DOIs": [
+      "10.1002/chem.200801048"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "DUT-9",
+    "hashkey": "NIST-MATDB-01a0c02c68759ba101007c14eeff89ba",
+    "DOI": "10.1002/anie.201001735",
+    "DOIs": [
+      "10.1002/anie.201001735",
+      "10.1021/Jp308525k"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "SNU-70'",
+    "hashkey": "NIST-MATDB-01b001eeeae512912967a14764e486df",
+    "DOI": "10.1002/chem.201200456",
+    "DOIs": [
+      "10.1002/chem.201200456"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "C36H24Cu3N13O12",
+    "hashkey": "NIST-MATDB-020667879dbefe5573dc639d5cba61d4",
+    "DOI": "10.1021/acs.inorgchem.5b00561",
+    "DOIs": [
+      "10.1021/acs.inorgchem.5b00561"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MAF-49",
+    "hashkey": "NIST-MATDB-0276792e899405c02486701d603b7144",
+    "DOI": "10.1038/ncomms9697",
+    "DOIs": [
+      "10.1038/ncomms9697"
+    ],
+    "Temperatures": [
+      316
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "SDU-1",
+    "hashkey": "NIST-MATDB-02fa0a686d30d0daa41b039b888c529d",
+    "DOI": "10.1021/Ic5017092",
+    "DOIs": [
+      "10.1021/Ic5017092",
+      "10.1039/C3nj00700f"
+    ],
+    "Temperatures": [
+      273,
+      293,
+      295
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "SDU-8",
+    "hashkey": "NIST-MATDB-03645c4b39bf449dbc22ac8d02c59f8b",
+    "DOI": "10.1021/Ic3015207",
+    "DOIs": [
+      "10.1021/Ic3015207"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Sc2(O2CC6H4CO2)3",
+    "hashkey": "NIST-MATDB-037ff1609709c4b70a21b7d9134c22bc",
+    "DOI": "10.1021/La803788u",
+    "DOIs": [
+      "10.1021/La803788u"
+    ],
+    "Temperatures": [
+      304
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Co14-MOF-74",
+    "hashkey": "NIST-MATDB-03a2cf256d5249e805e75781cdf72a57",
+    "DOI": "10.1016/j.electacta.2013.10.190",
+    "DOIs": [
+      "10.1016/j.electacta.2013.10.190",
+      "10.1016/j.ijhydene.2011.05.187"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UPC-15",
+    "hashkey": "NIST-MATDB-03f9473057f5626f6df1c44e73eee0ef",
+    "DOI": "10.1002/asia.201500234",
+    "DOIs": [
+      "10.1002/asia.201500234"
+    ],
+    "Temperatures": [
+      273,
+      295
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "CPM-13",
+    "hashkey": "NIST-MATDB-04257d6a2f07a1a354e4eb4dc4c47986",
+    "DOI": "10.1002/anie.201101957",
+    "DOIs": [
+      "10.1002/anie.201101957"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[H3O][In(btec)]*0.8H2O",
+    "hashkey": "NIST-MATDB-0461171b076b7338f3c8a5908aa5ac11",
+    "DOI": "10.1039/C1dt10683j",
+    "DOIs": [
+      "10.1039/C1dt10683j"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "opt-UiO-66(Zr)-(OH)2",
+    "hashkey": "NIST-MATDB-04952328cf3644b315eaf3f178d01e30",
+    "DOI": "10.1002/aic.15837",
+    "DOIs": [
+      "10.1002/aic.15837"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "NOTT-102a",
+    "hashkey": "NIST-MATDB-057c4e880a99e188b6631fbf7739748b",
+    "DOI": "10.1039/C3ee41166d",
+    "DOIs": [
+      "10.1039/C3ee41166d"
+    ],
+    "Temperatures": [
+      300
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MIL-53-TDC",
+    "hashkey": "NIST-MATDB-0660171cf8b850580851526a5bb7e0a0",
+    "DOI": "10.1007/s10450-020-00282-9",
+    "DOIs": [
+      "10.1007/s10450-020-00282-9"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MOF-1C'",
+    "hashkey": "NIST-MATDB-07af26bd81573554d0dfd228787e3e50",
+    "DOI": "10.1016/j.micromeso.2010.10.048",
+    "DOIs": [
+      "10.1016/j.micromeso.2010.10.048"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Cu2(obb)2(bpy)0.5(DMF)]*2DMF",
+    "hashkey": "NIST-MATDB-07d78240c661ad1bae52f1a6f30cdb54",
+    "DOI": "10.1021/Ic300778m",
+    "DOIs": [
+      "10.1021/Ic300778m"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "FIR-2-ht",
+    "hashkey": "NIST-MATDB-08b430465997e5387cbbba0576f38f1f",
+    "DOI": "10.1021/Cg3001009",
+    "DOIs": [
+      "10.1021/Cg3001009"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "ZJNU-47a",
+    "hashkey": "NIST-MATDB-08faa42ac9a9895edc206b09e9805342",
+    "DOI": "10.1039/c5dt02089a",
+    "DOIs": [
+      "10.1039/c5dt02089a"
+    ],
+    "Temperatures": [
+      273,
+      296
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Zn(Im)1.25(5-ClbIM)0.75",
+    "hashkey": "NIST-MATDB-09de4ab275dd446651a68a5312b87ab0",
+    "DOI": "10.1016/j.micromeso.2011.12.009",
+    "DOIs": [
+      "10.1016/j.micromeso.2011.12.009"
+    ],
+    "Temperatures": [
+      303
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "C48H34N18O12S2Zn5",
+    "hashkey": "NIST-MATDB-0a92892de06530653b3845386ee15674",
+    "DOI": "10.1021/Ic1010083",
+    "DOIs": [
+      "10.1021/Ic1010083"
+    ],
+    "Temperatures": [
+      273,
+      295
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "NTU-101-Cu",
+    "hashkey": "NIST-MATDB-0bf9931619df1977d135278f76734952",
+    "DOI": "10.1039/c2cc34921c",
+    "DOIs": [
+      "10.1039/c2cc34921c"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Cu(PF6)2(bpp)2]n PCP",
+    "hashkey": "NIST-MATDB-0e7c094b235c1abb777c8519c6ab4ba9",
+    "DOI": "10.1002/cplu.201500278",
+    "DOIs": [
+      "10.1002/cplu.201500278"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "COMOC-2(V^IV)",
+    "hashkey": "NIST-MATDB-0eadb297ec36d2f38b7b50f131f4b745",
+    "DOI": "10.1021/Ic301338a",
+    "DOIs": [
+      "10.1021/Ic301338a"
+    ],
+    "Temperatures": [
+      303
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UTSA-25A",
+    "hashkey": "NIST-MATDB-0ef03e911f4cd3d3e376e3f54b728a44",
+    "DOI": "10.1002/ejic.201100034",
+    "DOIs": [
+      "10.1002/ejic.201100034",
+      "10.1038/Ncomms1956"
+    ],
+    "Temperatures": [
+      273,
+      296
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "C62H50Cd3K2N2O26",
+    "hashkey": "NIST-MATDB-0f23e9138eb186545d5877788ca80f1b",
+    "DOI": "10.1039/C3ce26788a",
+    "DOIs": [
+      "10.1039/C3ce26788a",
+      "10.1039/c3ce26788a"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UiO-66-NO2-(OH)2",
+    "hashkey": "NIST-MATDB-0fb9cd90a3c285e3e9bd8d5ec4aa1e84",
+    "DOI": "10.1021/acs.iecr.5b04061",
+    "DOIs": [
+      "10.1021/acs.iecr.5b04061"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "(Me2NH2)2(DMF)9(H2O)5",
+    "hashkey": "NIST-MATDB-0fc6fe0e88747d6206743f79868a947c",
+    "DOI": "10.1021/Ic302583a",
+    "DOIs": [
+      "10.1021/Ic302583a"
+    ],
+    "Temperatures": [
+      273,
+      285,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Y-ftw-MOF-2",
+    "hashkey": "NIST-MATDB-0fda178e19926b1dd1cb87d13b6c9b8f",
+    "DOI": "10.1039/c5sc00614g",
+    "DOIs": [
+      "10.1039/c5sc00614g"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[(CH3)2NH2]2[Eu3+(μ3-OH)8(1,4-NDC)6(H2O)6]*(solv)x",
+    "hashkey": "NIST-MATDB-10188bc34b1d9326db77929d959958ad",
+    "DOI": "10.1021/ja5131403",
+    "DOIs": [
+      "10.1021/ja5131403"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Pd(2-pymo)2",
+    "hashkey": "NIST-MATDB-1160f796e3757da168da2a16cf578ce9",
+    "DOI": "10.1007/s10934-015-0060-4",
+    "DOIs": [
+      "10.1007/s10934-015-0060-4",
+      "10.1021/Jz3008485"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "NJU-Bai12",
+    "hashkey": "NIST-MATDB-12b0f5d8ac54f1f4864b9e37d09149b5",
+    "DOI": "10.1021/Ic301598n",
+    "DOIs": [
+      "10.1021/Ic301598n",
+      "10.1021/acs.jpcc.7b08370"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "FMOF-2",
+    "hashkey": "NIST-MATDB-12f0e59f182a26494316933fff0304e2",
+    "DOI": "10.1002/cphc.201200243",
+    "DOIs": [
+      "10.1002/cphc.201200243",
+      "10.1021/Cg9014948"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MOF-200",
+    "hashkey": "NIST-MATDB-139fa76b34e8599641ff3814365cf4b4",
+    "DOI": "10.1016/j.fluid.2014.08.020",
+    "DOIs": [
+      "10.1016/j.fluid.2014.08.020",
+      "10.1016/j.ijhydene.2014.07.028",
+      "10.1016/j.micromeso.2013.08.048",
+      "10.1021/Jp209541e",
+      "10.1039/C1cc11618e",
+      "10.1126/science.1192160"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "DUT-8(Co)",
+    "hashkey": "NIST-MATDB-13ac8c4710a7b77300744bc8d719e82a",
+    "DOI": "10.1039/C2jm15601f",
+    "DOIs": [
+      "10.1039/C2jm15601f"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Zn5(mu3-OH)4L2]*7H2O*DMF",
+    "hashkey": "NIST-MATDB-1450bfb9be2f8a636dbc39b070895447",
+    "DOI": "10.1039/C2cc36713k",
+    "DOIs": [
+      "10.1039/C2cc36713k"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Yb(BPT)(H2O)*(DMF)1.5(H2O)1.25",
+    "hashkey": "NIST-MATDB-1463164fd412775c8f1cd0ae9fdd734c",
+    "DOI": "10.1039/C1cc10897b",
+    "DOIs": [
+      "10.1039/C1cc10897b"
+    ],
+    "Temperatures": [
+      296
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UTSA-61a",
+    "hashkey": "NIST-MATDB-1486234dc0e4c1f6b29297b372062cbe",
+    "DOI": "10.1039/C3ce41062e",
+    "DOIs": [
+      "10.1039/C3ce41062e"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UTSA-36a",
+    "hashkey": "NIST-MATDB-148bf92e876591b367272f179fd6810e",
+    "DOI": "10.1002/chem.201100350",
+    "DOIs": [
+      "10.1002/chem.201100350"
+    ],
+    "Temperatures": [
+      273,
+      296
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UPC-16",
+    "hashkey": "NIST-MATDB-14f3ffc3d84e59e4b3bf32cb031ca550",
+    "DOI": "10.1002/asia.201500234",
+    "DOIs": [
+      "10.1002/asia.201500234"
+    ],
+    "Temperatures": [
+      273,
+      295
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "{Ag3[Ag5(mu3-3,5-Ph2tz)6](NO3)2}n",
+    "hashkey": "NIST-MATDB-157d2c3d9f1568cf1e25b51ade68fffd",
+    "DOI": "10.1016/j.micromeso.2013.09.006",
+    "DOIs": [
+      "10.1016/j.micromeso.2013.09.006"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Tb-fum-fcu-MOF",
+    "hashkey": "NIST-MATDB-16d2ea75949f753ebc0daffccae0ed52",
+    "DOI": "10.1002/anie.201506345",
+    "DOIs": [
+      "10.1002/anie.201506345"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": [
+      "Tb-fum-fcu MOF"
+    ]
+  },
+  {
+    "name": "CALF-33-Et2H",
+    "hashkey": "NIST-MATDB-17e986fe8ea1a230743d2b001556dc67",
+    "DOI": "10.1002/anie.201607745",
+    "DOIs": [
+      "10.1002/anie.201607745"
+    ],
+    "Temperatures": [
+      293
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MIL-100(Cr), activated at 150C",
+    "hashkey": "NIST-MATDB-1828349e1f83f7d61cc57a976e0cbd28",
+    "DOI": "10.1021/acs.jced.9b00770",
+    "DOIs": [
+      "10.1021/acs.jced.9b00770"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UiO-66(Zr)-(COOH)2 (473K)",
+    "hashkey": "NIST-MATDB-184cb6ae0f79e0eb5a697b2cb877b943",
+    "DOI": "10.1039/c4ta03992k",
+    "DOIs": [
+      "10.1039/c4ta03992k"
+    ],
+    "Temperatures": [
+      303
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "TbL",
+    "hashkey": "NIST-MATDB-1912fa97c73af69dfe5371cbe82e983a",
+    "DOI": "10.1039/c5ta00720h",
+    "DOIs": [
+      "10.1039/c5ta00720h"
+    ],
+    "Temperatures": [
+      293
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "C43.7H10Mn2N6O8",
+    "hashkey": "NIST-MATDB-19c69bb8a592464ef0f7ffe8b79d7238",
+    "DOI": "10.1039/C1cc12278a",
+    "DOIs": [
+      "10.1039/C1cc12278a"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "tbo-MOF-2",
+    "hashkey": "NIST-MATDB-19f0b99c8dbe789defa47a66736fe641",
+    "DOI": "10.1039/C4ra12432d",
+    "DOIs": [
+      "10.1039/C4ra12432d"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MOF-1",
+    "hashkey": "NIST-MATDB-1aa4de6e9b58cd21cd479010283694b5",
+    "DOI": "10.1002/chem.201405194",
+    "DOIs": [
+      "10.1002/chem.201405194",
+      "10.1021/Cg900797y",
+      "10.5012/bkcs.2011.32.8.2705"
+    ],
+    "Temperatures": [
+      273,
+      296,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "NH2-MIL-53(Al)",
+    "hashkey": "NIST-MATDB-1b5c20248717ca46ef341e3c5f2c1f30",
+    "DOI": "10.1002/adfm.201200084",
+    "DOIs": [
+      "10.1002/adfm.201200084",
+      "10.1002/ceat.201400741",
+      "10.1002/cplu.201100021",
+      "10.1002/cssc.201100378",
+      "10.1002/pi.4955",
+      "10.1016/j.ces.2014.10.028",
+      "10.1021/Cg100646e",
+      "10.1021/Ic201219g",
+      "10.1021/Ie3004336",
+      "10.1021/Jp104788p",
+      "10.1021/La1045207",
+      "10.1021/La302824j",
+      "10.1039/C1cc13431k",
+      "10.1039/C2jm15966j",
+      "10.1039/C3cp55416c",
+      "10.1039/C3cy00268c",
+      "10.1039/C4ra07030e",
+      "10.1039/c4gc01861c"
+    ],
+    "Temperatures": [
+      273,
+      283,
+      298,
+      303
+    ],
+    "synonyms": [
+      "Al-MIL-53-NH2",
+      "MIL-53(Al)-NH2",
+      "NH2MIL-53(Al)"
+    ]
+  },
+  {
+    "name": "NU-125-F1",
+    "hashkey": "NIST-MATDB-1b640cdaf885a25b91b8daa3c3416e79",
+    "DOI": "10.1021/Ic500722n",
+    "DOIs": [
+      "10.1021/Ic500722n"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "NU-135",
+    "hashkey": "NIST-MATDB-1b95fcd71d4ffac273b7f59c717efe16",
+    "DOI": "10.1021/Cm4020942",
+    "DOIs": [
+      "10.1021/Cm4020942"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "C26H8Cu2N2O12",
+    "hashkey": "NIST-MATDB-1c8c5285a706062eabfdae03e3a3e79c",
+    "DOI": "10.1002/chem.201002135",
+    "DOIs": [
+      "10.1002/chem.201002135"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "ZnBuBPDC",
+    "hashkey": "NIST-MATDB-1ce14eb3e9cae7c5664342ced717c6d0",
+    "DOI": "10.1016/j.micromeso.2014.03.022",
+    "DOIs": [
+      "10.1016/j.micromeso.2014.03.022"
+    ],
+    "Temperatures": [
+      273,
+      293,
+      313
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Co21-MOF-5",
+    "hashkey": "NIST-MATDB-1d7283de5a7f43b960a5dd98d52ee542",
+    "DOI": "10.1016/j.electacta.2013.10.190",
+    "DOIs": [
+      "10.1016/j.electacta.2013.10.190",
+      "10.1016/j.ijhydene.2011.05.187"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "SNU-30'",
+    "hashkey": "NIST-MATDB-1dee7f17d4304cd2f5c200de12a5335f",
+    "DOI": "10.1002/chem.201001549",
+    "DOIs": [
+      "10.1002/chem.201001549"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "(NH2(CH3)2)3[Zn6(BTC)4(BTB)]",
+    "hashkey": "NIST-MATDB-1e1291030fcd194b53599b4d457548d1",
+    "DOI": "10.1039/C3ce40929e",
+    "DOIs": [
+      "10.1039/C3ce40929e"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Fe2(dobdc)",
+    "hashkey": "NIST-MATDB-1e93bd0672ca0c9d104d64b9ac6b00a2",
+    "DOI": "10.1002/adma.201500966",
+    "DOIs": [
+      "10.1002/adma.201500966",
+      "10.1016/j.jssc.2014.03.005",
+      "10.1021/Ja205976v",
+      "10.1021/ja5132243",
+      "10.1126/science.1217544"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Co2(ndc)2(bpy)]",
+    "hashkey": "NIST-MATDB-1f9d4e4fac6d97c9f29f5f996ab9f08d",
+    "DOI": "10.1039/c5sc01796c",
+    "DOIs": [
+      "10.1039/c5sc01796c"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[{Fe(NCS)2}3(TPB)4]",
+    "hashkey": "NIST-MATDB-20217f6d91ed12adf5a0f7ff7c0356ce",
+    "DOI": "10.1039/C3cc45180a",
+    "DOIs": [
+      "10.1039/C3cc45180a"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Ni-PTC",
+    "hashkey": "NIST-MATDB-208b146cc6b69203bfb3949d6fa87837",
+    "DOI": "10.1021/Cm301726k",
+    "DOIs": [
+      "10.1021/Cm301726k"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "CAU-10-5-CH3",
+    "hashkey": "NIST-MATDB-22ea25f5cb6fefcb6c24f3af0c435847",
+    "DOI": "10.1007/s10450-020-00282-9",
+    "DOIs": [
+      "10.1007/s10450-020-00282-9"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "DUT-49",
+    "hashkey": "NIST-MATDB-2490ce0762cb0c4ad3c4cd37cf38b46f",
+    "DOI": "10.1039/C2cc34840c",
+    "DOIs": [
+      "10.1039/C2cc34840c"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Cd2(sdb)2(4-bpmh)2(H2O)]n.2n(H2O)",
+    "hashkey": "NIST-MATDB-24eefc1403ea4f1e8c7e449cc9a93ddc",
+    "DOI": "10.1039/c5dt01976a",
+    "DOIs": [
+      "10.1039/c5dt01976a"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Zn4O (rho=300kg/m^3)",
+    "hashkey": "NIST-MATDB-25d294b7f85566e0a4522bc95245bbf8",
+    "DOI": "10.1007/s10450-014-9620-1",
+    "DOIs": [
+      "10.1007/s10450-014-9620-1"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MAF-66",
+    "hashkey": "NIST-MATDB-25deda5c080d86d236a09c056561d3ff",
+    "DOI": "10.1021/ic301463z",
+    "DOIs": [
+      "10.1021/ic301463z"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "SNU-110'",
+    "hashkey": "NIST-MATDB-26ee3aefd50411b7c51dc126cd95d6bb",
+    "DOI": "10.1039/C2cc34482c",
+    "DOIs": [
+      "10.1039/C2cc34482c"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "ZIF-90",
+    "hashkey": "NIST-MATDB-2763522c83e36ba039e14eb02f327879",
+    "DOI": "10.1016/j.micromeso.2012.11.003",
+    "DOIs": [
+      "10.1016/j.micromeso.2012.11.003",
+      "10.1016/j.seppur.2019.115850",
+      "10.1021/Ja805222x",
+      "10.1021/acs.jpcc.7b02602",
+      "10.1021/acssuschemeng.7b02604",
+      "10.1021/ja513058h",
+      "10.1021/jp304631m"
+    ],
+    "Temperatures": [
+      298,
+      303,
+      323
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "{Ag3[Ag5(mu3-3,5-tBu2tz)6](BF4)2}n",
+    "hashkey": "NIST-MATDB-279c9ad5012a5473728672cd454133fb",
+    "DOI": "10.1016/j.micromeso.2013.09.006",
+    "DOIs": [
+      "10.1016/j.micromeso.2013.09.006"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Fe3(O)(pmc)5.3(O2CH)0.7]*DMF",
+    "hashkey": "NIST-MATDB-295d332cc2c95e4c5cb85cbc71619b4d",
+    "DOI": "10.1016/j.micromeso.2011.09.017",
+    "DOIs": [
+      "10.1016/j.micromeso.2011.09.017"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Y-fum-fcu-MOF",
+    "hashkey": "NIST-MATDB-29da3034f56a3f314e86df224086cae2",
+    "DOI": "10.1002/anie.201506345",
+    "DOIs": [
+      "10.1002/anie.201506345"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": [
+      "Y-fum-fcu MOF"
+    ]
+  },
+  {
+    "name": "Desolvated C12H13CuN5O6",
+    "hashkey": "NIST-MATDB-2a4b7a481832eb193875f79401b4669d",
+    "DOI": "10.1021/Ic1017467",
+    "DOIs": [
+      "10.1021/Ic1017467"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MOF-2",
+    "hashkey": "NIST-MATDB-2a55d7fddaa59cb289e94c60012b7c80",
+    "DOI": "10.1002/Aic.12744",
+    "DOIs": [
+      "10.1002/Aic.12744",
+      "10.1002/chem.201405194",
+      "10.1007/s10934-014-9823-6",
+      "10.1021/Cg900797y",
+      "10.1021/Ja0570032",
+      "10.1021/Jp050948l",
+      "10.1021/Jp051771y",
+      "10.1021/Jp910522h"
+    ],
+    "Temperatures": [
+      296
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MOF-1M'-Li",
+    "hashkey": "NIST-MATDB-2af8e8ffa63fe22e424cc773bf4c5ba4",
+    "DOI": "10.1016/j.micromeso.2010.10.048",
+    "DOIs": [
+      "10.1016/j.micromeso.2010.10.048"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "SDU-7",
+    "hashkey": "NIST-MATDB-2be8da142933090d1f2b6bc5e697086f",
+    "DOI": "10.1021/Ic3015207",
+    "DOIs": [
+      "10.1021/Ic3015207"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "IRMOF-1",
+    "hashkey": "NIST-MATDB-2c9380bddc59f547484ff729eab7d7cb",
+    "DOI": "10.1002/Aic.14467",
+    "DOIs": [
+      "10.1002/Aic.14467",
+      "10.1002/Cjce.20700",
+      "10.1002/adfm.200500561",
+      "10.1002/adma.200400946",
+      "10.1002/adma.200901581",
+      "10.1002/adma.202201502",
+      "10.1002/aic.14877",
+      "10.1002/anie.200502553",
+      "10.1002/anie.200700218",
+      "10.1002/chem.201001700",
+      "10.1002/cphc.201300225",
+      "10.1002/ejic.201201009",
+      "10.1002/ejic.201201312",
+      "10.1007/s00894-010-0720-x",
+      "10.1007/s10450-010-9267-5",
+      "10.1007/s10450-010-9305-3",
+      "10.1007/s10562-012-0767-7",
+      "10.1007/s10934-007-9178-3",
+      "10.1007/s10934-009-9268-5",
+      "10.1007/s10934-015-0060-4",
+      "10.1007/s10934-015-9997-6",
+      "10.1007/s11090-011-9290-7",
+      "10.1007/s11426-008-0079-3",
+      "10.1007/s40195-013-0105-0",
+      "10.1016/S2095-4956(14)60171-6",
+      "10.1016/j.apt.2011.07.002",
+      "10.1016/j.carbon.2010.04.025",
+      "10.1016/j.cattod.2006.09.029",
+      "10.1016/j.cej.2009.10.067",
+      "10.1016/j.chemphys.2008.03.034",
+      "10.1016/j.cpc.2015.11.016",
+      "10.1016/j.electacta.2013.10.190",
+      "10.1016/j.enconman.2009.01.014",
+      "10.1016/j.fluid.2007.07.042",
+      "10.1016/j.fluid.2013.11.029",
+      "10.1016/j.fluid.2014.08.020",
+      "10.1016/j.ijhydene.2008.11.048",
+      "10.1016/j.ijhydene.2009.10.001",
+      "10.1016/j.ijhydene.2010.04.066",
+      "10.1016/j.ijhydene.2011.01.037",
+      "10.1016/j.ijhydene.2011.03.002",
+      "10.1016/j.ijhydene.2011.03.038",
+      "10.1016/j.ijhydene.2011.05.187",
+      "10.1016/j.ijhydene.2011.11.023",
+      "10.1016/j.ijhydene.2011.12.125",
+      "10.1016/j.ijhydene.2011.12.163",
+      "10.1016/j.ijhydene.2012.01.122",
+      "10.1016/j.ijhydene.2013.03.044",
+      "10.1016/j.ijhydene.2014.07.028",
+      "10.1016/j.ijhydene.2015.05.097",
+      "10.1016/j.inoche.2014.06.003",
+      "10.1016/j.jallcom.2004.11.109",
+      "10.1016/j.jallcom.2009.11.203",
+      "10.1016/j.jcis.2010.04.078",
+      "10.1016/j.jhazmat.2010.11.019",
+      "10.1016/j.matlet.2011.04.099",
+      "10.1016/j.memsci.2012.10.058",
+      "10.1016/j.micromeso.2008.04.033",
+      "10.1016/j.micromeso.2008.08.054",
+      "10.1016/j.micromeso.2010.02.023",
+      "10.1016/j.micromeso.2010.07.007",
+      "10.1016/j.micromeso.2010.07.018",
+      "10.1016/j.micromeso.2012.07.011",
+      "10.1016/j.micromeso.2012.09.002",
+      "10.1016/j.micromeso.2012.11.013",
+      "10.1016/j.micromeso.2012.12.035",
+      "10.1016/j.micromeso.2013.11.015",
+      "10.1016/j.micromeso.2014.09.025",
+      "10.1016/j.molliq.2015.02.009",
+      "10.1016/j.powtec.2013.07.034",
+      "10.1016/j.seppur.2008.10.022",
+      "10.1016/j.seppur.2012.04.032",
+      "10.1016/j.seppur.2013.04.033",
+      "10.1016/j.seppur.2014.08.021",
+      "10.1016/j.seppur.2018.01.013",
+      "10.1016/j.snb.2014.05.051",
+      "10.1016/j.susc.2008.10.054",
+      "10.1016/j.talanta.2015.02.032",
+      "10.1016/j.tca.2014.04.016",
+      "10.1021/Am3013104",
+      "10.1021/Cg070640e",
+      "10.1021/Cg101130m",
+      "10.1021/Cg201136k",
+      "10.1021/Cm101943e",
+      "10.1021/Cm202554j",
+      "10.1021/Cm502399q",
+      "10.1021/Cm803502y",
+      "10.1021/Ct400549q",
+      "10.1021/Ef3020662",
+      "10.1021/Es9032309",
+      "10.1021/Ic3002898",
+      "10.1021/Ie202777q",
+      "10.1021/Ie300553k",
+      "10.1021/Ie8005269",
+      "10.1021/Ie801294n",
+      "10.1021/Ie900665f",
+      "10.1021/Ie901000x",
+      "10.1021/Ja0542690",
+      "10.1021/Ja056639q",
+      "10.1021/Ja0570032",
+      "10.1021/Ja0752336",
+      "10.1021/Ja076595g",
+      "10.1021/Ja105089w",
+      "10.1021/Ja204818q",
+      "10.1021/Ja509960n",
+      "10.1021/Ja8007159",
+      "10.1021/Ja8099079",
+      "10.1021/Ja9036302",
+      "10.1021/Ja904782h",
+      "10.1021/Je9000087",
+      "10.1021/Jp050948l",
+      "10.1021/Jp051771y",
+      "10.1021/Jp051903n",
+      "10.1021/Jp0563538",
+      "10.1021/Jp062723w",
+      "10.1021/Jp0713918",
+      "10.1021/Jp074889i",
+      "10.1021/Jp076657p",
+      "10.1021/Jp104788p",
+      "10.1021/Jp105899t",
+      "10.1021/Jp108715q",
+      "10.1021/Jp203607s",
+      "10.1021/Jp211563e",
+      "10.1021/Jp303274m",
+      "10.1021/Jp305524f",
+      "10.1021/Jp307319u",
+      "10.1021/Jp3108182",
+      "10.1021/Jp4053538",
+      "10.1021/Jp405857p",
+      "10.1021/Jp800981f",
+      "10.1021/Jp809539w",
+      "10.1021/Jp901988e",
+      "10.1021/Jp904872f",
+      "10.1021/Jp9063017",
+      "10.1021/Jp908978q",
+      "10.1021/Jp910522h",
+      "10.1021/Jp911043r",
+      "10.1021/Jz3008485",
+      "10.1021/La0355500",
+      "10.1021/La061149c",
+      "10.1021/La100423a",
+      "10.1021/La102831e",
+      "10.1021/La401446s",
+      "10.1021/La800369s",
+      "10.1021/La803074g",
+      "10.1021/La803666t",
+      "10.1021/Om100703c",
+      "10.1021/acs.jctc.5b00093",
+      "10.1021/acs.jpcc.7b04213",
+      "10.1021/acs.langmuir.5b00833",
+      "10.1021/am506793b",
+      "10.1021/ar500272n",
+      "10.1021/jp307865n",
+      "10.1021/jp4104273",
+      "10.1021/jp809539w",
+      "10.1038/Nchem.1192",
+      "10.1038/Nchem.1432",
+      "10.1038/srep12045",
+      "10.1039/B706432b",
+      "10.1039/B804343d",
+      "10.1039/B908862h",
+      "10.1039/C0ee00700e",
+      "10.1039/C0jm02891f",
+      "10.1039/C1cc11054c",
+      "10.1039/C1cc11832c",
+      "10.1039/C2cc38366g",
+      "10.1039/C3ce40653a",
+      "10.1039/C3cp50774b",
+      "10.1039/C3cp51768c",
+      "10.1039/b807470d",
+      "10.1063/1.3655373",
+      "10.1063/1.4712025",
+      "10.1063/1.4726255",
+      "10.1063/1.4892670",
+      "10.1080/08927020802609447",
+      "10.1080/08927022.2011.561432",
+      "10.1080/08927022.2016.1262036",
+      "10.1103/Physrevb.77.224301",
+      "10.1126/science.1083440",
+      "10.1126/science.1192160",
+      "10.1134/S1070427213090126",
+      "10.1260/0263-6174.28.8-9.823",
+      "10.3390/Polym3042133",
+      "10.3866/PKU.WHXB20110319"
+    ],
+    "Temperatures": [
+      273,
+      297,
+      298,
+      300
+    ],
+    "synonyms": [
+      "MOF-5"
+    ]
+  },
+  {
+    "name": "UTSA-57a",
+    "hashkey": "NIST-MATDB-2d25531dab4bccac4af1b6e13fe962fd",
+    "DOI": "10.1021/ic502116k",
+    "DOIs": [
+      "10.1021/ic502116k"
+    ],
+    "Temperatures": [
+      273,
+      296
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "InOF-1",
+    "hashkey": "NIST-MATDB-2d7803c22e5b5c29bef8c131c015ff67",
+    "DOI": "10.1039/C2cc35068h",
+    "DOIs": [
+      "10.1039/C2cc35068h"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Ni-MOF-74 (2)",
+    "hashkey": "NIST-MATDB-2d9160505b3f649ff3c6a4c594f5fec1",
+    "DOI": "10.1016/j.micromeso.2013.06.023",
+    "DOIs": [
+      "10.1016/j.micromeso.2013.06.023"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Cd (II)-MOF [Cd(L)(DMF)]",
+    "hashkey": "NIST-MATDB-2df53cb5b49803b76e21603aaac024e5",
+    "DOI": "10.1039/C4dt00230j",
+    "DOIs": [
+      "10.1039/C4dt00230j"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MOF-210",
+    "hashkey": "NIST-MATDB-30cd18fdfeb9951585bf327f31556422",
+    "DOI": "10.1016/j.fluid.2014.08.020",
+    "DOIs": [
+      "10.1016/j.fluid.2014.08.020",
+      "10.1016/j.ijhydene.2014.07.028",
+      "10.1016/j.micromeso.2013.08.048",
+      "10.1039/C2ee22769j",
+      "10.1126/science.1192160"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Co3(ndc)-(HCOO)3(mu3-OH)(H2O)]n",
+    "hashkey": "NIST-MATDB-30dd74c9be4b046c2076cd94dec7e267",
+    "DOI": "10.1002/chem.201103687",
+    "DOIs": [
+      "10.1002/chem.201103687"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "activated [NC2H8]4Cu5(BTT)3xG",
+    "hashkey": "NIST-MATDB-30ef3a157ea0a8d3bc2babe8930eccb6",
+    "DOI": "10.1039/c4cc10002f",
+    "DOIs": [
+      "10.1039/c4cc10002f"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "NJU-Bai9",
+    "hashkey": "NIST-MATDB-30f48b3c242f6fab73802980177ac288",
+    "DOI": "10.1002/anie.201302715",
+    "DOIs": [
+      "10.1002/anie.201302715"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "C50H22Cu3O15",
+    "hashkey": "NIST-MATDB-3225e6e13cd2934089cb853b7066a511",
+    "DOI": "10.1002/cplu.201500104",
+    "DOIs": [
+      "10.1002/cplu.201500104"
+    ],
+    "Temperatures": [
+      273,
+      293
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Zn(Im)1.05(5-NibIM)0.95",
+    "hashkey": "NIST-MATDB-323d92d82fd0722bc64d74fcf633d649",
+    "DOI": "10.1016/j.micromeso.2011.12.009",
+    "DOIs": [
+      "10.1016/j.micromeso.2011.12.009"
+    ],
+    "Temperatures": [
+      303
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Co100-MOF-74",
+    "hashkey": "NIST-MATDB-3247c3c76281c1cd22f3988b75d9d132",
+    "DOI": "10.1002/App.41633",
+    "DOIs": [
+      "10.1002/App.41633",
+      "10.1016/j.electacta.2013.10.190",
+      "10.1016/j.ijhydene.2011.05.187"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Zn2(bdc)2(bphy)]",
+    "hashkey": "NIST-MATDB-331eabacef6b034e4aab0683948a4798",
+    "DOI": "10.1039/C1dt10682a",
+    "DOIs": [
+      "10.1039/C1dt10682a"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "NOTT-100a",
+    "hashkey": "NIST-MATDB-3415c26502524b0f564a94e60f82369d",
+    "DOI": "10.1039/C3ee41166d",
+    "DOIs": [
+      "10.1039/C3ee41166d"
+    ],
+    "Temperatures": [
+      300
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Cu3(NH2btc)2",
+    "hashkey": "NIST-MATDB-342fc1d93ed53875ada158f7c632a025",
+    "DOI": "10.1039/C2cc36220a",
+    "DOIs": [
+      "10.1039/C2cc36220a"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "NKMOF-8-Br",
+    "hashkey": "NIST-MATDB-34c0cfc36c169b1b80b597bcd3df774c",
+    "DOI": "10.1021/acs.jced.1c00787",
+    "DOIs": [
+      "10.1021/acs.jced.1c00787"
+    ],
+    "Temperatures": [
+      273,
+      298,
+      323
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MIL-100V before O2 binding",
+    "hashkey": "NIST-MATDB-350037ea824787dfc1e7b3ff59f2a082",
+    "DOI": "10.1016/j.jcis.2015.06.036",
+    "DOIs": [
+      "10.1016/j.jcis.2015.06.036"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "WV-1050",
+    "hashkey": "NIST-MATDB-35609bd6d3323afd4f16231afa50faaa",
+    "DOI": "10.1007/s10450-021-00330-y",
+    "DOIs": [
+      "10.1007/s10450-021-00330-y"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Amino-MIL-53(Al)",
+    "hashkey": "NIST-MATDB-3589fd4b77aac447a6a6c0f6f7cc67ab",
+    "DOI": "10.1007/s10450-013-9564-x",
+    "DOIs": [
+      "10.1007/s10450-013-9564-x",
+      "10.1016/j.fuel.2012.06.016"
+    ],
+    "Temperatures": [
+      303,
+      318
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "ZIF-70",
+    "hashkey": "NIST-MATDB-360f2ab072a135afc123f12de4ac3cae",
+    "DOI": "10.1007/s10934-015-0060-4",
+    "DOIs": [
+      "10.1007/s10934-015-0060-4",
+      "10.1021/Ja809459e",
+      "10.1021/Jp103785u",
+      "10.1021/Jp200321y",
+      "10.1021/Jp303790r",
+      "10.1021/Jp3108182",
+      "10.1021/Jp903735m",
+      "10.1021/ar500272n",
+      "10.1039/c6cp06036f"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "DUT-8(Cu)",
+    "hashkey": "NIST-MATDB-3639a8e3da1f86dc5f47a55442c9ae77",
+    "DOI": "10.1039/C2jm15601f",
+    "DOIs": [
+      "10.1039/C2jm15601f"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UiO-66(Zr)-(COOH)2 (303K)",
+    "hashkey": "NIST-MATDB-3684f463bca23b3e8fbf68c3a5d4537b",
+    "DOI": "10.1039/c4ta03992k",
+    "DOIs": [
+      "10.1039/c4ta03992k"
+    ],
+    "Temperatures": [
+      303
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "CPM-6",
+    "hashkey": "NIST-MATDB-373a3bef6faa5fa7a5f18c0a9f447ee3",
+    "DOI": "10.1021/Ja106903p",
+    "DOIs": [
+      "10.1021/Ja106903p"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "WV1050",
+    "hashkey": "NIST-MATDB-379eabf2c0360c5c1d4a172186cf72a9",
+    "DOI": "10.1007/s10450-014-9639-3",
+    "DOIs": [
+      "10.1007/s10450-014-9639-3",
+      "10.1016/j.indcrop.2017.08.017"
+    ],
+    "Temperatures": [
+      293
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[NH2(CH3)2][Zn3(BTA)(BTC)2(H2O)]*4DMAC*3H2O",
+    "hashkey": "NIST-MATDB-39aefd2a7e1a916cd7aeaa87941cecb4",
+    "DOI": "10.1039/C2ta00635a",
+    "DOIs": [
+      "10.1039/C2ta00635a"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Al-soc-MOF-1",
+    "hashkey": "NIST-MATDB-3a650ab57f585098f15b7607aeb8fdb6",
+    "DOI": "10.1021/jacs.5b07053",
+    "DOIs": [
+      "10.1021/jacs.5b07053"
+    ],
+    "Temperatures": [
+      273,
+      288,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Cu(INA)2]",
+    "hashkey": "NIST-MATDB-3aba04dfb7beff11d77046e5d6505bf8",
+    "DOI": "10.1016/j.jssc.2015.02.014",
+    "DOIs": [
+      "10.1016/j.jssc.2015.02.014",
+      "10.1039/c6ra12280a"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Cu-hfipbb",
+    "hashkey": "NIST-MATDB-3abfbea881f358c12f2ac195f20f6720",
+    "DOI": "10.1021/jp304631m",
+    "DOIs": [
+      "10.1021/jp304631m"
+    ],
+    "Temperatures": [
+      303,
+      323
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Zn4O(Me4BPDC)3]*9DMF",
+    "hashkey": "NIST-MATDB-3ae00f7847bd8acb18932beb43071c1e",
+    "DOI": "10.1016/j.crci.2012.09.001",
+    "DOIs": [
+      "10.1016/j.crci.2012.09.001"
+    ],
+    "Temperatures": [
+      273,
+      293
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "NU-111",
+    "hashkey": "NIST-MATDB-3af5f20d8e1a2365aba6693b255f8f68",
+    "DOI": "10.1016/j.energy.2015.08.096",
+    "DOIs": [
+      "10.1016/j.energy.2015.08.096",
+      "10.1021/Ja302623w",
+      "10.1021/Ja4045289",
+      "10.1039/C3cc40819a"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Cu-HKUST-1",
+    "hashkey": "NIST-MATDB-3b3e8d3742fee1969162f75b74614acc",
+    "DOI": "10.1021/acs.jpclett.5b00893",
+    "DOIs": [
+      "10.1021/acs.jpclett.5b00893"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "FJI-H5",
+    "hashkey": "NIST-MATDB-3c2e9a2c0d5574084052aa7f7e295242",
+    "DOI": "10.1039/C3cc48381a",
+    "DOIs": [
+      "10.1039/C3cc48381a"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "C75H129Cu3N11O37",
+    "hashkey": "NIST-MATDB-3d633fabbc0fca8705969ae33b77bb14",
+    "DOI": "10.1021/Ic300950h",
+    "DOIs": [
+      "10.1021/Ic300950h"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "NOTT-101",
+    "hashkey": "NIST-MATDB-3e23a7b6749879ee42f7de40eb1cb81d",
+    "DOI": "10.1002/Aic.12397",
+    "DOIs": [
+      "10.1002/Aic.12397",
+      "10.1002/aic.12397",
+      "10.1002/asia.201500509",
+      "10.1021/Ja806624j",
+      "10.1021/Jp501495f",
+      "10.1021/acs.jpcc.6b10751",
+      "10.1021/acs.jpcc.7b08370",
+      "10.1039/C4cc05833j"
+    ],
+    "Temperatures": [
+      273,
+      293,
+      296
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MIL-101V after O2 binding",
+    "hashkey": "NIST-MATDB-3f6300520948b20707f1c4915e564597",
+    "DOI": "10.1016/j.jcis.2015.06.036",
+    "DOIs": [
+      "10.1016/j.jcis.2015.06.036"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "H1/3[(Co^II13/2(BTB)4(OH)4/3(DMA)3]-2DMA-4H2O",
+    "hashkey": "NIST-MATDB-3fcb6a1791c5bc4d3c3626d33b997f2e",
+    "DOI": "10.1039/C2ra22118g",
+    "DOIs": [
+      "10.1039/C2ra22118g"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Ni3(HCOO)6",
+    "hashkey": "NIST-MATDB-400a54c211461c9c02e23f9d230011d2",
+    "DOI": "10.1016/j.cej.2017.06.141",
+    "DOIs": [
+      "10.1016/j.cej.2017.06.141",
+      "10.1016/j.micromeso.2016.01.030"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Cu-DABCO",
+    "hashkey": "NIST-MATDB-4092ca2b1dd76e307308821db726503b",
+    "DOI": "10.1016/j.micromeso.2012.10.025",
+    "DOIs": [
+      "10.1016/j.micromeso.2012.10.025",
+      "10.1016/j.micromeso.2014.09.038"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": [
+      "CuDABCO"
+    ]
+  },
+  {
+    "name": "[HDMA]2-[Zn2(BDC)3(DMA)2]*6DMF",
+    "hashkey": "NIST-MATDB-41bf998d76cba1c3f2b7a8ca599b8d04",
+    "DOI": "10.1039/C3dt32846e",
+    "DOIs": [
+      "10.1039/C3dt32846e"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Zr-2,6-NDC",
+    "hashkey": "NIST-MATDB-422f7adc5192d8c50c61d65cfb0367d1",
+    "DOI": "10.1021/acs.iecr.7b03341",
+    "DOIs": [
+      "10.1021/acs.iecr.7b03341"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Cd2(azpy)3(NO3)4]*2Me2CO",
+    "hashkey": "NIST-MATDB-43b868bd1fb59e62aadeb8eb81b84244",
+    "DOI": "10.1021/Cm990612m",
+    "DOIs": [
+      "10.1021/Cm990612m"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "PCN-121",
+    "hashkey": "NIST-MATDB-447c9019b6ef13139916dbdfdee1681e",
+    "DOI": "10.1039/C1cc16261f",
+    "DOIs": [
+      "10.1039/C1cc16261f"
+    ],
+    "Temperatures": [
+      273,
+      295
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Zr-BDC with defect",
+    "hashkey": "NIST-MATDB-45b1a20e632024f8e69fcf1f40a1c2ad",
+    "DOI": "10.1021/acs.iecr.7b03341",
+    "DOIs": [
+      "10.1021/acs.iecr.7b03341"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "C17H27CoN3O7.50",
+    "hashkey": "NIST-MATDB-45f6d98bc7ed053c7d12979e1027b5de",
+    "DOI": "10.1002/zaac.200700580",
+    "DOIs": [
+      "10.1002/zaac.200700580"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "DUT-8(Zn)",
+    "hashkey": "NIST-MATDB-47c9e3bb71503de2a16fb4851fea7edd",
+    "DOI": "10.1039/C2jm15601f",
+    "DOIs": [
+      "10.1039/C2jm15601f"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "InOF-2-Li+",
+    "hashkey": "NIST-MATDB-4849f8961f48df2040174f503bca7959",
+    "DOI": "10.1039/C3ta11548h",
+    "DOIs": [
+      "10.1039/C3ta11548h"
+    ],
+    "Temperatures": [
+      273,
+      295
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "DUT-23(Co)",
+    "hashkey": "NIST-MATDB-48e26b7adcf7fadb973bf861c31732a4",
+    "DOI": "10.1002/chem.201101383",
+    "DOIs": [
+      "10.1002/chem.201101383",
+      "10.1039/C2jm15890f"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MIL-100(Cr)",
+    "hashkey": "NIST-MATDB-48f4023d446be2a618f2ac6acc88fee2",
+    "DOI": "10.1002/cssc.201100716",
+    "DOIs": [
+      "10.1002/cssc.201100716",
+      "10.1007/s11164-014-1850-z",
+      "10.1016/S2095-4956(14)60178-9",
+      "10.1016/j.apenergy.2013.06.041",
+      "10.1016/j.cej.2015.02.041",
+      "10.1016/j.ica.2013.07.024",
+      "10.1016/j.jiec.2009.09.043",
+      "10.1016/j.micromeso.2010.05.018",
+      "10.1016/j.micromeso.2011.12.001",
+      "10.1021/Co300128w",
+      "10.1021/Ja2062659",
+      "10.1021/acs.jpcc.5b06660",
+      "10.1039/C2dt12102f"
+    ],
+    "Temperatures": [
+      298,
+      303
+    ],
+    "synonyms": [
+      "MIL-100-Cr"
+    ]
+  },
+  {
+    "name": "PCN-14",
+    "hashkey": "NIST-MATDB-491f2d4553a5f70eb3e8a54f967be37f",
+    "DOI": "10.1016/j.energy.2015.08.096",
+    "DOIs": [
+      "10.1016/j.energy.2015.08.096",
+      "10.1021/Ar100112y",
+      "10.1021/Ja0771639",
+      "10.1021/Ja207593c",
+      "10.1021/Ja4045289",
+      "10.1021/Jp3062527",
+      "10.1021/Jp501495f",
+      "10.1021/Jp910522h",
+      "10.1021/acsami.5b04842",
+      "10.1021/jp4104273",
+      "10.1038/Nchem.1192",
+      "10.1039/C3cp50774b",
+      "10.1039/C4ra12432d",
+      "10.1039/c3sc52633j"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MOF-74",
+    "hashkey": "NIST-MATDB-49b1e69854030020562c1a51b5d17de8",
+    "DOI": "10.1002/App.41633",
+    "DOIs": [
+      "10.1002/App.41633",
+      "10.1007/s10450-010-9305-3",
+      "10.1016/j.cej.2019.123251",
+      "10.1016/j.electacta.2013.10.190",
+      "10.1016/j.ijhydene.2011.05.187",
+      "10.1021/Ja056639q",
+      "10.1021/Ja0570032",
+      "10.1021/Jp809539w",
+      "10.1021/La703864a",
+      "10.1021/jp809539w",
+      "10.1039/C3tb21328e"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UTSA-20",
+    "hashkey": "NIST-MATDB-4b39f28ff94afb76df10889ef395b85c",
+    "DOI": "10.1016/j.energy.2015.08.096",
+    "DOIs": [
+      "10.1016/j.energy.2015.08.096",
+      "10.1021/Ja4045289",
+      "10.1039/C4ra12432d"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Ni2(m2-OH)(COO)2]",
+    "hashkey": "NIST-MATDB-4b556405ee66ebaece1b56a3fee62485",
+    "DOI": "10.1039/c5ta03493k",
+    "DOIs": [
+      "10.1039/c5ta03493k"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UiO-66(Zr)-(COOH)2 (348K)",
+    "hashkey": "NIST-MATDB-4c152ffd93a16296c5c57d29cb322126",
+    "DOI": "10.1039/c4ta03992k",
+    "DOIs": [
+      "10.1039/c4ta03992k"
+    ],
+    "Temperatures": [
+      303
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "467-MOF",
+    "hashkey": "NIST-MATDB-4c5fc9ec0f07f55545f660abeabc296d",
+    "DOI": "10.1002/chem.201502615",
+    "DOIs": [
+      "10.1002/chem.201502615"
+    ],
+    "Temperatures": [
+      273,
+      293
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "SDU-6",
+    "hashkey": "NIST-MATDB-4f85440d6d4094ed428b9f705dc7dd2f",
+    "DOI": "10.1021/Ic3015207",
+    "DOIs": [
+      "10.1021/Ic3015207"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MIL-120",
+    "hashkey": "NIST-MATDB-507bc57ee9ef5cbee2d2eb7e9e4e1d89",
+    "DOI": "10.1021/Cm9023106",
+    "DOIs": [
+      "10.1021/Cm9023106"
+    ],
+    "Temperatures": [
+      303
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Co2(azpy)3(NO3)4]*Me2CO*3H2O",
+    "hashkey": "NIST-MATDB-50bd63cfdc6f3f77ba335058dfec9528",
+    "DOI": "10.1021/Cm990612m",
+    "DOIs": [
+      "10.1021/Cm990612m"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Zn3(TCPB)2(H2O)2",
+    "hashkey": "NIST-MATDB-50f70ae705dac74976f4c6867d15233c",
+    "DOI": "10.1039/C3dt50896j",
+    "DOIs": [
+      "10.1039/C3dt50896j"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "{[Zn3(L)3(DPB)1.5]-6DMF-H20}n",
+    "hashkey": "NIST-MATDB-5221a8469d6589c0a439bc47fbac5494",
+    "DOI": "10.1016/j.ica.2015.03.011",
+    "DOIs": [
+      "10.1016/j.ica.2015.03.011"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "M'MOF-20a",
+    "hashkey": "NIST-MATDB-52816b9542773a53d8697b9e507f9afc",
+    "DOI": "10.1021/Ic2021275",
+    "DOIs": [
+      "10.1021/Ic2021275"
+    ],
+    "Temperatures": [
+      273,
+      295
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "FJI-1",
+    "hashkey": "NIST-MATDB-52d9a2d9cf14e4dc3c32e76f285a7b7a",
+    "DOI": "10.1039/C1cc12858b",
+    "DOIs": [
+      "10.1039/C1cc12858b"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Fe2(BPEB)3]",
+    "hashkey": "NIST-MATDB-5350a399babe6c33a34d193da74689a3",
+    "DOI": "10.1039/C4ta01798f",
+    "DOIs": [
+      "10.1039/C4ta01798f"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MnC12H6O4",
+    "hashkey": "NIST-MATDB-53a56de21adaf98e91115815d8c6b9e0",
+    "DOI": "10.1021/Ic0611948",
+    "DOIs": [
+      "10.1021/Ic0611948"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "FJI-2",
+    "hashkey": "NIST-MATDB-53ca759c25292e3cfbe627daf6f0dcee",
+    "DOI": "10.1039/C3ta12391j",
+    "DOIs": [
+      "10.1039/C3ta12391j"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UiO(bdpc)",
+    "hashkey": "NIST-MATDB-554de36b7f2f656529c27910955ec14f",
+    "DOI": "10.1039/C3cc48275h",
+    "DOIs": [
+      "10.1039/C3cc48275h"
+    ],
+    "Temperatures": [
+      273,
+      283,
+      293,
+      303,
+      313
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Co2(pbdc)2(bimb)0.5 (H2O)4 (DMF)0.25]n",
+    "hashkey": "NIST-MATDB-5590c3c50093f61b964a222927e97fce",
+    "DOI": "10.1039/C4ta01900h",
+    "DOIs": [
+      "10.1039/C4ta01900h"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Mg2O(2AEP)*4H2O",
+    "hashkey": "NIST-MATDB-568cc5bbc3031ee962fc2770a3b61eb3",
+    "DOI": "10.1039/c5ra24657a",
+    "DOIs": [
+      "10.1039/c5ra24657a"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Ni2(dobdc)",
+    "hashkey": "NIST-MATDB-56a7e860822819db08b3fd9fc437f425",
+    "DOI": "10.1002/adma.201500966",
+    "DOIs": [
+      "10.1002/adma.201500966",
+      "10.1021/jacs.5b00838",
+      "10.1039/C3ee42394h",
+      "10.1039/c3sc52633j"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "PCN-426(Ni)",
+    "hashkey": "NIST-MATDB-584a72dee7b6cc76fd632bc09dd3cf00",
+    "DOI": "10.1107/S205252061501584x",
+    "DOIs": [
+      "10.1107/S205252061501584x"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Cu-BTC tablet",
+    "hashkey": "NIST-MATDB-58b38f910b90dfbda3a234cf7791014f",
+    "DOI": "10.1002/ceat.201300046",
+    "DOIs": [
+      "10.1002/ceat.201300046"
+    ],
+    "Temperatures": [
+      308
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Zr-BDC",
+    "hashkey": "NIST-MATDB-58f9cf6e0c11b86a1880fe23f2bb4bc7",
+    "DOI": "10.1021/acs.iecr.7b03341",
+    "DOIs": [
+      "10.1021/acs.iecr.7b03341"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "JLU-Liu1",
+    "hashkey": "NIST-MATDB-591341d56de55cdcdba376d6931481e5",
+    "DOI": "10.1039/C3cc47462c",
+    "DOIs": [
+      "10.1039/C3cc47462c"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UTSA-33a",
+    "hashkey": "NIST-MATDB-595990fd285c5478047fd2f16f7f3be3",
+    "DOI": "10.1002/chem.201102734",
+    "DOIs": [
+      "10.1002/chem.201102734",
+      "10.1038/Ncomms1956"
+    ],
+    "Temperatures": [
+      273,
+      296
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UTSA-40",
+    "hashkey": "NIST-MATDB-59f19acd1afc50835c8dcdedacfbb39e",
+    "DOI": "10.1039/C2ta01260j",
+    "DOIs": [
+      "10.1039/C2ta01260j"
+    ],
+    "Temperatures": [
+      300
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Zr-BPDC",
+    "hashkey": "NIST-MATDB-5a490878dfea56eff9a2015d234842f9",
+    "DOI": "10.1021/acs.iecr.7b03341",
+    "DOIs": [
+      "10.1021/acs.iecr.7b03341"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "ZIF-93",
+    "hashkey": "NIST-MATDB-5a53918a0d77cc8dc4fdaed222acfb5f",
+    "DOI": "10.1016/j.seppur.2019.115850",
+    "DOIs": [
+      "10.1016/j.seppur.2019.115850",
+      "10.1021/ja104035j"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "IRMOF-8-INT",
+    "hashkey": "NIST-MATDB-5a9adbf7ca9f80422e5ac35364502e27",
+    "DOI": "10.1021/am506793b",
+    "DOIs": [
+      "10.1021/am506793b"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UiO-66",
+    "hashkey": "NIST-MATDB-5ab0dbe0639729711750ef4b97715f0f",
+    "DOI": "10.1002/adma.202201502",
+    "DOIs": [
+      "10.1002/adma.202201502",
+      "10.1002/anie.201204806",
+      "10.1002/anie.201408464",
+      "10.1002/anie.201502094",
+      "10.1002/chem.201300326",
+      "10.1002/chem.201503078",
+      "10.1002/cplu.201402430",
+      "10.1007/s10934-015-0067-x",
+      "10.1016/j.chroma.2014.10.036",
+      "10.1016/j.comptc.2015.03.007",
+      "10.1016/j.egypro.2013.05.082",
+      "10.1016/j.ijhydene.2013.01.163",
+      "10.1016/j.jcis.2011.09.060",
+      "10.1016/j.jcis.2016.11.100",
+      "10.1016/j.jhazmat.2014.10.002",
+      "10.1016/j.jiec.2014.12.021",
+      "10.1016/j.memsci.2012.04.003",
+      "10.1016/j.micromeso.2013.02.025",
+      "10.1016/j.micromeso.2013.07.035",
+      "10.1016/j.micromeso.2014.02.014",
+      "10.1016/j.micromeso.2015.02.035",
+      "10.1021/Am303089g",
+      "10.1021/Ja500330a",
+      "10.1021/Jp308657x",
+      "10.1021/La302869m",
+      "10.1021/acs.iecr.5b03517",
+      "10.1021/acs.iecr.5b04739",
+      "10.1021/acs.iecr.6b00056",
+      "10.1021/acs.iecr.6b04066",
+      "10.1021/acs.iecr.7b02839",
+      "10.1021/acs.inorgchem.5b00435",
+      "10.1021/ar500272n",
+      "10.1021/ie202325p",
+      "10.1021/ja302787x",
+      "10.1038/srep16613",
+      "10.1039/C1cp23434j",
+      "10.1039/C2cp23839j",
+      "10.1039/C2dt30950e",
+      "10.1039/C3cc40470f",
+      "10.1039/C3ta13114a",
+      "10.1039/C4cc04945d",
+      "10.1039/C4ce00321g",
+      "10.1039/C4cs00078a",
+      "10.1039/C4ra06295g",
+      "10.1039/c2nr30244f",
+      "10.1039/c4cp04162c",
+      "10.1039/c4ra12263a",
+      "10.1039/c4ta06832g",
+      "10.1039/c5ta05997f",
+      "10.1504/ijnt.2015.067898"
+    ],
+    "Temperatures": [
+      273,
+      293,
+      298,
+      308
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "SNU-21S",
+    "hashkey": "NIST-MATDB-5b2f2fe36d08c935b34cbe0368bb90af",
+    "DOI": "10.1039/C0cc05199c",
+    "DOIs": [
+      "10.1039/C0cc05199c"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Cd2(sdb)2-(3-bpmh)2]n.3n(H2O).n(C6H5NO)",
+    "hashkey": "NIST-MATDB-5e01297acfd36cf450c51490f7fb4f30",
+    "DOI": "10.1039/c5dt01976a",
+    "DOIs": [
+      "10.1039/c5dt01976a"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Zn2(TRZ)2(DOBDC)]n",
+    "hashkey": "NIST-MATDB-5e5d2527424bcfa483a22e2a65497854",
+    "DOI": "10.1016/j.inoche.2015.11.001",
+    "DOIs": [
+      "10.1016/j.inoche.2015.11.001"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Cu3(cdm)4",
+    "hashkey": "NIST-MATDB-5e8d36db7dd4baa35636898ed4dfd622",
+    "DOI": "10.1021/Cm502189c",
+    "DOIs": [
+      "10.1021/Cm502189c",
+      "10.1107/S2052520615022295"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": [
+      "[Cu3(cdm)4]"
+    ]
+  },
+  {
+    "name": "[Co4(OH)2(2)3DMF2]",
+    "hashkey": "NIST-MATDB-60668389e359ed8efc2c4e30467d0950",
+    "DOI": "10.1039/B927499e",
+    "DOIs": [
+      "10.1039/B927499e"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Co-DABCO",
+    "hashkey": "NIST-MATDB-620c2bb19ef3139e5ab5739c92127cf0",
+    "DOI": "10.1016/j.micromeso.2014.09.038",
+    "DOIs": [
+      "10.1016/j.micromeso.2014.09.038"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MIL-125(Ti)",
+    "hashkey": "NIST-MATDB-62cac39e7df6723d237dfb0c4bd20985",
+    "DOI": "10.1002/aoc.3430",
+    "DOIs": [
+      "10.1002/aoc.3430",
+      "10.1021/acs.energyfuels.5b00975"
+    ],
+    "Temperatures": [
+      303,
+      323
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Zr-fum MOF (393 k)",
+    "hashkey": "NIST-MATDB-646305b7be8c332d8656167133c58d58",
+    "DOI": "10.1016/j.ijhydene.2015.06.109",
+    "DOIs": [
+      "10.1016/j.ijhydene.2015.06.109",
+      "10.1016/j.micromeso.2014.10.034"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[NiII(dpzca)2Ag]BF4*0.5(C3H6O)",
+    "hashkey": "NIST-MATDB-654aaef9bb2047cdacdadb801ce02d27",
+    "DOI": "10.1021/Ic501876m",
+    "DOIs": [
+      "10.1021/Ic501876m"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Zn(BDC)(DMBPY) 0.5",
+    "hashkey": "NIST-MATDB-655315f090663b4723680a6683f06403",
+    "DOI": "10.1002/adfm.201101479",
+    "DOIs": [
+      "10.1002/adfm.201101479"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Zn(Im)1.2(5-BrbIM)0.8",
+    "hashkey": "NIST-MATDB-6661b8f3527d89bac378848586050a49",
+    "DOI": "10.1016/j.micromeso.2011.12.009",
+    "DOIs": [
+      "10.1016/j.micromeso.2011.12.009"
+    ],
+    "Temperatures": [
+      303
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Zr-BDC-Br",
+    "hashkey": "NIST-MATDB-66cd0e9c77a58e11c319979dee06bd0a",
+    "DOI": "10.1021/acs.iecr.7b03341",
+    "DOIs": [
+      "10.1021/acs.iecr.7b03341"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "{[Cd2(TPPBDA)(OBA)2] 4DMA 8H2O}n",
+    "hashkey": "NIST-MATDB-6760c7f54a5eaefcf72e168fbdbac82c",
+    "DOI": "10.1021/Cg500269h",
+    "DOIs": [
+      "10.1021/Cg500269h"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "CAU-10-5-H",
+    "hashkey": "NIST-MATDB-67e2ad32f677721394e429738bb3d590",
+    "DOI": "10.1007/s10450-020-00282-9",
+    "DOIs": [
+      "10.1007/s10450-020-00282-9"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "NU-125-F2",
+    "hashkey": "NIST-MATDB-68390f4a9ea74563f10a775377cf5166",
+    "DOI": "10.1021/Ic500722n",
+    "DOIs": [
+      "10.1021/Ic500722n"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "SNU-21H",
+    "hashkey": "NIST-MATDB-6853463892c58fa717af9cbfb228f048",
+    "DOI": "10.1039/C0cc05199c",
+    "DOIs": [
+      "10.1039/C0cc05199c"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "SION-8F",
+    "hashkey": "NIST-MATDB-687f25a29623ab549e5fc350a806ffa3",
+    "DOI": "10.1021/acsami.8b13362",
+    "DOIs": [
+      "10.1021/acsami.8b13362"
+    ],
+    "Temperatures": [
+      273,
+      303
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Zr-FUM",
+    "hashkey": "NIST-MATDB-6963ee165f0c2f07cf592fa435a72c4b",
+    "DOI": "10.1021/acs.iecr.7b03341",
+    "DOIs": [
+      "10.1021/acs.iecr.7b03341"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "(Et2NH2)3[(Cu4Cl)3(TTCA)8]",
+    "hashkey": "NIST-MATDB-698d87ea3dc222af53aca3746f3227d3",
+    "DOI": "10.1039/C2cc35461f",
+    "DOIs": [
+      "10.1039/C2cc35461f"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Cu(BDC-OH)",
+    "hashkey": "NIST-MATDB-69defbb815a1b2e90296326827748d96",
+    "DOI": "10.1002/ejic.201000349",
+    "DOIs": [
+      "10.1002/ejic.201000349",
+      "10.1038/Ncomms1956"
+    ],
+    "Temperatures": [
+      296
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[NH2(CH3)2][Zn3(4-Pca)3(ade)].10DMF.8H2O",
+    "hashkey": "NIST-MATDB-6a9619260e0e012f4c32e3c97ac6a5ac",
+    "DOI": "10.1002/chem.201406323",
+    "DOIs": [
+      "10.1002/chem.201406323"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UiO-66-NH4",
+    "hashkey": "NIST-MATDB-6c3a3709f2c13af094e4b07bb0b36329",
+    "DOI": "10.1016/j.jcis.2011.09.060",
+    "DOIs": [
+      "10.1016/j.jcis.2011.09.060"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UiO-66(Zr)-(COOH)2 (373K)",
+    "hashkey": "NIST-MATDB-6d2d1db79760dfda59f0e185d0c785fb",
+    "DOI": "10.1039/c4ta03992k",
+    "DOIs": [
+      "10.1039/c4ta03992k"
+    ],
+    "Temperatures": [
+      303
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "HKUST-1-F1",
+    "hashkey": "NIST-MATDB-6db7a0ef27b88e420f85cb2718d004c2",
+    "DOI": "10.1021/Ic500722n",
+    "DOIs": [
+      "10.1021/Ic500722n"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "ZnAcBPDC",
+    "hashkey": "NIST-MATDB-6e0014114e24ab8e83b8782e3c9ed523",
+    "DOI": "10.1016/j.micromeso.2014.03.022",
+    "DOIs": [
+      "10.1016/j.micromeso.2014.03.022"
+    ],
+    "Temperatures": [
+      273,
+      293,
+      313
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "tbo-MOF-3",
+    "hashkey": "NIST-MATDB-6f2de59bc9a4aafa57769c230fce91ab",
+    "DOI": "10.1039/C4ra12432d",
+    "DOIs": [
+      "10.1039/C4ra12432d"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "{[Zn4O(bfbpdc)3-(bpy)0.5(H2O)]*(3DMF)(H2O)}n",
+    "hashkey": "NIST-MATDB-6fb238246366535807268f8df02ede00",
+    "DOI": "10.1021/ic302645r",
+    "DOIs": [
+      "10.1021/ic302645r"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Zn(bdc)(ted)0.5",
+    "hashkey": "NIST-MATDB-6fd1bd97a5b2289108bee3430b51618c",
+    "DOI": "10.1002/chem.201002818",
+    "DOIs": [
+      "10.1002/chem.201002818",
+      "10.1016/j.micromeso.2012.05.032",
+      "10.1021/Ja908817n",
+      "10.1021/Jp710011b",
+      "10.1039/C2ta00907b"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": [
+      "[Zn(bdc)(ted)0.5]"
+    ]
+  },
+  {
+    "name": "C99H72Cd6O42",
+    "hashkey": "NIST-MATDB-707eda405a0508fa740a761bc17341eb",
+    "DOI": "10.1021/Cg101222w",
+    "DOIs": [
+      "10.1021/Cg101222w"
+    ],
+    "Temperatures": [
+      297
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Cu2-Framework",
+    "hashkey": "NIST-MATDB-7117efa5520227587e95e9afc63dda82",
+    "DOI": "10.1002/chem.201503163",
+    "DOIs": [
+      "10.1002/chem.201503163"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UTSA-10a",
+    "hashkey": "NIST-MATDB-71334e26f762777895a284849f14ca16",
+    "DOI": "10.1063/1.4897351",
+    "DOIs": [
+      "10.1063/1.4897351"
+    ],
+    "Temperatures": [
+      273,
+      296
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "FJI-3",
+    "hashkey": "NIST-MATDB-7197d409b92aa6e930558f99353d69f9",
+    "DOI": "10.1039/C3cc48556k",
+    "DOIs": [
+      "10.1039/C3cc48556k"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Zn-MOF-74",
+    "hashkey": "NIST-MATDB-71d6fc9e1d75f65e8a04544608290958",
+    "DOI": "10.1002/Aic.14467",
+    "DOIs": [
+      "10.1002/Aic.14467",
+      "10.1002/cctc.201402927",
+      "10.1007/s10450-015-9707-3",
+      "10.1007/s10934-015-0060-4",
+      "10.1016/j.ces.2010.10.002",
+      "10.1016/j.ijhydene.2011.04.008",
+      "10.1016/j.ijhydene.2015.01.113",
+      "10.1016/j.micromeso.2014.02.021",
+      "10.1016/j.micromeso.2014.02.028",
+      "10.1016/j.poly.2015.01.031",
+      "10.1021/Cg500190h",
+      "10.1021/Ct500094w",
+      "10.1021/Jp310517r",
+      "10.1021/Jp501495f",
+      "10.1021/Jz3008485",
+      "10.1021/acs.accounts.5b00349",
+      "10.1021/acs.jpcc.7b08239",
+      "10.1021/jp510253m",
+      "10.1038/Nchem.1432",
+      "10.1038/Ncomms1956",
+      "10.1039/C0ee00700e",
+      "10.1039/C3sc51319j",
+      "10.1039/C4ee00143e",
+      "10.1166/jnn.2014.8621"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": [
+      "CPO-27-Zn",
+      "MOF-74-Zn",
+      "ZnMOF-74"
+    ]
+  },
+  {
+    "name": "[Cu(dhbc)2(bpy)]H2O]",
+    "hashkey": "NIST-MATDB-7208d91e4112275967c2b765718ce7ed",
+    "DOI": "10.1016/j.micromeso.2012.01.008",
+    "DOIs": [
+      "10.1016/j.micromeso.2012.01.008"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UiO-66-(OH)2-NO2",
+    "hashkey": "NIST-MATDB-721e3d3b75333a1264f6f76660fa126d",
+    "DOI": "10.1021/acs.iecr.5b04061",
+    "DOIs": [
+      "10.1021/acs.iecr.5b04061"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Zr-BDC-NH2",
+    "hashkey": "NIST-MATDB-7260126cb90f3346413c0b89538b70a9",
+    "DOI": "10.1021/acs.iecr.7b03341",
+    "DOIs": [
+      "10.1021/acs.iecr.7b03341"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "PCN-305",
+    "hashkey": "NIST-MATDB-7289924516a05f6331ed0c66b26d50f9",
+    "DOI": "10.1002/chem.201203297",
+    "DOIs": [
+      "10.1002/chem.201203297"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[La(TATAB)(H2O)].6H2O",
+    "hashkey": "NIST-MATDB-729e12bd3ddc53b6de346c8ab81979b6",
+    "DOI": "10.1002/chem.201405168",
+    "DOIs": [
+      "10.1002/chem.201405168"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Zn4O",
+    "hashkey": "NIST-MATDB-73875395ea6add86b0f24072ddc472e5",
+    "DOI": "10.1007/s10450-014-9620-1",
+    "DOIs": [
+      "10.1007/s10450-014-9620-1"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MOF-74-Ni",
+    "hashkey": "NIST-MATDB-775250b0154475da1a9521dd991a76d6",
+    "DOI": "10.1002/cctc.201402927",
+    "DOIs": [
+      "10.1002/cctc.201402927",
+      "10.1002/slct.201601095",
+      "10.1007/s10450-015-9707-3",
+      "10.1007/s10934-010-9378-0",
+      "10.1007/s10934-015-0060-4",
+      "10.1016/j.apenergy.2013.06.041",
+      "10.1016/j.cattod.2011.07.020",
+      "10.1016/j.ces.2010.10.002",
+      "10.1016/j.ces.2014.07.008",
+      "10.1016/j.ces.2014.12.001",
+      "10.1016/j.ces.2015.06.064",
+      "10.1016/j.energy.2014.08.033",
+      "10.1016/j.energy.2015.08.096",
+      "10.1016/j.ijhydene.2015.01.113",
+      "10.1016/j.micromeso.2012.07.008",
+      "10.1021/Cg500190h",
+      "10.1021/Cm800686k",
+      "10.1021/Ja4045289",
+      "10.1021/Ja8007159",
+      "10.1021/Jp300961j",
+      "10.1021/Jp306828x",
+      "10.1021/Jp402440u",
+      "10.1021/Jp501495f",
+      "10.1021/Jp809872w",
+      "10.1021/Jz3008485",
+      "10.1021/acs.inorgchem.5b01278",
+      "10.1021/acs.jpcc.5b03700",
+      "10.1021/acs.jpcc.7b04213",
+      "10.1021/ar5003126",
+      "10.1021/jp510253m",
+      "10.1039/B810574j",
+      "10.1039/C0cc00091d",
+      "10.1039/C2cc34493a",
+      "10.1039/C2dt31112g",
+      "10.1039/C3cc47777k",
+      "10.1039/C3ce41289j",
+      "10.1039/C3sc51319j",
+      "10.1039/C4cs00078a",
+      "10.1039/C4ra12432d",
+      "10.1039/c4ta05794e",
+      "10.1039/c5ce00848d",
+      "10.1039/c6ra12280a"
+    ],
+    "Temperatures": [
+      298,
+      303,
+      323
+    ],
+    "synonyms": [
+      "CPO-27(Ni)",
+      "CPO-27-Ni",
+      "MOF-74Ni",
+      "Ni-CPO-27",
+      "Ni-MOF-74",
+      "NiMOF-74"
+    ]
+  },
+  {
+    "name": "C41H46Cu2N2O16",
+    "hashkey": "NIST-MATDB-775989e265743b13d867361d999255f8",
+    "DOI": "10.1039/B925903a",
+    "DOIs": [
+      "10.1039/B925903a"
+    ],
+    "Temperatures": [
+      293
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "JUC-103",
+    "hashkey": "NIST-MATDB-787d7d8a6bbe61e3962aaf50bef219c9",
+    "DOI": "10.1039/C3ta11840a",
+    "DOIs": [
+      "10.1039/C3ta11840a"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Ni-MOF-74 (1)",
+    "hashkey": "NIST-MATDB-78e8e8044f33dfb63d742cd181396dfc",
+    "DOI": "10.1016/j.micromeso.2013.06.023",
+    "DOIs": [
+      "10.1016/j.micromeso.2013.06.023"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[{Cu(H-pymo)2}n]",
+    "hashkey": "NIST-MATDB-793a39b1cb9c6f64dbbce85b5fbd3dc6",
+    "DOI": "10.1002/chem.200801048",
+    "DOIs": [
+      "10.1002/chem.200801048"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Zn3(TCPB)2*2H2O]*2H2O*4DMF",
+    "hashkey": "NIST-MATDB-79bb15266bb8ce342990c61767bf4f13",
+    "DOI": "10.1002/asia.201200601",
+    "DOIs": [
+      "10.1002/asia.201200601"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": [
+      "Zn3(TCPB)2*2H2O]*2H2O*4DMF"
+    ]
+  },
+  {
+    "name": "MOF-2'",
+    "hashkey": "NIST-MATDB-7a6c5ef61582a13f273203d99661f16f",
+    "DOI": "10.1016/j.micromeso.2010.10.048",
+    "DOIs": [
+      "10.1016/j.micromeso.2010.10.048"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Ni2(C2O4)(L)2]n*6nH2O",
+    "hashkey": "NIST-MATDB-7ab2e7d88babbb2b2b55b6377850da0f",
+    "DOI": "10.1021/Cg400948e",
+    "DOIs": [
+      "10.1021/Cg400948e"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "PCN-16",
+    "hashkey": "NIST-MATDB-7bf7c552e533131e05103e2410893349",
+    "DOI": "10.1021/acs.jpcc.6b10751",
+    "DOIs": [
+      "10.1021/acs.jpcc.6b10751",
+      "10.1039/C0ee00700e"
+    ],
+    "Temperatures": [
+      273,
+      296
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MIL-53(Cr)",
+    "hashkey": "NIST-MATDB-7cb7f2ebc677a987561f61f34f01f965",
+    "DOI": "10.1002/adma.200602645",
+    "DOIs": [
+      "10.1002/adma.200602645",
+      "10.1002/anie.200803067",
+      "10.1002/anie.200902998",
+      "10.1016/j.apenergy.2013.06.041",
+      "10.1016/j.micromeso.2010.09.003",
+      "10.1021/Cr4006473",
+      "10.1021/Ja803899q",
+      "10.1021/Ja8039579",
+      "10.1021/Ja8094153",
+      "10.1021/Ja902740r",
+      "10.1021/Jp1092724",
+      "10.1021/Jp202147m",
+      "10.1021/Jp303686m",
+      "10.1021/Jp311601q",
+      "10.1021/Jp811190g",
+      "10.1021/Jp910522h",
+      "10.1021/Jp911484g",
+      "10.1021/La200094x",
+      "10.1021/ja1023282",
+      "10.1039/B822163d",
+      "10.1039/B927113a",
+      "10.1039/C001173h",
+      "10.1039/C0cc04759g",
+      "10.1039/C0cp01703e",
+      "10.1039/C2cc35348b",
+      "10.1155/2015/439382"
+    ],
+    "Temperatures": [
+      294,
+      303
+    ],
+    "synonyms": [
+      "Cr-MIL-53",
+      "MIL-53 (Cr)",
+      "MIL-53-Cr"
+    ]
+  },
+  {
+    "name": "MOF-1C'-Li",
+    "hashkey": "NIST-MATDB-7cbc8489b9167ea2715313a978d69d2d",
+    "DOI": "10.1016/j.micromeso.2010.10.048",
+    "DOIs": [
+      "10.1016/j.micromeso.2010.10.048"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "CAU-1",
+    "hashkey": "NIST-MATDB-7d1571382dd79cf21cfb21568cdc0ccf",
+    "DOI": "10.1016/j.ijhydene.2013.02.074",
+    "DOIs": [
+      "10.1016/j.ijhydene.2013.02.074",
+      "10.1021/Jp104788p",
+      "10.1039/c1ee01380g"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Zr-1,4-NDC",
+    "hashkey": "NIST-MATDB-7eef819948ffc8ded38c96f106a41f1f",
+    "DOI": "10.1021/acs.iecr.7b03341",
+    "DOIs": [
+      "10.1021/acs.iecr.7b03341"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Co21-IRMOF-1",
+    "hashkey": "NIST-MATDB-8147d90c17de4f9d0e013c7cb9739025",
+    "DOI": "10.1021/La100423a",
+    "DOIs": [
+      "10.1021/La100423a"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Zn(II) MOF 2'",
+    "hashkey": "NIST-MATDB-8241748c6ad52d05c80ec79ca6572f15",
+    "DOI": "10.1021/acssuschemeng.7b02087",
+    "DOIs": [
+      "10.1021/acssuschemeng.7b02087"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "PCN-46",
+    "hashkey": "NIST-MATDB-827b138fa44b70a8964cf903faba3b56",
+    "DOI": "10.1021/acs.jpcc.7b08370",
+    "DOIs": [
+      "10.1021/acs.jpcc.7b08370",
+      "10.1039/C002767g"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Zn3L2(btc)2(H2O)]",
+    "hashkey": "NIST-MATDB-82dabd9339d7f862259c1b605cce0d2f",
+    "DOI": "10.1039/C3ce41002a",
+    "DOIs": [
+      "10.1039/C3ce41002a"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Cu(1,3-BDC)(H2O)",
+    "hashkey": "NIST-MATDB-83889f5abb4062381c9056f5eab9c54f",
+    "DOI": "10.1039/C3ce40838h",
+    "DOIs": [
+      "10.1039/C3ce40838h"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "ZJNU-40a",
+    "hashkey": "NIST-MATDB-845fde624acb62234c0a8be05212db5a",
+    "DOI": "10.1039/C4cc05833j",
+    "DOIs": [
+      "10.1039/C4cc05833j"
+    ],
+    "Temperatures": [
+      296
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "SNU-6",
+    "hashkey": "NIST-MATDB-86d483a91dc5a2b434015c98e972aad0",
+    "DOI": "10.1002/chem.200801064",
+    "DOIs": [
+      "10.1002/chem.200801064",
+      "10.1039/C2cc17005a"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "SNU-150'",
+    "hashkey": "NIST-MATDB-87409b8f4e7dd582708197939def2994",
+    "DOI": "10.1002/chem.201303086",
+    "DOIs": [
+      "10.1002/chem.201303086"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UTSA-72a",
+    "hashkey": "NIST-MATDB-87df8c190af0b5a382312b8a4fd78f2a",
+    "DOI": "10.1021/Cg500235j",
+    "DOIs": [
+      "10.1021/Cg500235j"
+    ],
+    "Temperatures": [
+      273,
+      296
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "C28H39N5O16Cu2",
+    "hashkey": "NIST-MATDB-882638acaeec81061a4c473755e4901d",
+    "DOI": "10.1021/cg201594p",
+    "DOIs": [
+      "10.1021/cg201594p"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "In-soc-MOF-1b",
+    "hashkey": "NIST-MATDB-8836be373d278eba9a6a488f3d991828",
+    "DOI": "10.1021/acs.jced.1c00951",
+    "DOIs": [
+      "10.1021/acs.jced.1c00951"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Ni3(pzdc)2(7Hade)2(H2O)0.6",
+    "hashkey": "NIST-MATDB-884cce14ef9e7402207e4163a1ef11a1",
+    "DOI": "10.1039/C0cc05559j",
+    "DOIs": [
+      "10.1039/C0cc05559j"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MOF-74-Co",
+    "hashkey": "NIST-MATDB-8b2f5bfff597fd6ac1507365a3732a97",
+    "DOI": "10.1002/cctc.201402927",
+    "DOIs": [
+      "10.1002/cctc.201402927",
+      "10.1002/slct.201601095",
+      "10.1007/s10450-015-9707-3",
+      "10.1007/s10934-015-0060-4",
+      "10.1016/j.cattod.2011.08.019",
+      "10.1016/j.ces.2010.10.002",
+      "10.1016/j.ijhydene.2015.01.113",
+      "10.1016/j.micromeso.2014.02.028",
+      "10.1016/j.poly.2015.01.031",
+      "10.1021/Cg500190h",
+      "10.1021/Ja2010863",
+      "10.1021/Jp501495f",
+      "10.1021/Jz3008485",
+      "10.1021/Nn405420t",
+      "10.1021/acs.jpcc.5b03700",
+      "10.1021/ar5003126",
+      "10.1021/jp510253m",
+      "10.1039/C0cc00091d",
+      "10.1039/C3sc51319j",
+      "10.1039/c3sc52633j",
+      "10.1039/c4ta05794e"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": [
+      "Co-MOF-74",
+      "CPO-27-Co"
+    ]
+  },
+  {
+    "name": "Amine-MIL-101(Cr)",
+    "hashkey": "NIST-MATDB-8b8ec78ea74003b46e02c61002f73655",
+    "DOI": "10.1039/C3cc43352h",
+    "DOIs": [
+      "10.1039/C3cc43352h"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UMCM-150",
+    "hashkey": "NIST-MATDB-8b8f5dc21e8758d0adfbc6da4cee39a6",
+    "DOI": "10.1007/s10934-015-0060-4",
+    "DOIs": [
+      "10.1007/s10934-015-0060-4",
+      "10.1021/Jz3008485",
+      "10.1021/acs.jpcc.6b10751"
+    ],
+    "Temperatures": [
+      273,
+      296,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Cu(pmc)2].2/3DMF",
+    "hashkey": "NIST-MATDB-8b9fa00d1ec4967c4da6e813ec68a0ca",
+    "DOI": "10.1021/Ic1012523",
+    "DOIs": [
+      "10.1021/Ic1012523"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MIL-91(Al)",
+    "hashkey": "NIST-MATDB-8c456021f0e540bcf8cae5ddd4d01a96",
+    "DOI": "10.1021/jp512596u",
+    "DOIs": [
+      "10.1021/jp512596u"
+    ],
+    "Temperatures": [
+      303
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "ZIF-7",
+    "hashkey": "NIST-MATDB-8cae84fb784881ac1d577dea3d006c4e",
+    "DOI": "10.1002/chem.201100958",
+    "DOIs": [
+      "10.1002/chem.201100958",
+      "10.1002/cssc.201700657",
+      "10.1007/s10934-015-0060-4",
+      "10.1016/j.memsci.2012.09.006",
+      "10.1016/j.micromeso.2014.02.016",
+      "10.1016/j.molliq.2017.01.110",
+      "10.1021/Cm3006953",
+      "10.1021/Ja1089765",
+      "10.1021/jacs.5b08362",
+      "10.1039/C0nj00836b"
+    ],
+    "Temperatures": [
+      273,
+      298,
+      323
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Ni3(HCOO)6]",
+    "hashkey": "NIST-MATDB-8d001637b25d2536ffa705593742ec73",
+    "DOI": "10.1039/c6ra12280a",
+    "DOIs": [
+      "10.1039/c6ra12280a"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UTSA-50a",
+    "hashkey": "NIST-MATDB-8d3db4b0d98c04559d08b18dabab1a76",
+    "DOI": "10.1039/C2ta00155a",
+    "DOIs": [
+      "10.1039/C2ta00155a"
+    ],
+    "Temperatures": [
+      273,
+      296
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Ni3(mu2-H2O)2(bdc)3(pyrazine)2]*3(DMA)",
+    "hashkey": "NIST-MATDB-8df8f32003fc00772d29a159e0ff21f5",
+    "DOI": "10.1039/C3ce40548f",
+    "DOIs": [
+      "10.1039/C3ce40548f"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Cu2(EBTC)(H2O)2]*8H2O*DMF*DMSO",
+    "hashkey": "NIST-MATDB-8ecf9bef21be70735b30dd8b0598f82c",
+    "DOI": "10.1039/B917046d",
+    "DOIs": [
+      "10.1039/B917046d"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Zn(NDC)(DMBPY) 0.5",
+    "hashkey": "NIST-MATDB-8fad47f65fa08c7ac5157aa92c218b1d",
+    "DOI": "10.1002/adfm.201101479",
+    "DOIs": [
+      "10.1002/adfm.201101479"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "ZIF-2",
+    "hashkey": "NIST-MATDB-907b7388fd2992b2f049c1ef1d5f832d",
+    "DOI": "10.1007/s10934-015-0060-4",
+    "DOIs": [
+      "10.1007/s10934-015-0060-4",
+      "10.1016/j.micromeso.2011.01.029",
+      "10.1021/Jp103785u"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "CPM-5",
+    "hashkey": "NIST-MATDB-92b95c2098a3915fe7e1956347838103",
+    "DOI": "10.1002/ceat.201100626",
+    "DOIs": [
+      "10.1002/ceat.201100626",
+      "10.1016/j.micromeso.2013.03.024",
+      "10.1021/Ja106903p"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Cu2TPTC-Me",
+    "hashkey": "NIST-MATDB-931b4a66ede38d35742a9d5f2635b66e",
+    "DOI": "10.1016/j.micromeso.2015.05.036",
+    "DOIs": [
+      "10.1016/j.micromeso.2015.05.036"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "SNU-77H",
+    "hashkey": "NIST-MATDB-933325db10a6a6b755a95edef601a3d9",
+    "DOI": "10.1002/chem.201003376",
+    "DOIs": [
+      "10.1002/chem.201003376"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Zn(II) MOF 1'",
+    "hashkey": "NIST-MATDB-950f09527c0aad44bb3737a770eb6414",
+    "DOI": "10.1021/acssuschemeng.7b02087",
+    "DOIs": [
+      "10.1021/acssuschemeng.7b02087"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MIL-53(Fe)",
+    "hashkey": "NIST-MATDB-951db94d5701c144378afbaface18b87",
+    "DOI": "10.1021/Ja902740r",
+    "DOIs": [
+      "10.1021/Ja902740r",
+      "10.1039/C2cc35348b",
+      "10.1039/c4ce01393j"
+    ],
+    "Temperatures": [
+      303
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "IRMOF-3",
+    "hashkey": "NIST-MATDB-96713fc6845e0ffe5a35364c2d59e6dc",
+    "DOI": "10.1002/cctc.201400056",
+    "DOIs": [
+      "10.1002/cctc.201400056",
+      "10.1002/chem.200902158",
+      "10.1007/s10934-015-0060-4",
+      "10.1016/j.cattod.2006.09.029",
+      "10.1016/j.cej.2011.11.048",
+      "10.1021/Ar1000617",
+      "10.1021/Cg101130m",
+      "10.1021/Cm202554j",
+      "10.1021/Ic100652x",
+      "10.1021/Ja056639q",
+      "10.1021/Ja0570032",
+      "10.1021/Ja076595g",
+      "10.1021/Ja808853q",
+      "10.1021/Jp203607s",
+      "10.1021/Jp3108182",
+      "10.1021/Jp910522h",
+      "10.1021/Jz3008485",
+      "10.1021/La304147j",
+      "10.1021/La900283t",
+      "10.1039/C4dt02516d",
+      "10.1039/C4ra01269k",
+      "10.1080/08927022.2011.561432"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Ga-soc-MOF-1a",
+    "hashkey": "NIST-MATDB-97507146939c69feec4767afe89b0d99",
+    "DOI": "10.1021/acs.jced.1c00951",
+    "DOIs": [
+      "10.1021/acs.jced.1c00951"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MIL-100",
+    "hashkey": "NIST-MATDB-979e667be7fe222f20d8bad36617dc66",
+    "DOI": "10.1002/adma.202201502",
+    "DOIs": [
+      "10.1002/adma.202201502",
+      "10.1002/chem.201202352",
+      "10.1007/s10450-015-9651-2",
+      "10.1007/s10450-016-9825-6",
+      "10.1016/j.ijheatmasstransfer.2012.07.068",
+      "10.1021/Cg070640e",
+      "10.1021/acs.jpcc.5b06660",
+      "10.1039/C2jm16513a",
+      "10.1039/C2nj20587d",
+      "10.1039/C3tb21328e"
+    ],
+    "Temperatures": [
+      303
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Co3(HCOO)6",
+    "hashkey": "NIST-MATDB-98261e1cacd11dbc66fdc2910f2226ce",
+    "DOI": "10.1002/adfm.200800058",
+    "DOIs": [
+      "10.1002/adfm.200800058",
+      "10.1002/chem.201101733",
+      "10.1016/j.micromeso.2016.01.030",
+      "10.1039/C3sc52348a",
+      "10.1039/c3sc52348a"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Zn2(CN5H2)3(H2O)3]6H2O TMC",
+    "hashkey": "NIST-MATDB-98658c4eb471e4b3561e03c58fa503f2",
+    "DOI": "10.1002/cplu.201200270",
+    "DOIs": [
+      "10.1002/cplu.201200270"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "SNU-71'",
+    "hashkey": "NIST-MATDB-98b4630d872ab5d38b0d06707cc4834f",
+    "DOI": "10.1002/chem.201200456",
+    "DOIs": [
+      "10.1002/chem.201200456"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Co2(BDC)2(DPNDO)",
+    "hashkey": "NIST-MATDB-98fef480a29b735d32133099ab27ad4c",
+    "DOI": "10.1021/cg501690b",
+    "DOIs": [
+      "10.1021/cg501690b"
+    ],
+    "Temperatures": [
+      303
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Co9(btc)6(tpt)2(H2O)15]",
+    "hashkey": "NIST-MATDB-99139ea435f11e5b3533267f160733c8",
+    "DOI": "10.1021/Cg200043a",
+    "DOIs": [
+      "10.1021/Cg200043a"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "CuBTC",
+    "hashkey": "NIST-MATDB-991daf7313251e7e607e2bab2da57e33",
+    "DOI": "10.1002/Aic.11298",
+    "DOIs": [
+      "10.1002/Aic.11298",
+      "10.1002/Aic.11362",
+      "10.1002/Aic.12397",
+      "10.1002/Aic.14467",
+      "10.1002/adem.200500223",
+      "10.1002/adem.201000246",
+      "10.1002/adfm.200500561",
+      "10.1002/adma.201203664",
+      "10.1002/adma.201400428",
+      "10.1002/adma.201403827",
+      "10.1002/adma.202201502",
+      "10.1002/aic.12397",
+      "10.1002/aic.14707",
+      "10.1002/aic.15837",
+      "10.1002/anie.201402950",
+      "10.1002/anie.201408464",
+      "10.1002/anie.201504572",
+      "10.1002/app.42764",
+      "10.1002/bkcs.10087",
+      "10.1002/ceat.201300046",
+      "10.1002/chem.200902719",
+      "10.1002/chem.201201574",
+      "10.1002/cphc.201100602",
+      "10.1002/cssc.201100716",
+      "10.1002/cssc.201700657",
+      "10.1002/ejic.201000494",
+      "10.1002/hlca.201200466",
+      "10.1007/s00894-010-0720-x",
+      "10.1007/s10450-010-9267-5",
+      "10.1007/s10450-010-9305-3",
+      "10.1007/s10450-012-9397-z",
+      "10.1007/s10450-013-9527-2",
+      "10.1007/s10450-013-9583-7",
+      "10.1007/s10450-014-9639-3",
+      "10.1007/s10450-015-9684-6",
+      "10.1007/s10450-016-9847-0",
+      "10.1007/s10450-019-00124-3",
+      "10.1007/s10450-019-00185-4",
+      "10.1007/s10934-013-9692-4",
+      "10.1007/s10934-014-9891-7",
+      "10.1007/s10934-015-0060-4",
+      "10.1007/s10973-013-3497-1",
+      "10.1007/s11224-012-0120-1",
+      "10.1007/s11426-008-0079-3",
+      "10.1016/S0167-2991(08)80275-3",
+      "10.1016/S2095-4956(14)60171-6",
+      "10.1016/S2095-4956(14)60173-X",
+      "10.1016/j.apenergy.2013.06.041",
+      "10.1016/j.apenergy.2015.03.123",
+      "10.1016/j.cap.2015.06.011",
+      "10.1016/j.carbon.2010.09.059",
+      "10.1016/j.catcom.2013.04.019",
+      "10.1016/j.cattod.2011.03.017",
+      "10.1016/j.cattod.2012.03.034",
+      "10.1016/j.cattod.2014.07.003",
+      "10.1016/j.cej.2010.07.041",
+      "10.1016/j.cej.2015.07.020",
+      "10.1016/j.ces.2009.04.010",
+      "10.1016/j.ces.2010.02.005",
+      "10.1016/j.ces.2013.03.006",
+      "10.1016/j.ces.2014.10.010",
+      "10.1016/j.colsurfa.2009.08.025",
+      "10.1016/j.colsurfa.2014.09.017",
+      "10.1016/j.comptc.2012.02.023",
+      "10.1016/j.egypro.2009.01.166",
+      "10.1016/j.egypro.2011.01.090",
+      "10.1016/j.energy.2014.08.033",
+      "10.1016/j.energy.2015.08.096",
+      "10.1016/j.fluid.2013.11.029",
+      "10.1016/j.fuproc.2012.03.006",
+      "10.1016/j.ijggc.2011.10.007",
+      "10.1016/j.ijheatmasstransfer.2012.07.068",
+      "10.1016/j.ijhydene.2010.07.089",
+      "10.1016/j.ijhydene.2011.03.102",
+      "10.1016/j.ijhydene.2012.01.166",
+      "10.1016/j.ijhydene.2012.04.105",
+      "10.1016/j.inoche.2014.06.003",
+      "10.1016/j.inoche.2015.02.001",
+      "10.1016/j.jallcom.2015.07.065",
+      "10.1016/j.jcat.2014.07.010",
+      "10.1016/j.jcis.2012.06.040",
+      "10.1016/j.jhazmat.2011.08.069",
+      "10.1016/j.jmr.2014.01.002",
+      "10.1016/j.jssc.2005.07.002",
+      "10.1016/j.memsci.2010.07.005",
+      "10.1016/j.memsci.2012.04.003",
+      "10.1016/j.memsci.2012.10.058",
+      "10.1016/j.micromeso.2008.06.003",
+      "10.1016/j.micromeso.2008.10.035",
+      "10.1016/j.micromeso.2008.11.020",
+      "10.1016/j.micromeso.2010.07.007",
+      "10.1016/j.micromeso.2010.07.020",
+      "10.1016/j.micromeso.2010.09.013",
+      "10.1016/j.micromeso.2011.02.003",
+      "10.1016/j.micromeso.2011.06.024",
+      "10.1016/j.micromeso.2011.11.039",
+      "10.1016/j.micromeso.2011.12.053",
+      "10.1016/j.micromeso.2012.02.034",
+      "10.1016/j.micromeso.2012.05.021",
+      "10.1016/j.micromeso.2012.06.004",
+      "10.1016/j.micromeso.2012.06.011",
+      "10.1016/j.micromeso.2012.08.002",
+      "10.1016/j.micromeso.2012.11.040",
+      "10.1016/j.micromeso.2013.02.025",
+      "10.1016/j.micromeso.2013.03.015",
+      "10.1016/j.micromeso.2013.06.007",
+      "10.1016/j.micromeso.2013.09.005",
+      "10.1016/j.micromeso.2014.03.004",
+      "10.1016/j.micromeso.2015.05.036",
+      "10.1016/j.micromeso.2016.01.030",
+      "10.1016/j.molcata.2015.01.014",
+      "10.1016/j.poly.2009.04.025",
+      "10.1016/j.powtec.2014.08.062",
+      "10.1016/j.seppur.2007.07.050",
+      "10.1016/j.seppur.2012.02.023",
+      "10.1016/j.seppur.2012.04.032",
+      "10.1016/j.seppur.2015.03.041",
+      "10.1016/j.seppur.2015.06.012",
+      "10.1016/j.talanta.2015.02.032",
+      "10.1021/Cg401304x",
+      "10.1021/Cm1012119",
+      "10.1021/Cm900049x",
+      "10.1021/Ef800938e",
+      "10.1021/Ic500722n",
+      "10.1021/Ie1014958",
+      "10.1021/Ie300553k",
+      "10.1021/Ie400329c",
+      "10.1021/Ie500310c",
+      "10.1021/Ie502489q",
+      "10.1021/Ie8005269",
+      "10.1021/Ie901000x",
+      "10.1021/Ie902008g",
+      "10.1021/Ja056639q",
+      "10.1021/Ja0570032",
+      "10.1021/Ja066098k",
+      "10.1021/Ja2042113",
+      "10.1021/Ja205082p",
+      "10.1021/Ja4045289",
+      "10.1021/Ja509960n",
+      "10.1021/Ja8007159",
+      "10.1021/Ja807357r",
+      "10.1021/Ja904782h",
+      "10.1021/Je1002225",
+      "10.1021/Jp050948l",
+      "10.1021/Jp051771y",
+      "10.1021/Jp062723w",
+      "10.1021/Jp076657p",
+      "10.1021/Jp102212w",
+      "10.1021/Jp1058963",
+      "10.1021/Jp206002d",
+      "10.1021/Jp206821f",
+      "10.1021/Jp207411b",
+      "10.1021/Jp2090878",
+      "10.1021/Jp211563e",
+      "10.1021/Jp3062527",
+      "10.1021/Jp306828x",
+      "10.1021/Jp308525k",
+      "10.1021/Jp401600v",
+      "10.1021/Jp405509m",
+      "10.1021/Jp407176j",
+      "10.1021/Jp410152p",
+      "10.1021/Jp501495f",
+      "10.1021/Jp506335x",
+      "10.1021/Jp7100094",
+      "10.1021/Jp806363w",
+      "10.1021/Jp902736z",
+      "10.1021/Jp910522h",
+      "10.1021/Jz101665x",
+      "10.1021/Jz3008485",
+      "10.1021/La061871a",
+      "10.1021/La102359q",
+      "10.1021/La2017424",
+      "10.1021/La202924y",
+      "10.1021/La3009514",
+      "10.1021/La301215y",
+      "10.1021/La800803w",
+      "10.1021/La8008656",
+      "10.1021/La803074g",
+      "10.1021/La803085h",
+      "10.1021/La900283t",
+      "10.1021/Nl0341281",
+      "10.1021/Nn5027092",
+      "10.1021/acs.iecr.5b00458",
+      "10.1021/acs.iecr.6b00056",
+      "10.1021/acs.iecr.6b00774",
+      "10.1021/acs.iecr.6b01400",
+      "10.1021/acs.iecr.6b03139",
+      "10.1021/acs.iecr.6b03637",
+      "10.1021/acs.iecr.7b03008",
+      "10.1021/acs.jpcc.6b01119",
+      "10.1021/acs.jpcc.6b07493",
+      "10.1021/acs.jpcc.6b09740",
+      "10.1021/acs.jpcc.6b10751",
+      "10.1021/acs.jpcc.6b11808",
+      "10.1021/acs.jpcc.7b03459",
+      "10.1021/acs.jpcc.7b04213",
+      "10.1021/acs.langmuir.5b01171",
+      "10.1021/acsami.5b07665",
+      "10.1021/acsami.6b00608",
+      "10.1021/am404952z",
+      "10.1021/cm503640c",
+      "10.1021/cm5042293",
+      "10.1021/ie201378u",
+      "10.1021/ie202325p",
+      "10.1021/ie902008g",
+      "10.1021/ja302787x",
+      "10.1021/jacs.5b00838",
+      "10.1021/jacs.5b06657",
+      "10.1021/jacs.6b10768",
+      "10.1021/jp206959k",
+      "10.1021/jp4104273",
+      "10.1021/la800803w",
+      "10.1038/Nchem.1192",
+      "10.1038/Ncomms1956",
+      "10.1038/Srep06247",
+      "10.1039/B905138d",
+      "10.1039/B921558a",
+      "10.1039/C0cc02194f",
+      "10.1039/C0ce00486c",
+      "10.1039/C0ee00700e",
+      "10.1039/C1cp20168a",
+      "10.1039/C1ee02234b",
+      "10.1039/C2cc34416e",
+      "10.1039/C2cc34493a",
+      "10.1039/C2cc34782b",
+      "10.1039/C2ce26636a",
+      "10.1039/C2cp23146h",
+      "10.1039/C2jm15596f",
+      "10.1039/C2jm31536j",
+      "10.1039/C2jm34973f",
+      "10.1039/C2ta01125e",
+      "10.1039/C3cp50774b",
+      "10.1039/C3ra40726h",
+      "10.1039/C3ra40817e",
+      "10.1039/C4ee00143e",
+      "10.1039/C4ra12432d",
+      "10.1039/C4ta02568g",
+      "10.1039/b807470d",
+      "10.1039/c1cp20168a",
+      "10.1039/c2jm16770k",
+      "10.1039/c3sc52633j",
+      "10.1039/c3ta13073h",
+      "10.1039/c5cc02809d",
+      "10.1039/c5ce00938c",
+      "10.1039/c5nj00618j",
+      "10.1039/c5ra02440d",
+      "10.1039/c5ra23888a",
+      "10.1039/c5ta01359c",
+      "10.1063/1.3479041",
+      "10.1063/1.4774332",
+      "10.1080/08927020802398926",
+      "10.1080/08927020902988865",
+      "10.1080/08927022.2016.1262036",
+      "10.1080/15422119.2014.884507",
+      "10.1260/0263-6174.28.8-9.823",
+      "10.1260/0263-6174.33.2.223",
+      "10.1517/17425247.2013.741583",
+      "10.5012/bkcs.2009.30.12.2921",
+      "10.5012/bkcs.2010.31.01.220",
+      "10.8888/jp206959k"
+    ],
+    "Temperatures": [
+      295,
+      298,
+      303,
+      308,
+      323
+    ],
+    "synonyms": [
+      "Basolite C300",
+      "C300",
+      "Cu-BTC",
+      "Cu3(BTC)2",
+      "HKUST-1",
+      "MOF-199"
+    ]
+  },
+  {
+    "name": "[Zn(BPEB)]",
+    "hashkey": "NIST-MATDB-99723c0194e8cf989d93bc5e2da6aeea",
+    "DOI": "10.1039/C4ta01798f",
+    "DOIs": [
+      "10.1039/C4ta01798f"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "FJI-C1",
+    "hashkey": "NIST-MATDB-99bf92208771cc605a3faf79b8eabf10",
+    "DOI": "10.1002/cssc.201402206",
+    "DOIs": [
+      "10.1002/cssc.201402206"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "CaIICuII6L3(OH)2(H2O)}*13H2O, L = (S,S)-valmox",
+    "hashkey": "NIST-MATDB-9a5dff9fc121973c97bf5237246de407",
+    "DOI": "10.1039/c7ta01179b",
+    "DOIs": [
+      "10.1039/c7ta01179b"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "NOTT-103a",
+    "hashkey": "NIST-MATDB-9cb9c70df78a0b0e779d84f4a54414c6",
+    "DOI": "10.1039/C3ee41166d",
+    "DOIs": [
+      "10.1039/C3ee41166d"
+    ],
+    "Temperatures": [
+      300
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "IRMOF-8",
+    "hashkey": "NIST-MATDB-9d023a670a2aedb5225d9cd365e24210",
+    "DOI": "10.1016/j.cattod.2006.09.029",
+    "DOIs": [
+      "10.1016/j.cattod.2006.09.029",
+      "10.1016/j.electacta.2013.10.190",
+      "10.1016/j.inoche.2014.06.003",
+      "10.1016/j.jallcom.2009.11.203",
+      "10.1016/j.jcat.2014.07.010",
+      "10.1016/j.jpowsour.2013.12.072",
+      "10.1016/j.micromeso.2013.04.023",
+      "10.1021/Cm202554j",
+      "10.1021/Ic302010e",
+      "10.1021/Ja0542690",
+      "10.1021/Ja802741b",
+      "10.1021/Ja9036302",
+      "10.1021/Jp050948l",
+      "10.1021/Jp051903n",
+      "10.1021/Jp0563538",
+      "10.1021/Jp111800c",
+      "10.1021/Jp307319u",
+      "10.1021/Jp910522h",
+      "10.1021/La101377u",
+      "10.1021/Nl072941g",
+      "10.1021/am506793b",
+      "10.1038/ncomms9697",
+      "10.1063/1.4892670",
+      "10.1080/08927022.2011.561432",
+      "10.3866/PKU.WHXB20110319"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": [
+      "IRMOF-8-NOINT"
+    ]
+  },
+  {
+    "name": "2,4,6-tris-(4-carboxyphenoxy)-1,3,5-triazine (H3tcpt)",
+    "hashkey": "NIST-MATDB-9e095580c7def92493b44834013f53af",
+    "DOI": "10.1039/c5dt01770j",
+    "DOIs": [
+      "10.1039/c5dt01770j"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "ZIF-68",
+    "hashkey": "NIST-MATDB-9e5edba55f0f609476161019d58113ed",
+    "DOI": "10.1007/s10934-015-0060-4",
+    "DOIs": [
+      "10.1007/s10934-015-0060-4",
+      "10.1021/Ja809459e",
+      "10.1021/Jp101531m",
+      "10.1021/Jp103785u",
+      "10.1021/Jp200321y",
+      "10.1021/Jp303790r",
+      "10.1021/Jp3108182",
+      "10.1021/Jp903735m",
+      "10.1021/Jp910522h",
+      "10.1021/ar500272n",
+      "10.1039/c6cp06036f"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "CuBDC bulk",
+    "hashkey": "NIST-MATDB-9e86be03a0b15343b0fc2d4b9c31e6d9",
+    "DOI": "10.1038/nmat4113",
+    "DOIs": [
+      "10.1038/nmat4113"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "CAU-10-4-OH",
+    "hashkey": "NIST-MATDB-9eacc124ea3c855a6b29856911a4025d",
+    "DOI": "10.1007/s10450-020-00282-9",
+    "DOIs": [
+      "10.1007/s10450-020-00282-9"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "CaIICuII6L3(OH)2(H2O)}*11H2O, L = (S,S)-leumox",
+    "hashkey": "NIST-MATDB-9ec1205d9931beef76bd1e7065c00203",
+    "DOI": "10.1039/c7ta01179b",
+    "DOIs": [
+      "10.1039/c7ta01179b"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MIL-53",
+    "hashkey": "NIST-MATDB-9f02824618e94d86caedc9fb497366ba",
+    "DOI": "10.1007/s10450-012-9397-z",
+    "DOIs": [
+      "10.1007/s10450-012-9397-z",
+      "10.1016/S1872-5805(15)60205-0",
+      "10.1016/j.ijhydene.2012.01.166",
+      "10.1016/j.jngse.2015.04.033",
+      "10.1016/j.micromeso.2012.10.002",
+      "10.1016/j.micromeso.2013.09.015",
+      "10.1016/j.talanta.2015.02.032",
+      "10.1021/Ja900555r",
+      "10.1021/Ja904782h",
+      "10.1021/Jp203607s",
+      "10.1021/acsami.5b05456",
+      "10.1039/C2dt12463g",
+      "10.1039/C3tb21328e",
+      "10.1166/jnn.2013.7411",
+      "10.1260/0263-6174.28.8-9.823",
+      "10.4028/www.scientific.net/AMM.625.870"
+    ],
+    "Temperatures": [
+      303
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Cu(1,3-BDC)(PY)2",
+    "hashkey": "NIST-MATDB-9f81b32673ab9cff65bc2c756197369f",
+    "DOI": "10.1039/C3ce40838h",
+    "DOIs": [
+      "10.1039/C3ce40838h"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "TIFSIX-1-Cu",
+    "hashkey": "NIST-MATDB-9fa2aeb983bbdf159afd36f8462a9c4e",
+    "DOI": "10.1039/C3cc37695h",
+    "DOIs": [
+      "10.1039/C3cc37695h"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "NOTT-109a",
+    "hashkey": "NIST-MATDB-9fe613d8a0a7fd070a80c29483352ff5",
+    "DOI": "10.1039/C3ee41166d",
+    "DOIs": [
+      "10.1039/C3ee41166d"
+    ],
+    "Temperatures": [
+      300
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Zn6(mu6-O)(TPO)2]-(NO3)4-3H2O",
+    "hashkey": "NIST-MATDB-a16375e910e5376ba64672a5b1e5ae7b",
+    "DOI": "10.1021/ic402481b",
+    "DOIs": [
+      "10.1021/ic402481b"
+    ],
+    "Temperatures": [
+      273,
+      295
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "{[Cu4(dpdo)12][H(H2O)27(CH3CN)12][PW12O40]3}n",
+    "hashkey": "NIST-MATDB-a2c836dbf063e02dd55ffb87b1bc1557",
+    "DOI": "10.1016/j.inoche.2014.09.020",
+    "DOIs": [
+      "10.1016/j.inoche.2014.09.020"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "IRMOF-14",
+    "hashkey": "NIST-MATDB-a378219a763aefdf46b08bb3faff567f",
+    "DOI": "10.1007/s10934-015-0060-4",
+    "DOIs": [
+      "10.1007/s10934-015-0060-4",
+      "10.1021/Ja9043888",
+      "10.1021/Jp050948l",
+      "10.1021/Jp076657p",
+      "10.1021/Jp711326g",
+      "10.1021/Jp910522h",
+      "10.1021/La800369s",
+      "10.1021/La803074g",
+      "10.1063/1.4892670",
+      "10.1080/08927022.2013.784760",
+      "10.3866/PKU.WHXB20110319"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MIL-101FF(Cr)",
+    "hashkey": "NIST-MATDB-a3d496b1fcbad08a4f1e732946d302cb",
+    "DOI": "10.1021/acs.jpcc.5b02861",
+    "DOIs": [
+      "10.1021/acs.jpcc.5b02861"
+    ],
+    "Temperatures": [
+      297
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Co(azpy)2(NCS)2]*0.5EtOH",
+    "hashkey": "NIST-MATDB-a3ef345291214fddc8ae98d58ad9a42e",
+    "DOI": "10.1021/Cm990612m",
+    "DOIs": [
+      "10.1021/Cm990612m"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MOF-508",
+    "hashkey": "NIST-MATDB-a4b3fc60364cef8a9eb12e7bbc908a8b",
+    "DOI": "10.1021/Ja904782h",
+    "DOIs": [
+      "10.1021/Ja904782h",
+      "10.1021/Jp077618g",
+      "10.1039/C2cc34380k",
+      "10.1080/01496390802282347"
+    ],
+    "Temperatures": [
+      303,
+      323
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "FIR-51",
+    "hashkey": "NIST-MATDB-a4ed01077a429c5f198b12181cd8b6d8",
+    "DOI": "10.1039/c4dt03594a",
+    "DOIs": [
+      "10.1039/c4dt03594a"
+    ],
+    "Temperatures": [
+      273,
+      294
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Zr-BDC-NO2",
+    "hashkey": "NIST-MATDB-a5336c251c5fe46b747733c4c3e2d501",
+    "DOI": "10.1021/acs.iecr.7b03341",
+    "DOIs": [
+      "10.1021/acs.iecr.7b03341"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Mg3(HCOO)6",
+    "hashkey": "NIST-MATDB-a6db3698939de3d5652214e0e21c266b",
+    "DOI": "10.1016/j.micromeso.2016.01.030",
+    "DOIs": [
+      "10.1016/j.micromeso.2016.01.030"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "COMOC-2",
+    "hashkey": "NIST-MATDB-a6f101f386dee100047fcaf572ce237c",
+    "DOI": "10.1021/acs.langmuir.5b00655",
+    "DOIs": [
+      "10.1021/acs.langmuir.5b00655",
+      "10.1021/acs.langmuir.5b04185"
+    ],
+    "Temperatures": [
+      303
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Zn(BDC)(DABCO)0.5",
+    "hashkey": "NIST-MATDB-a802c8f06888bfc869dfc25af5ada337",
+    "DOI": "10.1002/ejic.201100034",
+    "DOIs": [
+      "10.1002/ejic.201100034",
+      "10.1016/j.micromeso.2012.01.033",
+      "10.1021/Jp9006747",
+      "10.1038/Ncomms1956"
+    ],
+    "Temperatures": [
+      273,
+      296
+    ],
+    "synonyms": [
+      "MOF Zn(BDC)(Dabco)0.5",
+      "Zn(BDC)-(Dabco)0.5"
+    ]
+  },
+  {
+    "name": "C18H16N2NiO6.5",
+    "hashkey": "NIST-MATDB-a90af2f6523476761c9c35a6bd39896b",
+    "DOI": "10.1039/C2dt12198k",
+    "DOIs": [
+      "10.1039/C2dt12198k"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Zn(BDC-OH)-(TED)0.5]",
+    "hashkey": "NIST-MATDB-a913314565a8850d65ecf76b10569999",
+    "DOI": "10.1002/chem.201002818",
+    "DOIs": [
+      "10.1002/chem.201002818"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "SNU-15'",
+    "hashkey": "NIST-MATDB-aa90a2ba1cfd1d542eb3594f766417d3",
+    "DOI": "10.1039/B900085b",
+    "DOIs": [
+      "10.1039/B900085b"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": [
+      "Desolvated SNU-15"
+    ]
+  },
+  {
+    "name": "C50H48Co3N6O14S3",
+    "hashkey": "NIST-MATDB-ab72cbc68d0a68b9462909f5ff901baf",
+    "DOI": "10.1039/C1ce05103b",
+    "DOIs": [
+      "10.1039/C1ce05103b"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UTSA-16",
+    "hashkey": "NIST-MATDB-ab995b569e3eef266e371252ec189e8b",
+    "DOI": "10.1016/j.ces.2014.08.039",
+    "DOIs": [
+      "10.1016/j.ces.2014.08.039",
+      "10.1038/Ncomms1956",
+      "10.1039/C4ee00143e"
+    ],
+    "Temperatures": [
+      298,
+      313
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "IRMOF-8-NO2",
+    "hashkey": "NIST-MATDB-ac3cdaec8e45fd06779a77980de301cb",
+    "DOI": "10.1016/j.micromeso.2013.04.023",
+    "DOIs": [
+      "10.1016/j.micromeso.2013.04.023"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MOF-505",
+    "hashkey": "NIST-MATDB-acbbe796d49416e999dc819f2ae65fe9",
+    "DOI": "10.1002/Aic.12397",
+    "DOIs": [
+      "10.1002/Aic.12397",
+      "10.1002/aic.12397",
+      "10.1002/anie.200462787",
+      "10.1016/j.inoche.2014.06.003",
+      "10.1016/j.micromeso.2012.11.013",
+      "10.1021/Ie901000x",
+      "10.1021/Ja0570032",
+      "10.1021/Ja904782h",
+      "10.1021/Jp055908w",
+      "10.1021/Jp910522h",
+      "10.1021/acs.jpcc.6b10751",
+      "10.1021/acs.jpcc.7b08370",
+      "10.1080/08927022.2016.1262036",
+      "10.1557/Jmr.2013.357",
+      "10.3969/j.issn.1001-4861.2013.00.200"
+    ],
+    "Temperatures": [
+      273,
+      295
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Cu3(TDPAH)(H2O)3] 13H2O 8DMA",
+    "hashkey": "NIST-MATDB-ad8443a58b6d0f9c90e2c966b478e551",
+    "DOI": "10.1039/C4cc00375f",
+    "DOIs": [
+      "10.1039/C4cc00375f"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "CUK-1",
+    "hashkey": "NIST-MATDB-adac5c7a8c6d4ec0e904766ae85d617d",
+    "DOI": "10.1002/adma.200601983",
+    "DOIs": [
+      "10.1002/adma.200601983"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Co8-IRMOF-1",
+    "hashkey": "NIST-MATDB-aecf0542bc62d6c0f4551f33aed5f06e",
+    "DOI": "10.1021/La100423a",
+    "DOIs": [
+      "10.1021/La100423a"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "activated {[Zn4(bpydb)3(datz)2(H2O)](DMF)4(EtOH)5(H2O)8}n",
+    "hashkey": "NIST-MATDB-af024f601636c62dab8f880c2ae7615c",
+    "DOI": "10.1021/cg501758a",
+    "DOIs": [
+      "10.1021/cg501758a"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Ni6P6O18N6C18H36",
+    "hashkey": "NIST-MATDB-af0f57591074558f89a249ed4c1e9e5e",
+    "DOI": "10.1021/Ja804936z",
+    "DOIs": [
+      "10.1021/Ja804936z"
+    ],
+    "Temperatures": [
+      304
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "ELM-11",
+    "hashkey": "NIST-MATDB-af8457b5d2d66c70cbef8276ab19ed04",
+    "DOI": "10.1016/j.jcis.2009.03.020",
+    "DOIs": [
+      "10.1016/j.jcis.2009.03.020",
+      "10.1021/Jp210240x",
+      "10.1021/La201008v",
+      "10.1021/acsami.5b05456",
+      "10.1021/jp512870p"
+    ],
+    "Temperatures": [
+      303
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Al-soc-MOF-3",
+    "hashkey": "NIST-MATDB-af8a5b6c70b03db7ea3aa79b523f5981",
+    "DOI": "10.1021/jacs.5b07053",
+    "DOIs": [
+      "10.1021/jacs.5b07053"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MIL-100V after O2 binding",
+    "hashkey": "NIST-MATDB-afca7fc712371e54ea81d7c80d04935c",
+    "DOI": "10.1016/j.jcis.2015.06.036",
+    "DOIs": [
+      "10.1016/j.jcis.2015.06.036"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "desolvated [Cu5(L)2(OH)2·(H2O)2·DMA2]·2DMA·EtOH·2H2O",
+    "hashkey": "NIST-MATDB-afe1c6e73457c83e0d112f22b07574d0",
+    "DOI": "10.1039/c5ce00762c",
+    "DOIs": [
+      "10.1039/c5ce00762c"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "C12H6O13Zn4",
+    "hashkey": "NIST-MATDB-b01f3e5a174eb1bd8c260fc27f9ba4ba",
+    "DOI": "10.1021/Ic900486r",
+    "DOIs": [
+      "10.1021/Ic900486r"
+    ],
+    "Temperatures": [
+      280,
+      290,
+      300
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "SION-8P",
+    "hashkey": "NIST-MATDB-b08b57714fc45ecc681b731bbb139c0f",
+    "DOI": "10.1021/acsami.8b13362",
+    "DOIs": [
+      "10.1021/acsami.8b13362"
+    ],
+    "Temperatures": [
+      273,
+      303
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Cu2(L)2(SO4)-(Br)2]*4H2O",
+    "hashkey": "NIST-MATDB-b0db4ed80089385f9c3e91d5600a1974",
+    "DOI": "10.1021/Ic3026304",
+    "DOIs": [
+      "10.1021/Ic3026304"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Zn(NDC)(BPY) 0.5",
+    "hashkey": "NIST-MATDB-b16ee19c4a2d5d7d2f7e09cb7263392f",
+    "DOI": "10.1002/adfm.201101479",
+    "DOIs": [
+      "10.1002/adfm.201101479"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "CAU-10-5-NO2",
+    "hashkey": "NIST-MATDB-b2875005784fc778ae4c9fb9f4f01a8e",
+    "DOI": "10.1007/s10450-020-00282-9",
+    "DOIs": [
+      "10.1007/s10450-020-00282-9"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "ZIF-8",
+    "hashkey": "NIST-MATDB-b2dc02871a66ac38e4b195796cf3e00b",
+    "DOI": "10.1002/Aic.13970",
+    "DOIs": [
+      "10.1002/Aic.13970",
+      "10.1002/Aic.14467",
+      "10.1002/Aic.14525",
+      "10.1002/adfm.201400559",
+      "10.1002/adma.202201502",
+      "10.1002/anie.201104383",
+      "10.1002/anie.201406011",
+      "10.1002/chem.200902144",
+      "10.1002/chem.201301461",
+      "10.1002/chem.201301806",
+      "10.1002/chem.201403542",
+      "10.1002/cite.201000179",
+      "10.1002/cite.201300078",
+      "10.1002/cssc.201100261",
+      "10.1007/s10450-012-9397-z",
+      "10.1007/s10450-012-9407-1",
+      "10.1007/s10450-012-9414-2",
+      "10.1007/s10450-018-9981-y",
+      "10.1007/s10934-015-0060-4",
+      "10.1007/s12274-014-0501-4",
+      "10.1016/J.Ijhydene.2011.02.044",
+      "10.1016/j.cej.2011.01.096",
+      "10.1016/j.cej.2019.04.094",
+      "10.1016/j.ces.2011.09.009",
+      "10.1016/j.electacta.2014.11.093",
+      "10.1016/j.ijhydene.2012.01.166",
+      "10.1016/j.ijhydene.2015.10.038",
+      "10.1016/j.inoche.2014.06.003",
+      "10.1016/j.inoche.2015.02.001",
+      "10.1016/j.jssc.2014.06.017",
+      "10.1016/j.memsci.2011.09.040",
+      "10.1016/j.memsci.2014.11.038",
+      "10.1016/j.memsci.2015.05.015",
+      "10.1016/j.micromeso.2008.11.020",
+      "10.1016/j.micromeso.2011.01.029",
+      "10.1016/j.micromeso.2012.03.052",
+      "10.1016/j.micromeso.2012.09.002",
+      "10.1016/j.micromeso.2012.11.012",
+      "10.1016/j.micromeso.2013.01.012",
+      "10.1016/j.micromeso.2014.04.009",
+      "10.1016/j.micromeso.2015.05.008",
+      "10.1016/j.micromeso.2016.01.030",
+      "10.1016/j.molcata.2013.12.005",
+      "10.1016/j.molliq.2017.01.110",
+      "10.1016/j.powtec.2013.09.013",
+      "10.1016/j.procs.2011.04.128",
+      "10.1016/j.seppur.2015.10.037",
+      "10.1016/j.seppur.2019.115850",
+      "10.1016/j.ultsonch.2017.04.030",
+      "10.1016/s1872-2067(14)60292-8",
+      "10.1021/Am5028346",
+      "10.1021/Cm3006953",
+      "10.1021/Cm302610z",
+      "10.1021/Ja202154j",
+      "10.1021/Ja211864w",
+      "10.1021/Ja904782h",
+      "10.1021/Ja909263x",
+      "10.1021/Jp074889i",
+      "10.1021/Jp103785u",
+      "10.1021/Jp209335y",
+      "10.1021/Jp303790r",
+      "10.1021/Jp3107167",
+      "10.1021/Jp400480q",
+      "10.1021/Jp5081466",
+      "10.1021/Jp904170s",
+      "10.1021/Jp904872f",
+      "10.1021/Jp908978q",
+      "10.1021/Jp910522h",
+      "10.1021/Jp911477a",
+      "10.1021/Jz300292y",
+      "10.1021/Jz3008485",
+      "10.1021/Jz300855a",
+      "10.1021/La102582g",
+      "10.1021/La401471g",
+      "10.1021/acs.iecr.7b01536",
+      "10.1021/acs.iecr.8b00719",
+      "10.1021/acs.jced.1c00900",
+      "10.1021/acssuschemeng.7b02604",
+      "10.1021/cm503640c",
+      "10.1021/ic200937u",
+      "10.1021/ie400380w",
+      "10.1021/jp206959k",
+      "10.1038/ncomms9697",
+      "10.1039/C0cc02271c",
+      "10.1039/C0ee00700e",
+      "10.1039/C0nj00836b",
+      "10.1039/C1ce05780d",
+      "10.1039/C1jm13343h",
+      "10.1039/C2cc34893d",
+      "10.1039/C2dt31779f",
+      "10.1039/C2jm15685g",
+      "10.1039/C2jm31541f",
+      "10.1039/C3cc39287b",
+      "10.1039/C3cc45308a",
+      "10.1039/C3cp50774b",
+      "10.1039/C3ta01544k",
+      "10.1039/C3ta11483j",
+      "10.1039/C3ta12433a",
+      "10.1039/C4cs00078a",
+      "10.1039/C4ee01009d",
+      "10.1039/c5ra01183c",
+      "10.1039/c6en00246c",
+      "10.1080/00958972.2013.797966",
+      "10.1246/cl.150217",
+      "10.1371/journal.pone.0128436",
+      "10.8888/Ja909263x",
+      "10.8888/j.cej.2011.01.096",
+      "10.8888/jp206959k",
+      "10.8888/s10450-012-9407-1"
+    ],
+    "Temperatures": [
+      298,
+      300,
+      313
+    ],
+    "synonyms": [
+      "Basolite Z1200",
+      "MAF-4"
+    ]
+  },
+  {
+    "name": "ZIF-100",
+    "hashkey": "NIST-MATDB-b2f286918e50470b61010736dea3b873",
+    "DOI": "10.1039/c4ta06763k",
+    "DOIs": [
+      "10.1039/c4ta06763k"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "NPC-7-Cu",
+    "hashkey": "NIST-MATDB-b326c3dbf440a20fdd9fa30b84918fb1",
+    "DOI": "10.1021/acsami.5b07953",
+    "DOIs": [
+      "10.1021/acsami.5b07953"
+    ],
+    "Temperatures": [
+      273,
+      283,
+      293,
+      303
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Cu2(Me4BPDC)2]*9DMF",
+    "hashkey": "NIST-MATDB-b4763ca37b9a184a56f5c6a5161bcc24",
+    "DOI": "10.1016/j.crci.2012.09.001",
+    "DOIs": [
+      "10.1016/j.crci.2012.09.001"
+    ],
+    "Temperatures": [
+      273,
+      293
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Zn2(CN5H2)3(H2O)3]6H2O Ac",
+    "hashkey": "NIST-MATDB-b4ded22a11c441a1b3ab509c773faf92",
+    "DOI": "10.1002/cplu.201200270",
+    "DOIs": [
+      "10.1002/cplu.201200270"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Cu(Hoxonic)(bpy)0.5]n*1.5n",
+    "hashkey": "NIST-MATDB-b6e2482604ec86698407dee317093aad",
+    "DOI": "10.1002/chem.200902346",
+    "DOIs": [
+      "10.1002/chem.200902346"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "{[Zn3(ptp)3](DMF)2-(H2O)}",
+    "hashkey": "NIST-MATDB-b79f378760f114ca0c4788cf5c9c00f2",
+    "DOI": "10.1021/Ic2015463",
+    "DOIs": [
+      "10.1021/Ic2015463"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MIL-47",
+    "hashkey": "NIST-MATDB-b848f05ba9fb26cdd50755863b377c56",
+    "DOI": "10.1002/Aic.14467",
+    "DOIs": [
+      "10.1002/Aic.14467",
+      "10.1002/chem.200802672",
+      "10.1007/s10450-010-9305-3",
+      "10.1007/s10934-015-0060-4",
+      "10.1016/j.inoche.2014.06.003",
+      "10.1021/Ie3015268",
+      "10.1021/Ja800686c",
+      "10.1021/Jp2039527",
+      "10.1021/Jp211563e",
+      "10.1021/Jp308525k",
+      "10.1021/Jp811190g",
+      "10.1021/Jp908247w",
+      "10.1021/Jz3008485",
+      "10.1021/La203374a",
+      "10.1038/Nchem.1192",
+      "10.1039/C0cc04759g",
+      "10.1039/C2cp42137b",
+      "10.1260/0263-6174.28.8-9.823"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UiO-66(Zr)-(COOH)2 (423K)",
+    "hashkey": "NIST-MATDB-b8633e438eb4b3b1963008b5ffb3e34e",
+    "DOI": "10.1039/c4ta03992k",
+    "DOIs": [
+      "10.1039/c4ta03992k"
+    ],
+    "Temperatures": [
+      303
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "{[Tb(FDA)1.5(DMF)]*DMF}",
+    "hashkey": "NIST-MATDB-b86e8105cac1d841217916014055e76d",
+    "DOI": "10.1002/chem.201203487",
+    "DOIs": [
+      "10.1002/chem.201203487"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "NU-125",
+    "hashkey": "NIST-MATDB-b970cc46b139824b51520d18a9b63146",
+    "DOI": "10.1002/anie.201408464",
+    "DOIs": [
+      "10.1002/anie.201408464",
+      "10.1016/j.energy.2014.08.033",
+      "10.1016/j.energy.2015.08.096",
+      "10.1021/Ic500722n",
+      "10.1021/Ja4045289",
+      "10.1039/C3ee24506c",
+      "10.1039/c5ee00808e"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UMCM-1",
+    "hashkey": "NIST-MATDB-b9bffc1a1dbe706adfe44577120a9311",
+    "DOI": "10.1002/Aic.12397",
+    "DOIs": [
+      "10.1002/Aic.12397",
+      "10.1002/aic.12397",
+      "10.1002/anie.200705020",
+      "10.1007/s10934-015-0060-4",
+      "10.1016/j.micromeso.2010.07.007",
+      "10.1021/Jp906417z",
+      "10.1021/La800369s",
+      "10.1021/jp206959k",
+      "10.1039/C1cc14893a",
+      "10.1039/C1jm10264h"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Fe-soc-MOF-1a",
+    "hashkey": "NIST-MATDB-ba12e2619569e7b1de411872cc8479f8",
+    "DOI": "10.1021/acs.jced.1c00951",
+    "DOIs": [
+      "10.1021/acs.jced.1c00951"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "pmg-MOF-5",
+    "hashkey": "NIST-MATDB-ba2d93a0187e6a0517be60f2a6733755",
+    "DOI": "10.1038/srep12045",
+    "DOIs": [
+      "10.1038/srep12045"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[La(BTB)(H2O)3DMF]n Activated",
+    "hashkey": "NIST-MATDB-ba44d94d4795e26e53b0ca7a786c3229",
+    "DOI": "10.1039/C2jm15721g",
+    "DOIs": [
+      "10.1039/C2jm15721g"
+    ],
+    "Temperatures": [
+      278,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Co(Im)1.3(5-ClbIM)0.7",
+    "hashkey": "NIST-MATDB-ba50f198f1961235942fa6c4d21f339b",
+    "DOI": "10.1016/j.micromeso.2011.12.009",
+    "DOIs": [
+      "10.1016/j.micromeso.2011.12.009"
+    ],
+    "Temperatures": [
+      303
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Mn3(mu5-mTPO)(mu6-mTPO)(mu-H2O)(H2O)4]*2DMF*H2O",
+    "hashkey": "NIST-MATDB-ba661add260fcd1cb318e49bea5d862e",
+    "DOI": "10.1039/C3cc00093a",
+    "DOIs": [
+      "10.1039/C3cc00093a"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "ZIF-71",
+    "hashkey": "NIST-MATDB-ba925980550f907f14b9e2aa08b07d60",
+    "DOI": "10.1002/adfm.201402972",
+    "DOIs": [
+      "10.1002/adfm.201402972",
+      "10.1007/s10934-015-0060-4",
+      "10.1021/Jp209335y",
+      "10.1021/Jp303790r",
+      "10.1021/Jp3107167",
+      "10.1021/Jp3108182",
+      "10.1021/Jp910522h",
+      "10.1021/acssuschemeng.7b02604",
+      "10.1021/ar500272n",
+      "10.1021/ja104035j",
+      "10.1021/jp1033273"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "CD-MOF-2",
+    "hashkey": "NIST-MATDB-bbcac700aa70a474a0e175f62e1368a4",
+    "DOI": "10.1021/Ja402315d",
+    "DOIs": [
+      "10.1021/Ja402315d",
+      "10.1021/ja206525x",
+      "10.1021/ja511878b"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "eea-MOF-5",
+    "hashkey": "NIST-MATDB-bbd4c0c32dbd9f7b1df341984b71983f",
+    "DOI": "10.1039/c4ta07115h",
+    "DOIs": [
+      "10.1039/c4ta07115h"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MOF-177",
+    "hashkey": "NIST-MATDB-bbd809480ca8c8d0e4d066e70a9719d1",
+    "DOI": "10.1002/Aic.14467",
+    "DOIs": [
+      "10.1002/Aic.14467",
+      "10.1007/s10450-010-9305-3",
+      "10.1007/s10450-012-9397-z",
+      "10.1007/s10934-015-0060-4",
+      "10.1016/j.apenergy.2015.03.123",
+      "10.1016/j.fluid.2014.08.020",
+      "10.1016/j.ijhydene.2008.09.053",
+      "10.1016/j.ijhydene.2010.09.057",
+      "10.1016/j.ijhydene.2014.07.028",
+      "10.1016/j.inoche.2014.06.003",
+      "10.1016/j.jcis.2010.04.078",
+      "10.1016/j.matlet.2011.03.039",
+      "10.1016/j.micromeso.2010.07.007",
+      "10.1016/j.micromeso.2012.04.042",
+      "10.1021/Cg070640e",
+      "10.1021/Es9032309",
+      "10.1021/Ie901000x",
+      "10.1021/Ja0542690",
+      "10.1021/Ja0570032",
+      "10.1021/Ja076595g",
+      "10.1021/Ja111411q",
+      "10.1021/Je9000087",
+      "10.1021/Jp1044139",
+      "10.1021/Jp209541e",
+      "10.1021/Jp308525k",
+      "10.1021/Jp809539w",
+      "10.1021/Jp910522h",
+      "10.1021/Jp9106525",
+      "10.1021/La401446s",
+      "10.1021/La702466d",
+      "10.1021/La703864a",
+      "10.1021/ja111411q",
+      "10.1021/jp206959k",
+      "10.1021/jp307865n",
+      "10.1021/jp809539w",
+      "10.1038/Ncomms1956",
+      "10.1039/B703608f",
+      "10.1039/B922991d",
+      "10.1039/C1cc11618e",
+      "10.1039/C1ee01426a",
+      "10.1039/C4ee00143e",
+      "10.1039/c1ee01720a",
+      "10.1063/1.4726255",
+      "10.1126/science.1192160"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "JUC-132",
+    "hashkey": "NIST-MATDB-bc67bb25855d7be2699e74c6aba03a65",
+    "DOI": "10.1039/c5cc01281c",
+    "DOIs": [
+      "10.1039/c5cc01281c"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "SNIFSIX-1-Cu",
+    "hashkey": "NIST-MATDB-bdb797f19c024205bbb7dbee45ecabab",
+    "DOI": "10.1039/C3cc37695h",
+    "DOIs": [
+      "10.1039/C3cc37695h"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Cr-MIL-101_amide",
+    "hashkey": "NIST-MATDB-bdc9708274ac7c1acf5a4f4499e98a7c",
+    "DOI": "10.1039/C2dt30672g",
+    "DOIs": [
+      "10.1039/C2dt30672g"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "In-soc-MOF-1c",
+    "hashkey": "NIST-MATDB-bdd297b53d560d778fe632840347ae70",
+    "DOI": "10.1021/acs.jced.1c00951",
+    "DOIs": [
+      "10.1021/acs.jced.1c00951"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Tb-pek-MOF-1",
+    "hashkey": "NIST-MATDB-be9f51ea48c4eeb348d95a383edddd8a",
+    "DOI": "10.1021/jacs.5b00450",
+    "DOIs": [
+      "10.1021/jacs.5b00450"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Fe-soc-MOF-1b",
+    "hashkey": "NIST-MATDB-bec23a40457923a212907f42684c0e5c",
+    "DOI": "10.1021/acs.jced.1c00951",
+    "DOIs": [
+      "10.1021/acs.jced.1c00951"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Zn2C14N2O8H4",
+    "hashkey": "NIST-MATDB-c235e2b9f0e0f3949e37b5ac3054f2ec",
+    "DOI": "10.1021/Ja060946u",
+    "DOIs": [
+      "10.1021/Ja060946u"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Cu2(BME-bdc)2(dabco)]n",
+    "hashkey": "NIST-MATDB-c238016c7b183d0c206f80eb06bbf713",
+    "DOI": "10.1016/j.micromeso.2011.09.006",
+    "DOIs": [
+      "10.1016/j.micromeso.2011.09.006"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MOF-205-OBn",
+    "hashkey": "NIST-MATDB-c37eba54e85c5feb4bb0c694afb281f2",
+    "DOI": "10.1039/C4dt02300e",
+    "DOIs": [
+      "10.1039/C4dt02300e"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Cr-MIL-101_urea",
+    "hashkey": "NIST-MATDB-c3f3d05e5310061ba8ce613c25689e85",
+    "DOI": "10.1039/C2dt30672g",
+    "DOIs": [
+      "10.1039/C2dt30672g"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "CPF-13",
+    "hashkey": "NIST-MATDB-c50637bf54a2d538f3d82d51fc4d9e36",
+    "DOI": "10.1021/Cm301322b",
+    "DOIs": [
+      "10.1021/Cm301322b"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MOF-2'-Li",
+    "hashkey": "NIST-MATDB-c66fcb7fe4e6e8bddff9867285addb18",
+    "DOI": "10.1016/j.micromeso.2010.10.048",
+    "DOIs": [
+      "10.1016/j.micromeso.2010.10.048"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MOF-205",
+    "hashkey": "NIST-MATDB-c72a7787d6aa9690e6f0e608535eba56",
+    "DOI": "10.1016/j.fluid.2014.08.020",
+    "DOIs": [
+      "10.1016/j.fluid.2014.08.020",
+      "10.1016/j.ijhydene.2014.07.028",
+      "10.1021/Ic302010e",
+      "10.1039/C4dt02300e",
+      "10.1126/science.1192160"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "ROD-8a",
+    "hashkey": "NIST-MATDB-c750312180598dce5e7e8761b750f6ab",
+    "DOI": "10.1039/C4ce00279b",
+    "DOIs": [
+      "10.1039/C4ce00279b"
+    ],
+    "Temperatures": [
+      273,
+      298,
+      303
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Ni(BPEB)]",
+    "hashkey": "NIST-MATDB-c8b87c33b697e8a3304458115b4cd8de",
+    "DOI": "10.1039/C4ta01798f",
+    "DOIs": [
+      "10.1039/C4ta01798f"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Zn2(CN5H2)3(H2O)3]6H2O",
+    "hashkey": "NIST-MATDB-c936a26aca2785521f7370745126254f",
+    "DOI": "10.1002/cplu.201200270",
+    "DOIs": [
+      "10.1002/cplu.201200270"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "{[Co(dcpy)(bipy)0.5(H2O)]*H2O}",
+    "hashkey": "NIST-MATDB-c93e4e4de0de5f69784bd3a044290aa6",
+    "DOI": "10.1039/C2ce06372g",
+    "DOIs": [
+      "10.1039/C2ce06372g"
+    ],
+    "Temperatures": [
+      293
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "ZJNU-54a",
+    "hashkey": "NIST-MATDB-c960339ae404ff0d9b08dfb1addb9108",
+    "DOI": "10.1039/c6dt02150f",
+    "DOIs": [
+      "10.1039/c6dt02150f"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "NOTT-300",
+    "hashkey": "NIST-MATDB-c9b48f1b01eb70760c7d618b9ac9c937",
+    "DOI": "10.1007/s10450-020-00282-9",
+    "DOIs": [
+      "10.1007/s10450-020-00282-9",
+      "10.1016/j.chemphys.2013.11.004",
+      "10.1038/Nchem.1457",
+      "10.1038/nchem.2114",
+      "10.1038/ncomms8328"
+    ],
+    "Temperatures": [
+      273,
+      283,
+      293,
+      298,
+      303
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MIL-100(V)",
+    "hashkey": "NIST-MATDB-cb327448137b4899eea8cf7f5217ca95",
+    "DOI": "10.1016/j.micromeso.2011.12.001",
+    "DOIs": [
+      "10.1016/j.micromeso.2011.12.001"
+    ],
+    "Temperatures": [
+      303
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "NJU-Bai13",
+    "hashkey": "NIST-MATDB-cb92fb8a573d601d911df43416fac968",
+    "DOI": "10.1039/C3ce41119b",
+    "DOIs": [
+      "10.1039/C3ce41119b"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Cu(hfipbb)(H2hfipbb)0.5",
+    "hashkey": "NIST-MATDB-cbf640c765cd8e230699065a4c386824",
+    "DOI": "10.1002/anie.200503503",
+    "DOIs": [
+      "10.1002/anie.200503503",
+      "10.1016/j.ijhydene.2012.01.122",
+      "10.1016/j.jcis.2011.01.103",
+      "10.1016/j.jssc.2005.07.002"
+    ],
+    "Temperatures": [
+      278,
+      298,
+      318
+    ],
+    "synonyms": [
+      "Cu-(hfipbb)(H2hfipbb)0.5",
+      "[Cu(hfipbb)(H2hfipbb)0.5]"
+    ]
+  },
+  {
+    "name": "CAU-10-5-NH2",
+    "hashkey": "NIST-MATDB-cc5b80f1c6fd70e5b77c5403f8a1f07f",
+    "DOI": "10.1007/s10450-020-00282-9",
+    "DOIs": [
+      "10.1007/s10450-020-00282-9"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "SIM-1 (ZIF-94)",
+    "hashkey": "NIST-MATDB-cc9e82fdee5a3de2dc0d8ea40a1ecc5f",
+    "DOI": "10.1016/j.seppur.2019.115850",
+    "DOIs": [
+      "10.1016/j.seppur.2019.115850"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Al-BDC",
+    "hashkey": "NIST-MATDB-cce03d7a2de79334704ac30e9b3ab673",
+    "DOI": "10.1016/j.micromeso.2016.01.030",
+    "DOIs": [
+      "10.1016/j.micromeso.2016.01.030",
+      "10.1039/c6ra12280a"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UPC-12",
+    "hashkey": "NIST-MATDB-ccf53e01bcd6b814a7d7d7c4f772a2d4",
+    "DOI": "10.1021/acs.inorgchem.5b01232",
+    "DOIs": [
+      "10.1021/acs.inorgchem.5b01232"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Al-soc-MOF-1d",
+    "hashkey": "NIST-MATDB-cd7853a0fd2fae367334f38213532022",
+    "DOI": "10.1021/acs.jced.1c00951",
+    "DOIs": [
+      "10.1021/acs.jced.1c00951"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "C37H90Cu4O55",
+    "hashkey": "NIST-MATDB-ce1e82df74ccd9c549e14591c9562a34",
+    "DOI": "10.1039/C2jm15538a",
+    "DOIs": [
+      "10.1039/C2jm15538a"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "InOF-15",
+    "hashkey": "NIST-MATDB-ce261a72defa1fa7ed3a5699d0a7032e",
+    "DOI": "10.1039/c7dt03255b",
+    "DOIs": [
+      "10.1039/c7dt03255b"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "NPC-7-Zn",
+    "hashkey": "NIST-MATDB-ced3f99b3a27382e97774cffcb6b54c2",
+    "DOI": "10.1021/acsami.5b07953",
+    "DOIs": [
+      "10.1021/acsami.5b07953"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Zn(BDC)(BPY) 0.5",
+    "hashkey": "NIST-MATDB-d049583f6d607e59dc804c4029176dcb",
+    "DOI": "10.1002/adfm.201101479",
+    "DOIs": [
+      "10.1002/adfm.201101479"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "CALF-33-Et3",
+    "hashkey": "NIST-MATDB-d76fc9c0abb0833a2b5183079bea5700",
+    "DOI": "10.1002/anie.201607745",
+    "DOIs": [
+      "10.1002/anie.201607745"
+    ],
+    "Temperatures": [
+      293
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "FIR-7a-ht",
+    "hashkey": "NIST-MATDB-d7ca58df25e418904749b937dc840b31",
+    "DOI": "10.1039/C3cc47286h",
+    "DOIs": [
+      "10.1039/C3cc47286h"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "ZIF-11",
+    "hashkey": "NIST-MATDB-d80120861cca89709057aa848f34313f",
+    "DOI": "10.1007/s10934-015-0060-4",
+    "DOIs": [
+      "10.1007/s10934-015-0060-4",
+      "10.1016/J.Ijhydene.2011.02.044",
+      "10.1016/j.micromeso.2014.10.031",
+      "10.1021/Jp103785u",
+      "10.1021/Jp910522h",
+      "10.1039/C3dt52103f",
+      "10.1039/c4ta06820c"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "{[(Me2NH2)2]*[Cd3(5-tbip)4]*2DMF}n",
+    "hashkey": "NIST-MATDB-d82b38fe46a8c8053c4cf49ecc0c7774",
+    "DOI": "10.1039/C3ce40795k",
+    "DOIs": [
+      "10.1039/C3ce40795k"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "RT-Cu(Qc)2",
+    "hashkey": "NIST-MATDB-d8f1103edf78b0c56186218e46e31a36",
+    "DOI": "10.1016/j.ces.2019.115355",
+    "DOIs": [
+      "10.1016/j.ces.2019.115355"
+    ],
+    "Temperatures": [
+      288
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "FIR-8a-ht",
+    "hashkey": "NIST-MATDB-d9783e337e7ce09116e25a43e33f6d63",
+    "DOI": "10.1021/Ic4020256",
+    "DOIs": [
+      "10.1021/Ic4020256"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Treated (Et2NH2)3[(Cu4Cl)3(TTCA)8]-Li",
+    "hashkey": "NIST-MATDB-da43b060073a980438d25a3ba0006994",
+    "DOI": "10.1039/C2cc35461f",
+    "DOIs": [
+      "10.1039/C2cc35461f"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MOF Cu-ABTA",
+    "hashkey": "NIST-MATDB-daa0895548ee0dd3a0a346a5f904ed47",
+    "DOI": "10.1039/C4ra07101h",
+    "DOIs": [
+      "10.1039/C4ra07101h"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "C32H34N4O15Cl5Zn3",
+    "hashkey": "NIST-MATDB-db976ae0455d77a29d5ea4a2f428eabc",
+    "DOI": "10.1039/B927486C",
+    "DOIs": [
+      "10.1039/B927486C"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "(me2NH2)6[In10(TTCA)12]*24DMF*15H2O",
+    "hashkey": "NIST-MATDB-dc1f4b7ddd96245d3704815ee72b638d",
+    "DOI": "10.1021/Ic501413r",
+    "DOIs": [
+      "10.1021/Ic501413r"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Cu-TDPAT",
+    "hashkey": "NIST-MATDB-dd648c6388274576eaa6f506d849b3f9",
+    "DOI": "10.1002/anie.201105966",
+    "DOIs": [
+      "10.1002/anie.201105966",
+      "10.1007/s10934-015-0060-4",
+      "10.1016/j.jcat.2014.07.010",
+      "10.1021/Jp3046356",
+      "10.1021/La302537d",
+      "10.1021/jp3046356",
+      "10.1021/la302537d",
+      "10.1038/Ncomms1956",
+      "10.1039/C4ee00143e"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MOF-14",
+    "hashkey": "NIST-MATDB-ddd6f2d174f6d5cc75ee1fda94840dd8",
+    "DOI": "10.1002/chem.201402923",
+    "DOIs": [
+      "10.1002/chem.201402923",
+      "10.1016/j.jcis.2012.10.018",
+      "10.1016/j.micromeso.2011.11.039",
+      "10.1021/Cg070640e",
+      "10.1021/Cm1012119",
+      "10.1021/Jp809539w",
+      "10.1021/Jp910522h",
+      "10.1021/jp809539w"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "NJU-Bai10",
+    "hashkey": "NIST-MATDB-de097f333a12f151b1a9c69309e8d354",
+    "DOI": "10.1021/Cg400449c",
+    "DOIs": [
+      "10.1021/Cg400449c"
+    ],
+    "Temperatures": [
+      290
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Mg-MOF-74 (4)",
+    "hashkey": "NIST-MATDB-df5a7d1b98bf856906a188166face5b4",
+    "DOI": "10.1016/j.micromeso.2013.06.023",
+    "DOIs": [
+      "10.1016/j.micromeso.2013.06.023"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Zn-DABCO",
+    "hashkey": "NIST-MATDB-df647d61b00b35b8b88ae26030802346",
+    "DOI": "10.1002/ceat.201300046",
+    "DOIs": [
+      "10.1002/ceat.201300046",
+      "10.1016/j.micromeso.2014.09.038",
+      "10.1016/j.seppur.2011.09.041",
+      "10.1021/Je3007265"
+    ],
+    "Temperatures": [
+      294,
+      314
+    ],
+    "synonyms": [
+      "ZnDABCO"
+    ]
+  },
+  {
+    "name": "MIL-101V before O2 binding",
+    "hashkey": "NIST-MATDB-df8774d6a41e1e2697ca8658a38ec816",
+    "DOI": "10.1016/j.jcis.2015.06.036",
+    "DOIs": [
+      "10.1016/j.jcis.2015.06.036"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "CaIICuII6L3(OH)2(H2O)}*32H2O, L = (S,S)-alamox",
+    "hashkey": "NIST-MATDB-dfa6033107b4c9a328b40231086a893c",
+    "DOI": "10.1039/c7ta01179b",
+    "DOIs": [
+      "10.1039/c7ta01179b"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "CAU-10-3,5-pydc",
+    "hashkey": "NIST-MATDB-dffe4c582f49e95ef1c52fcdb8af6841",
+    "DOI": "10.1007/s10450-020-00282-9",
+    "DOIs": [
+      "10.1007/s10450-020-00282-9"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "(In3O)(OH)(ADC)2(IN)2*4.67H2O",
+    "hashkey": "NIST-MATDB-e0f1ea383b8b290ca83fb4c214ff9cf0",
+    "DOI": "10.1039/C0cc02808h",
+    "DOIs": [
+      "10.1039/C0cc02808h"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "PCN-26",
+    "hashkey": "NIST-MATDB-e1f63ee5fa8513c0b29865329f746fb4",
+    "DOI": "10.1007/s10934-015-0060-4",
+    "DOIs": [
+      "10.1007/s10934-015-0060-4",
+      "10.1021/ie403159c"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Cr-MIL(101)",
+    "hashkey": "NIST-MATDB-e23e0f3921a269533d74caae8c5a12bf",
+    "DOI": "10.1002/aic.15561",
+    "DOIs": [
+      "10.1002/aic.15561",
+      "10.1002/chem.201101705",
+      "10.1016/j.aca.2013.03.071",
+      "10.1016/j.apenergy.2013.06.041",
+      "10.1016/j.cej.2012.04.071",
+      "10.1016/j.cej.2015.02.088",
+      "10.1016/j.energy.2014.11.022",
+      "10.1016/j.energy.2015.08.096",
+      "10.1016/j.fuproc.2014.10.030",
+      "10.1016/j.ijhydene.2011.03.102",
+      "10.1016/j.inoche.2013.03.003",
+      "10.1016/j.jcat.2011.04.015",
+      "10.1016/j.micromeso.2010.05.018",
+      "10.1016/j.micromeso.2013.06.007",
+      "10.1016/j.micromeso.2013.08.040",
+      "10.1016/j.micromeso.2014.11.025",
+      "10.1021/Cs400681s",
+      "10.1021/Ja2042113",
+      "10.1021/Jp308525k",
+      "10.1021/La100601a",
+      "10.1021/acs.iecr.6b04538",
+      "10.1021/acs.jpcc.5b02861",
+      "10.1021/acssuschemeng.6b01692",
+      "10.1021/jp301375s",
+      "10.1039/C1ce06274c",
+      "10.1039/C2ce06666a",
+      "10.1039/C2ra20641b",
+      "10.1039/C3cp54898h",
+      "10.1039/C4cs00078a",
+      "10.1039/c4ta06832g",
+      "10.1039/c5dt02625c",
+      "10.3866/Pku.Whxb201309021"
+    ],
+    "Temperatures": [
+      273,
+      288,
+      289,
+      297,
+      298,
+      300,
+      303,
+      313
+    ],
+    "synonyms": [
+      "Cr-MIL-101",
+      "MI-101(Cr)",
+      "MIL-101 (Cr)",
+      "MIL-101(Cr)",
+      "MIL-101Cr"
+    ]
+  },
+  {
+    "name": "ZJU-26",
+    "hashkey": "NIST-MATDB-e2461692eb8044ca4c48fea02c5f096c",
+    "DOI": "10.1016/j.micromeso.2013.07.019",
+    "DOIs": [
+      "10.1016/j.micromeso.2013.07.019"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MIL-100(Cr), activated at 250C",
+    "hashkey": "NIST-MATDB-e2edb5c894eb1f9c108ec4fd518592aa",
+    "DOI": "10.1021/acs.jced.9b00770",
+    "DOIs": [
+      "10.1021/acs.jced.9b00770"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "SNU-151'",
+    "hashkey": "NIST-MATDB-e33038a31023858d56e771675539401d",
+    "DOI": "10.1002/chem.201303086",
+    "DOIs": [
+      "10.1002/chem.201303086"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "NZIF-8",
+    "hashkey": "NIST-MATDB-e38b8c1f4edd0b1a02f828d5d8e588e5",
+    "DOI": "10.1002/cssc.201403402",
+    "DOIs": [
+      "10.1002/cssc.201403402",
+      "10.1021/Jp407792a",
+      "10.1039/C002088e"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Beta-[{Co(F-pymo)2}n]",
+    "hashkey": "NIST-MATDB-e39d4856fb4eb22bcc744a36b84ab9c1",
+    "DOI": "10.1002/chem.200801048",
+    "DOIs": [
+      "10.1002/chem.200801048"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UiO-66-(OH)2",
+    "hashkey": "NIST-MATDB-e3b55d6bd4a1052c6a1e17c012aaba1c",
+    "DOI": "10.1021/acs.iecr.5b04061",
+    "DOIs": [
+      "10.1021/acs.iecr.5b04061",
+      "10.1021/acs.inorgchem.5b00435"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MOF-1M'",
+    "hashkey": "NIST-MATDB-e3d41515552e2ff3025163484768aab2",
+    "DOI": "10.1016/j.micromeso.2010.10.048",
+    "DOIs": [
+      "10.1016/j.micromeso.2010.10.048"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Al-soc-MOF-2",
+    "hashkey": "NIST-MATDB-e43a6f6e6a693f59f9f85922f0cbcfdb",
+    "DOI": "10.1021/jacs.5b07053",
+    "DOIs": [
+      "10.1021/jacs.5b07053"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UTSA-48a",
+    "hashkey": "NIST-MATDB-e49df279a7d2f86005c20fab4fb2d2e1",
+    "DOI": "10.1021/Cg4004438",
+    "DOIs": [
+      "10.1021/Cg4004438"
+    ],
+    "Temperatures": [
+      273,
+      296
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "ZIF-20",
+    "hashkey": "NIST-MATDB-e5274e4593c333f3a4b452a6ef524d31",
+    "DOI": "10.1016/J.Ijhydene.2011.02.044",
+    "DOIs": [
+      "10.1016/J.Ijhydene.2011.02.044",
+      "10.1038/Nmat1927"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UTSA-15",
+    "hashkey": "NIST-MATDB-e5386297edab94b5a9ac0f1117e071f3",
+    "DOI": "10.1021/Ic102347b",
+    "DOIs": [
+      "10.1021/Ic102347b"
+    ],
+    "Temperatures": [
+      296
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "NJU-Bai16",
+    "hashkey": "NIST-MATDB-e5c91eae38ec8d2f19eb75e37c477f4e",
+    "DOI": "10.1039/c5ce00612k",
+    "DOIs": [
+      "10.1039/c5ce00612k"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "eea-MOF-4",
+    "hashkey": "NIST-MATDB-e6b24d002f0be7b19db9e4a0b3345ee7",
+    "DOI": "10.1039/c4ta07115h",
+    "DOIs": [
+      "10.1039/c4ta07115h"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Zn4O(BDC)3",
+    "hashkey": "NIST-MATDB-e6c566b2365fa4837027d00c57215620",
+    "DOI": "10.1021/Ja076877g",
+    "DOIs": [
+      "10.1021/Ja076877g",
+      "10.1038/Srep06247",
+      "10.1039/c3sc52633j"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "{[Dy(ox)(Bpybc)(H2O)]*OH*13H2O}n",
+    "hashkey": "NIST-MATDB-e76751d386092e2623e344b84f5cf1ae",
+    "DOI": "10.1039/C3cc38260e",
+    "DOIs": [
+      "10.1039/C3cc38260e"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Zn(II)-MOF [Zn(HPylmDC)(DMA)]n",
+    "hashkey": "NIST-MATDB-e788f40ad7a33abe049ca098ed6ee980",
+    "DOI": "10.1039/C4dt00307a",
+    "DOIs": [
+      "10.1039/C4dt00307a"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "DUT-25",
+    "hashkey": "NIST-MATDB-e7c1a673818ca05ad7638253e9b7cbc3",
+    "DOI": "10.1002/chem.201202352",
+    "DOIs": [
+      "10.1002/chem.201202352"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MIL-100(Fe)",
+    "hashkey": "NIST-MATDB-e8a1a82c4fe2ad952d1c107156f780f2",
+    "DOI": "10.1002/chem.201502893",
+    "DOIs": [
+      "10.1002/chem.201502893",
+      "10.1007/s10450-016-9825-6",
+      "10.1016/j.cej.2014.06.099",
+      "10.1016/j.cej.2014.07.119",
+      "10.1016/j.cej.2015.01.092",
+      "10.1016/j.cej.2015.02.041",
+      "10.1016/j.cej.2015.04.087",
+      "10.1016/j.chroma.2012.12.015",
+      "10.1016/j.jhazmat.2012.01.005",
+      "10.1016/j.jhazmat.2012.08.025",
+      "10.1016/j.jiec.2009.09.043",
+      "10.1016/j.micromeso.2008.11.020",
+      "10.1016/j.micromeso.2011.12.001",
+      "10.1016/j.micromeso.2011.12.043",
+      "10.1016/j.micromeso.2012.02.027",
+      "10.1016/j.molcata.2015.02.007",
+      "10.1016/j.seppur.2013.03.009",
+      "10.1021/Cg3014317",
+      "10.1021/acsami.6b00608",
+      "10.1021/ja302787x",
+      "10.1021/jacs.5b00838",
+      "10.1039/C1cp20502a",
+      "10.1039/C2ce26636a"
+    ],
+    "Temperatures": [
+      293,
+      298,
+      303,
+      313
+    ],
+    "synonyms": [
+      "Fe-MIL-100",
+      "MIL-100-Fe"
+    ]
+  },
+  {
+    "name": "In-soc-MOF-1a",
+    "hashkey": "NIST-MATDB-ea2d6f4052af55947c293a447bded363",
+    "DOI": "10.1021/acs.jced.1c00951",
+    "DOIs": [
+      "10.1021/acs.jced.1c00951"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Zn22(btc)12-(H2O)22(NO3)8) xguest-c",
+    "hashkey": "NIST-MATDB-ea5e709740e7dd9ee07d32ca989dbb9e",
+    "DOI": "10.1039/c4ce02154a",
+    "DOIs": [
+      "10.1039/c4ce02154a"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "3Inf[(Cu(mu4-O)(mu2-OH)2(Me2trzpba)4]",
+    "hashkey": "NIST-MATDB-eac31584ad49217cba58bde85c79de24",
+    "DOI": "10.1016/j.micromeso.2010.11.017",
+    "DOIs": [
+      "10.1016/j.micromeso.2010.11.017"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "PCN-308",
+    "hashkey": "NIST-MATDB-eae6f61ad18f3424d1dbe2bb8af90479",
+    "DOI": "10.1002/chem.201203297",
+    "DOIs": [
+      "10.1002/chem.201203297"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MOF-508b",
+    "hashkey": "NIST-MATDB-eb8a03810908350733a3ad317d9a5927",
+    "DOI": "10.1002/anie.200502844",
+    "DOIs": [
+      "10.1002/anie.200502844",
+      "10.1016/j.jclepro.2015.03.082",
+      "10.1016/j.seppur.2014.08.021",
+      "10.1021/jp077618g",
+      "10.1080/01496390802282347"
+    ],
+    "Temperatures": [
+      303,
+      323
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Cu(BF4)2(bpy)2",
+    "hashkey": "NIST-MATDB-ec7a61a3cdcf887e5c56f0d182f1049a",
+    "DOI": "10.1016/j.micromeso.2012.01.008",
+    "DOIs": [
+      "10.1016/j.micromeso.2012.01.008"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": [
+      "[Cu(BF4)2(bpy)2]"
+    ]
+  },
+  {
+    "name": "Zn(Im)1.1(5-MebIM)0.9",
+    "hashkey": "NIST-MATDB-ece3999f37972593c395567da10928af",
+    "DOI": "10.1016/j.micromeso.2011.12.009",
+    "DOIs": [
+      "10.1016/j.micromeso.2011.12.009"
+    ],
+    "Temperatures": [
+      303
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Cu-SDU-1",
+    "hashkey": "NIST-MATDB-ed5049cd0f3b495ea431f5c70dd110be",
+    "DOI": "10.1021/Ic5017092",
+    "DOIs": [
+      "10.1021/Ic5017092"
+    ],
+    "Temperatures": [
+      273,
+      295
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Zn(L)].4DMF-a",
+    "hashkey": "NIST-MATDB-ed6efba00b0acfaaa68bacfa08abcf18",
+    "DOI": "10.1039/c4dt02481h",
+    "DOIs": [
+      "10.1039/c4dt02481h"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "(H3O)4[Ni6(pi3-O)2(pi2-OSC2H6)2(SO4)2(TATB)8/3].4C2H6O.13H2O",
+    "hashkey": "NIST-MATDB-ee36b2a9095ec91288836a44edfdc823",
+    "DOI": "10.1021/acs.inorgchem.5b00316",
+    "DOIs": [
+      "10.1021/acs.inorgchem.5b00316"
+    ],
+    "Temperatures": [
+      273,
+      297
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MIL-53(Cu)",
+    "hashkey": "NIST-MATDB-ee8eb9631a6c547675c582ac13168900",
+    "DOI": "10.1016/S1003-9953(11)60419-2",
+    "DOIs": [
+      "10.1016/S1003-9953(11)60419-2",
+      "10.1016/j.jiec.2013.01.026"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": [
+      "MIL-53-Cu"
+    ]
+  },
+  {
+    "name": "Fe2(O2)(dobdc)",
+    "hashkey": "NIST-MATDB-efaf30a6406de56acc79d3b111590458",
+    "DOI": "10.1016/j.jssc.2014.03.005",
+    "DOIs": [
+      "10.1016/j.jssc.2014.03.005"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UTSA",
+    "hashkey": "NIST-MATDB-f168f08e72b4714243e42c649168c63b",
+    "DOI": "10.1021/acs.jpcc.6b10751",
+    "DOIs": [
+      "10.1021/acs.jpcc.6b10751"
+    ],
+    "Temperatures": [
+      273,
+      296
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "NJU-Bai11",
+    "hashkey": "NIST-MATDB-f1db5f31ee87b019202d5c10cc62d821",
+    "DOI": "10.1021/Cg400096e",
+    "DOIs": [
+      "10.1021/Cg400096e"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Mg2(dobdc)",
+    "hashkey": "NIST-MATDB-f4b549a56c1a5caf008c436b7d0aaaea",
+    "DOI": "10.1002/adma.201500966",
+    "DOIs": [
+      "10.1002/adma.201500966",
+      "10.1016/j.micromeso.2011.09.004",
+      "10.1016/j.micromeso.2012.04.042",
+      "10.1021/Ja111411q",
+      "10.1021/acs.jpcc.6b10363",
+      "10.1021/ja111411q",
+      "10.1021/jacs.5b00838",
+      "10.1039/C0cc03453c",
+      "10.1039/C3ee42394h",
+      "10.1039/c1ee01720a",
+      "10.1039/c2ee23337a",
+      "10.1039/c3sc52633j"
+    ],
+    "Temperatures": [
+      298,
+      313
+    ],
+    "synonyms": [
+      "Mg2-(dobdc)"
+    ]
+  },
+  {
+    "name": "MIL-101",
+    "hashkey": "NIST-MATDB-f55cae58cff61d336d8b65bece21175f",
+    "DOI": "10.1002/Aic.11362",
+    "DOIs": [
+      "10.1002/Aic.11362",
+      "10.1002/Er.1933",
+      "10.1002/adma.202201502",
+      "10.1002/cjoc.201200575",
+      "10.1002/ejic.201001156",
+      "10.1007/s10450-012-9438-7",
+      "10.1007/s10450-013-9592-6",
+      "10.1007/s10450-015-9651-2",
+      "10.1007/s10934-015-0047-1",
+      "10.1007/s10934-015-9982-0",
+      "10.1007/s13738-013-0347-9",
+      "10.1016/S1003-9953(11)60374-5",
+      "10.1016/j.apcata.2013.09.011",
+      "10.1016/j.applthermaleng.2015.03.040",
+      "10.1016/j.cej.2011.07.051",
+      "10.1016/j.cej.2012.03.025",
+      "10.1016/j.cej.2013.01.002",
+      "10.1016/j.ces.2014.11.058",
+      "10.1016/j.fluid.2013.11.029",
+      "10.1016/j.ijhydene.2010.12.043",
+      "10.1016/j.ijhydene.2011.03.109",
+      "10.1016/j.ijhydene.2013.03.161",
+      "10.1016/j.ijhydene.2014.08.038",
+      "10.1016/j.jallcom.2015.01.083",
+      "10.1016/j.jcat.2008.05.014",
+      "10.1016/j.jelechem.2013.09.017",
+      "10.1016/j.jhazmat.2012.01.005",
+      "10.1016/j.jhazmat.2013.01.024",
+      "10.1016/j.jiec.2009.09.043",
+      "10.1016/j.micromeso.2008.11.020",
+      "10.1016/j.micromeso.2012.01.015",
+      "10.1016/j.micromeso.2012.02.034",
+      "10.1016/j.micromeso.2012.11.021",
+      "10.1016/j.molcata.2013.12.005",
+      "10.1016/j.molcata.2014.10.030",
+      "10.1016/j.molcata.2015.01.018",
+      "10.1016/j.molcata.2015.09.025",
+      "10.1016/j.mssp.2015.03.025",
+      "10.1016/j.talanta.2014.10.038",
+      "10.1021/Cg070640e",
+      "10.1021/Cs300754k",
+      "10.1021/Ef101548g",
+      "10.1021/Ic402012d",
+      "10.1021/Je2004098",
+      "10.1021/Jp3046356",
+      "10.1021/Jp3052938",
+      "10.1021/Jp811418r",
+      "10.1021/La101377u",
+      "10.1021/acs.iecr.6b00056",
+      "10.1021/jp3046356",
+      "10.1038/Ncomms1956",
+      "10.1039/C0cp01873b",
+      "10.1039/C2an35429b",
+      "10.1039/C2ce06608d",
+      "10.1039/C2jm16513a",
+      "10.1039/C3ce41737a",
+      "10.1039/C3ce42006j",
+      "10.1039/C3tb00257h",
+      "10.1039/C3tb21328e",
+      "10.1039/C4ee00143e",
+      "10.1039/c3ra45983g",
+      "10.1039/c4ta04878d",
+      "10.1039/c4ta07197b",
+      "10.1039/c5ta02320c",
+      "10.1080/01496395.2012.738756",
+      "10.1134/S0036023615070086",
+      "10.1142/S1793604712500397",
+      "10.1166/jnn.2013.6930",
+      "10.1166/jnn.2014.8535"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Mg-MOF-74",
+    "hashkey": "NIST-MATDB-f5e80ffaaaf05f4ed655664fd22defb9",
+    "DOI": "10.1002/Aic.14467",
+    "DOIs": [
+      "10.1002/Aic.14467",
+      "10.1002/adma.202201502",
+      "10.1002/aic.14707",
+      "10.1002/chem.201403542",
+      "10.1002/ejic.200701284",
+      "10.1007/s10450-017-9862-9",
+      "10.1016/j.ces.2010.10.002",
+      "10.1016/j.ijggc.2013.01.009",
+      "10.1016/j.jcis.2010.09.065",
+      "10.1016/j.memsci.2011.05.001",
+      "10.1016/j.micromeso.2014.02.028",
+      "10.1016/j.poly.2015.01.031",
+      "10.1016/j.seppur.2011.11.031",
+      "10.1021/Cg500190h",
+      "10.1021/Ct500094w",
+      "10.1021/Ja307076t",
+      "10.1021/Jp3046356",
+      "10.1021/Jp3062527",
+      "10.1021/Jp310517r",
+      "10.1021/Jp311118x",
+      "10.1021/Jp401923v",
+      "10.1021/Jp500313j",
+      "10.1021/Jp501495f",
+      "10.1021/Jp503778m",
+      "10.1021/Jp508249c",
+      "10.1021/Jz3008485",
+      "10.1021/La2030473",
+      "10.1021/acs.iecr.6b04270",
+      "10.1021/acs.iecr.7b04391",
+      "10.1021/acs.jpcc.7b08239",
+      "10.1021/acs.jpclett.7b01205",
+      "10.1021/ie202325p",
+      "10.1021/jp3046356",
+      "10.1021/jp510253m",
+      "10.1038/Nchem.1432",
+      "10.1038/Ncomms1956",
+      "10.1039/C0cc00091d",
+      "10.1039/C0ee00700e",
+      "10.1039/C3sc51319j",
+      "10.1039/C4cs00078a",
+      "10.1039/C4ee00143e",
+      "10.1039/c4ta05794e",
+      "10.1039/c5dt03137k",
+      "10.1063/1.4902816"
+    ],
+    "Temperatures": [
+      293,
+      303,
+      318
+    ],
+    "synonyms": [
+      "CPO-27-Mg",
+      "IRMOF-74-I",
+      "Mg MOF-74",
+      "Mg-CPO-27",
+      "Mg-MOF-74 (Mason et al.)",
+      "Mg-MOF74",
+      "Mg/MOF-74",
+      "MgMOF-74",
+      "MOF-74-Mg"
+    ]
+  },
+  {
+    "name": "InOF-2",
+    "hashkey": "NIST-MATDB-f68a58fe7a68c0fddf6b45d0b0178a79",
+    "DOI": "10.1039/C3ta11548h",
+    "DOIs": [
+      "10.1039/C3ta11548h"
+    ],
+    "Temperatures": [
+      273,
+      295
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "C10H5MnN3O4",
+    "hashkey": "NIST-MATDB-f69ed813b38de6ebad057c3012a3aabe",
+    "DOI": "10.1039/C1cc12278a",
+    "DOIs": [
+      "10.1039/C1cc12278a"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UHM-7",
+    "hashkey": "NIST-MATDB-f7d7eceed263e0880a5a6c67d71df113",
+    "DOI": "10.1039/C3ce40594j",
+    "DOIs": [
+      "10.1039/C3ce40594j"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UiO-67",
+    "hashkey": "NIST-MATDB-f7dc4657c1d121aa6da15e936391c2cb",
+    "DOI": "10.1002/anie.201204806",
+    "DOIs": [
+      "10.1002/anie.201204806",
+      "10.1016/j.comptc.2015.03.007",
+      "10.1016/j.memsci.2012.04.003",
+      "10.1016/j.micromeso.2015.05.030",
+      "10.1021/La302869m",
+      "10.1039/C1cp23434j",
+      "10.1039/c4cc09986a"
+    ],
+    "Temperatures": [
+      308
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "NOTT-101a",
+    "hashkey": "NIST-MATDB-f96bbb3f8120ee55e5b45b7556e11f4a",
+    "DOI": "10.1039/C3ee41166d",
+    "DOIs": [
+      "10.1039/C3ee41166d",
+      "10.1039/c5dt02089a"
+    ],
+    "Temperatures": [
+      273,
+      296,
+      300
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Zn(NO3)2*4H2O",
+    "hashkey": "NIST-MATDB-f9d1cd4311c3d5a8d7073794567d136a",
+    "DOI": "10.1002/anie.200904599",
+    "DOIs": [
+      "10.1002/anie.200904599"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UiO-66-NO2",
+    "hashkey": "NIST-MATDB-fa79ad13534250f0bc3baa41eda9ec6f",
+    "DOI": "10.1021/acs.iecr.5b04061",
+    "DOIs": [
+      "10.1021/acs.iecr.5b04061",
+      "10.1039/C2cp23839j",
+      "10.1039/C2dt30950e",
+      "10.1039/c4cp04162c"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UTSA-5A",
+    "hashkey": "NIST-MATDB-fa9457995735ac94de2cd562ae6d06ff",
+    "DOI": "10.1039/C3ce40452h",
+    "DOIs": [
+      "10.1039/C3ce40452h"
+    ],
+    "Temperatures": [
+      273,
+      296
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "MIL-160",
+    "hashkey": "NIST-MATDB-fa9eafbe42016145ad7734b8daead8fa",
+    "DOI": "10.1002/adma.201502418",
+    "DOIs": [
+      "10.1002/adma.201502418",
+      "10.1007/s10450-020-00282-9"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "gea-MOF-1",
+    "hashkey": "NIST-MATDB-fab951d1e53d35279d22a30a416c2e08",
+    "DOI": "10.1038/Nchem.1982",
+    "DOIs": [
+      "10.1038/Nchem.1982"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "UiO-66(Zr)-(COOH)2 (323K)",
+    "hashkey": "NIST-MATDB-fb724ebc336de9d29030c8b860c798ac",
+    "DOI": "10.1039/c4ta03992k",
+    "DOIs": [
+      "10.1039/c4ta03992k"
+    ],
+    "Temperatures": [
+      303
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "PCN-922",
+    "hashkey": "NIST-MATDB-fc265689c54225224adc9164b40aab27",
+    "DOI": "10.1021/Ic3019937",
+    "DOIs": [
+      "10.1021/Ic3019937"
+    ],
+    "Temperatures": [
+      273,
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[NH2(CH3)2]2[Cd3(BTA)(BTC)2(H2O)]2*7DMAC*8H2O",
+    "hashkey": "NIST-MATDB-fcccc08340bc1bb9ea339a6ffd869aa0",
+    "DOI": "10.1039/C2ta00635a",
+    "DOIs": [
+      "10.1039/C2ta00635a"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "CALF-22",
+    "hashkey": "NIST-MATDB-fdb879bdaf4438bb5eaf07f290310c1b",
+    "DOI": "10.1021/Ic302127y",
+    "DOIs": [
+      "10.1021/Ic302127y"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Cu2(L)2(SO4)(Br)2]",
+    "hashkey": "NIST-MATDB-fe4ea2d8669cdc82185822cf37560bff",
+    "DOI": "10.1021/Ic3026304",
+    "DOIs": [
+      "10.1021/Ic3026304"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "[Zn(L) H2O] DMA",
+    "hashkey": "NIST-MATDB-fe77581c44531a420777097b9167e180",
+    "DOI": "10.1039/C4cc00334a",
+    "DOIs": [
+      "10.1039/C4cc00334a"
+    ],
+    "Temperatures": [
+      273
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "CAU-10-4-NO2",
+    "hashkey": "NIST-MATDB-fe98c524f32d167669ea62f005509dcc",
+    "DOI": "10.1007/s10450-020-00282-9",
+    "DOIs": [
+      "10.1007/s10450-020-00282-9"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  },
+  {
+    "name": "Mg-MOF-74 (3)",
+    "hashkey": "NIST-MATDB-ffef9fe8f87486bc0a607d2de561618d",
+    "DOI": "10.1016/j.micromeso.2013.06.023",
+    "DOIs": [
+      "10.1016/j.micromeso.2013.06.023"
+    ],
+    "Temperatures": [
+      298
+    ],
+    "synonyms": []
+  }
+]

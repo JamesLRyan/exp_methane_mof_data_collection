@@ -1,0 +1,63 @@
+# ── Secrets ──────────────────────────────────────────────────
+data/.env
+.env
+**/.env
+
+# ── Large / regenerable caches ────────────────────────────────
+data/nistdb.pickle
+data/full_csd_doi_index.pickle
+data/*.pickle
+*.pickle
+
+# ── CSD licensed data (large CSVs from Cambridge Structural Database) ──
+# These are derived from the CSD MOF Subset and cannot be redistributed.
+# Regenerate with notebook 02.
+data/step-00.csv
+data/step-01.csv
+data/step-02.csv
+**/step-00.csv
+**/step-01.csv
+**/step-02.csv
+
+# ── CIF files (third-party crystal structures) ────────────────
+# CIFs retrieved from MOSAEC, CoRE-MOF, and CCDC are subject to their
+# respective licenses and should not be redistributed publicly.
+# Regenerate with notebook 05.
+data/MOSAEC_CIFs_found/
+data/CoRE_MOF_CIFs_found/
+data/CCDC_CIFs_found/
+data/samosa_pipeline/01_p1_cifs/
+data/samosa_pipeline/01_p1_cifs_MS/
+data/samosa_pipeline/01_NOFQEF/
+data/samosa_pipeline/02_samosa_output/
+
+# ── Isotherm JSON library (NIST ISODB submodule) ─────────────
+isodb-library/
+
+# ── OneDrive sync error artefacts ─────────────────────────────
+__data/
+___All_Errors.txt
+
+# ── Python ───────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Jupyter ──────────────────────────────────────────────────
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# ── OS ───────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Logs ─────────────────────────────────────────────────────
+*.log
+samosa.log

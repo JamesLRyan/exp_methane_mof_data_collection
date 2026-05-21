@@ -1,0 +1,418 @@
+(Et2NH2)3[(Cu4Cl)3(TTCA)8]
+(H3O)4[Ni6(pi3-O)2(pi2-OSC2H6)2(SO4)2(TATB)8/3].4C2H6O.13H2O
+(In3O)(OH)(ADC)2(IN)2*4.67H2O
+(Me2NH2)2(DMF)9(H2O)5
+(NH2(CH3)2)3[Zn6(BTC)4(BTB)]
+(me2NH2)6[In10(TTCA)12]*24DMF*15H2O
+2,4,6-tris-(4-carboxyphenoxy)-1,3,5-triazine (H3tcpt)
+3Inf[(Cu(mu4-O)(mu2-OH)2(Me2trzpba)4]
+467-MOF
+Al-BDC
+Al-soc-MOF-1
+Al-soc-MOF-1d
+Al-soc-MOF-2
+Al-soc-MOF-3
+Amine-MIL-101(Cr)
+Amino-MIL-53(Al)
+Beta-[{Co(F-pymo)2}n]
+Beta-[{Zn(F-pymo)2}n]
+C10H5MnN3O4
+C12H6O13Zn4
+C17H27CoN3O7.50
+C18H16N2NiO6.5
+C26H8Cu2N2O12
+C28H39N5O16Cu2
+C32H34N4O15Cl5Zn3
+C36H24Cu3N13O12
+C37H90Cu4O55
+C41H46Cu2N2O16
+C43.7H10Mn2N6O8
+C48H34N18O12S2Zn5
+C50H22Cu3O15
+C50H48Co3N6O14S3
+C62H50Cd3K2N2O26
+C75H129Cu3N11O37
+C99H72Cd6O42
+CALF-22
+CALF-33-Et2H
+CALF-33-Et3
+CAU-1
+CAU-10-3,5-pydc
+CAU-10-4-NO2
+CAU-10-4-OH
+CAU-10-5-CH3
+CAU-10-5-H
+CAU-10-5-NH2
+CAU-10-5-NO2
+CD-MOF-2
+COMOC-2
+COMOC-2(V^IV)
+CPF-13
+CPM-13
+CPM-5
+CPM-6
+CUK-1
+CaIICuII6L3(OH)2(H2O)}*11H2O, L = (S,S)-leumox
+CaIICuII6L3(OH)2(H2O)}*13H2O, L = (S,S)-valmox
+CaIICuII6L3(OH)2(H2O)}*32H2O, L = (S,S)-alamox
+Cd (II)-MOF [Cd(L)(DMF)]
+Co(Im)1.3(5-ClbIM)0.7
+Co-DABCO
+Co100-MOF-74
+Co14-MOF-74
+Co2(BDC)2(DPNDO)
+Co21-IRMOF-1
+Co21-MOF-5
+Co3(HCOO)6
+Co3.bpda2- )3( tpt) /3 (DMF 2 )2
+Co8-IRMOF-1
+Co9(btc)6(tpt)2(H2O)15]
+Cr-MIL(101)
+Cr-MIL-101_amide
+Cr-MIL-101_urea
+Cu(1,3-BDC)(H2O)
+Cu(1,3-BDC)(PY)2
+Cu(BDC-OH)
+Cu(BF4)2(bpy)2
+Cu(hfipbb)(H2hfipbb)0.5
+Cu-BTC tablet
+Cu-DABCO
+Cu-HKUST-1
+Cu-SDU-1
+Cu-TDPAT
+Cu-hfipbb
+Cu2-Framework
+Cu2TPTC-Me
+Cu3(NH2btc)2
+Cu3(cdm)4
+CuBDC bulk
+CuBTC
+DUT-23(Co)
+DUT-25
+DUT-49
+DUT-8(Co)
+DUT-8(Cu)
+DUT-8(Zn)
+DUT-9
+Desolvated C12H13CuN5O6
+ELM-11
+FIR-2-ht
+FIR-51
+FIR-7a-ht
+FIR-8a-ht
+FJI-1
+FJI-2
+FJI-3
+FJI-C1
+FJI-H5
+FMOF-2
+Fe-soc-MOF-1a
+Fe-soc-MOF-1b
+Fe2(O2)(dobdc)
+Fe2(dobdc)
+Ga-soc-MOF-1a
+H1/3[(Co^II13/2(BTB)4(OH)4/3(DMA)3]-2DMA-4H2O
+HKUST-1-F1
+IRMOF-1
+IRMOF-14
+IRMOF-3
+IRMOF-8
+IRMOF-8-INT
+IRMOF-8-NO2
+In-soc-MOF-1a
+In-soc-MOF-1b
+In-soc-MOF-1c
+InOF-1
+InOF-15
+InOF-2
+InOF-2-Li+
+JLU-Liu1
+JUC-103
+JUC-132
+M'MOF-20a
+MAF-49
+MAF-66
+MIL-100
+MIL-100(Cr)
+MIL-100(Cr), activated at 150C
+MIL-100(Cr), activated at 250C
+MIL-100(Fe)
+MIL-100(V)
+MIL-100V after O2 binding
+MIL-100V before O2 binding
+MIL-101
+MIL-101FF(Cr)
+MIL-101V after O2 binding
+MIL-101V before O2 binding
+MIL-120
+MIL-125(Ti)
+MIL-160
+MIL-47
+MIL-53
+MIL-53(Cr)
+MIL-53(Cu)
+MIL-53(Fe)
+MIL-53-TDC
+MIL-91(Al)
+MOF Cu-ABTA
+MOF-1
+MOF-14
+MOF-177
+MOF-1C'
+MOF-1C'-Li
+MOF-1M'
+MOF-1M'-Li
+MOF-2
+MOF-2'
+MOF-2'-Li
+MOF-200
+MOF-205
+MOF-205-OBn
+MOF-210
+MOF-505
+MOF-508
+MOF-508b
+MOF-74
+MOF-74-Co
+MOF-74-Ni
+Mg-MOF-74
+Mg-MOF-74 (3)
+Mg-MOF-74 (4)
+Mg2(dobdc)
+Mg2O(2AEP)*4H2O
+Mg3(HCOO)6
+MnC12H6O4
+NH2-MIL-53(Al)
+NJU-Bai10
+NJU-Bai11
+NJU-Bai12
+NJU-Bai13
+NJU-Bai16
+NJU-Bai9
+NKMOF-8-Br
+NOTT-100a
+NOTT-101
+NOTT-101a
+NOTT-102a
+NOTT-103a
+NOTT-109a
+NOTT-300
+NPC-7-Cu
+NPC-7-Zn
+NTU-101-Cu
+NU-111
+NU-125
+NU-125-F1
+NU-125-F2
+NU-135
+NZIF-8
+Ni-MOF-74 (1)
+Ni-MOF-74 (2)
+Ni-PTC
+Ni2(dobdc)
+Ni3(HCOO)6
+Ni3(pzdc)2(7Hade)2(H2O)0.6
+Ni6P6O18N6C18H36
+PCN-121
+PCN-14
+PCN-16
+PCN-26
+PCN-305
+PCN-308
+PCN-426(Ni)
+PCN-46
+PCN-922
+Pd(2-pymo)2
+ROD-8a
+RT-Cu(Qc)2
+SDU-1
+SDU-6
+SDU-7
+SDU-8
+SIM-1 (ZIF-94)
+SION-8F
+SION-8P
+SNIFSIX-1-Cu
+SNU-110'
+SNU-15'
+SNU-150'
+SNU-151'
+SNU-21H
+SNU-21S
+SNU-30'
+SNU-6
+SNU-70'
+SNU-71'
+SNU-77H
+Sc2(O2CC6H4CO2)3
+TIFSIX-1-Cu
+Tb-fum-fcu-MOF
+Tb-pek-MOF-1
+TbL
+Treated (Et2NH2)3[(Cu4Cl)3(TTCA)8]-Li
+UHM-7
+UMCM-1
+UMCM-150
+UPC-12
+UPC-15
+UPC-16
+UTSA
+UTSA-10a
+UTSA-15
+UTSA-16
+UTSA-20
+UTSA-25A
+UTSA-33a
+UTSA-36a
+UTSA-40
+UTSA-48a
+UTSA-50a
+UTSA-57a
+UTSA-5A
+UTSA-61a
+UTSA-72a
+UiO(bdpc)
+UiO-66
+UiO-66(Zr)-(COOH)2 (303K)
+UiO-66(Zr)-(COOH)2 (323K)
+UiO-66(Zr)-(COOH)2 (348K)
+UiO-66(Zr)-(COOH)2 (373K)
+UiO-66(Zr)-(COOH)2 (423K)
+UiO-66(Zr)-(COOH)2 (473K)
+UiO-66-(OH)2
+UiO-66-(OH)2-NO2
+UiO-66-NH4
+UiO-66-NO2
+UiO-66-NO2-(OH)2
+UiO-67
+WV-1050
+WV1050
+Y-ftw-MOF-2
+Y-fum-fcu-MOF
+Yb(BPT)(H2O)*(DMF)1.5(H2O)1.25
+ZIF-100
+ZIF-11
+ZIF-2
+ZIF-20
+ZIF-68
+ZIF-7
+ZIF-70
+ZIF-71
+ZIF-8
+ZIF-90
+ZIF-93
+ZJNU-40a
+ZJNU-47a
+ZJNU-54a
+ZJU-26
+Zn(BDC)(BPY) 0.5
+Zn(BDC)(DABCO)0.5
+Zn(BDC)(DMBPY) 0.5
+Zn(II) MOF 1'
+Zn(II) MOF 2'
+Zn(II)-MOF [Zn(HPylmDC)(DMA)]n
+Zn(Im)1.05(5-NibIM)0.95
+Zn(Im)1.1(5-MebIM)0.9
+Zn(Im)1.2(5-BrbIM)0.8
+Zn(Im)1.25(5-ClbIM)0.75
+Zn(NDC)(BPY) 0.5
+Zn(NDC)(DMBPY) 0.5
+Zn(NO3)2*4H2O
+Zn(bdc)(ted)0.5
+Zn-DABCO
+Zn-MOF-74
+Zn2C14N2O8H4
+Zn3(TCPB)2(H2O)2
+Zn4O
+Zn4O (rho=300kg/m^3)
+Zn4O(BDC)3
+ZnAcBPDC
+ZnBuBPDC
+Zr-1,4-NDC
+Zr-2,6-NDC
+Zr-BDC
+Zr-BDC with defect
+Zr-BDC-Br
+Zr-BDC-NH2
+Zr-BDC-NO2
+Zr-BPDC
+Zr-FUM
+Zr-fum MOF (393 k)
+[(CH3)2NH2]2[Eu3+(μ3-OH)8(1,4-NDC)6(H2O)6]*(solv)x
+[Cd2(azpy)3(NO3)4]*2Me2CO
+[Cd2(sdb)2(4-bpmh)2(H2O)]n.2n(H2O)
+[Cd2(sdb)2-(3-bpmh)2]n.3n(H2O).n(C6H5NO)
+[Co(2)(pyridine)2(H2O)]
+[Co(azpy)2(NCS)2]*0.5EtOH
+[Co2(azpy)3(NO3)4]*Me2CO*3H2O
+[Co2(ndc)2(bpy)]
+[Co2(pbdc)2(bimb)0.5 (H2O)4 (DMF)0.25]n
+[Co3(ndc)-(HCOO)3(mu3-OH)(H2O)]n
+[Co4(OH)2(2)3DMF2]
+[Cu(Hoxonic)(bpy)0.5]n*1.5n
+[Cu(INA)2]
+[Cu(PF6)2(bpp)2]n PCP
+[Cu(dhbc)2(bpy)]H2O]
+[Cu(pmc)2].2/3DMF
+[Cu2(BME-bdc)2(dabco)]n
+[Cu2(EBTC)(H2O)2]*8H2O*DMF*DMSO
+[Cu2(L)2(SO4)(Br)2]
+[Cu2(L)2(SO4)-(Br)2]*4H2O
+[Cu2(Me4BPDC)2]*9DMF
+[Cu2(obb)2(bpy)0.5(DMF)]*2DMF
+[Cu3(TDPAH)(H2O)3] 13H2O 8DMA
+[Fe2(BPEB)3]
+[Fe3(O)(pmc)5.3(O2CH)0.7]*DMF
+[H3O][In(btec)]*0.8H2O
+[HDMA]2-[Zn2(BDC)3(DMA)2]*6DMF
+[La(BTB)(H2O)3DMF]n Activated
+[La(TATAB)(H2O)].6H2O
+[Mn3(mu5-mTPO)(mu6-mTPO)(mu-H2O)(H2O)4]*2DMF*H2O
+[NH2(CH3)2]2[Cd3(BTA)(BTC)2(H2O)]2*7DMAC*8H2O
+[NH2(CH3)2][Zn3(4-Pca)3(ade)].10DMF.8H2O
+[NH2(CH3)2][Zn3(BTA)(BTC)2(H2O)]*4DMAC*3H2O
+[Ni(BPEB)]
+[Ni2(C2O4)(L)2]n*6nH2O
+[Ni2(m2-OH)(COO)2]
+[Ni3(HCOO)6]
+[Ni3(mu2-H2O)2(bdc)3(pyrazine)2]*3(DMA)
+[NiII(dpzca)2Ag]BF4*0.5(C3H6O)
+[Zn(BDC-OH)-(TED)0.5]
+[Zn(BPEB)]
+[Zn(L) H2O] DMA
+[Zn(L)].4DMF-a
+[Zn2(CN5H2)3(H2O)3]6H2O
+[Zn2(CN5H2)3(H2O)3]6H2O Ac
+[Zn2(CN5H2)3(H2O)3]6H2O TMC
+[Zn2(TRZ)2(DOBDC)]n
+[Zn2(bdc)2(bphy)]
+[Zn22(btc)12-(H2O)22(NO3)8) xguest-c
+[Zn3(TCPB)2*2H2O]*2H2O*4DMF
+[Zn3-(ntb)2]n
+[Zn3L2(btc)2(H2O)]
+[Zn4O(Me4BPDC)3]*9DMF
+[Zn5(mu3-OH)4L2]*7H2O*DMF
+[Zn6(mu6-O)(TPO)2]-(NO3)4-3H2O
+[{Cu(H-pymo)2}n]
+[{Fe(NCS)2}3(TPB)4]
+activated [NC2H8]4Cu5(BTT)3xG
+activated {[Zn4(bpydb)3(datz)2(H2O)](DMF)4(EtOH)5(H2O)8}n
+desolvated [Cu5(L)2(OH)2·(H2O)2·DMA2]·2DMA·EtOH·2H2O
+eea-MOF-4
+eea-MOF-5
+gea-MOF-1
+opt-UiO-66(Zr)-(OH)2
+pmg-MOF-5
+tbo-MOF-2
+tbo-MOF-3
+{Ag3[Ag5(mu3-3,5-Ph2tz)6](NO3)2}n
+{Ag3[Ag5(mu3-3,5-tBu2tz)6](BF4)2}n
+{[(Me2NH2)2]*[Cd3(5-tbip)4]*2DMF}n
+{[Cd2(TPPBDA)(OBA)2] 4DMA 8H2O}n
+{[Co(dcpy)(bipy)0.5(H2O)]*H2O}
+{[Cu4(dpdo)12][H(H2O)27(CH3CN)12][PW12O40]3}n
+{[Dy(ox)(Bpybc)(H2O)]*OH*13H2O}n
+{[Tb(FDA)1.5(DMF)]*DMF}
+{[Zn3(L)3(DPB)1.5]-6DMF-H20}n
+{[Zn3(ptp)3](DMF)2-(H2O)}
+{[Zn4O(bfbpdc)3-(bpy)0.5(H2O)]*(3DMF)(H2O)}n

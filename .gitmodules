@@ -1,0 +1,3 @@
+[submodule "external/SAMOSA"]
+	path = external/SAMOSA
+	url = https://github.com/uowoolab/SAMOSA.git
