@@ -1,8 +1,6 @@
 # MOF Methane Adsorption — Data Collection Pipeline
 
-Streamlined workflow for collecting, filtering, matching, and cleaning MOF crystal structures and their associated methane adsorption isotherms from the NIST ISODB and Cambridge Structural Database (CSD).
-
-**Final output:** 391 MOFs with confirmed CSD identifiers, cleaned CIF files, and normalised methane isotherms — ready for ML training.
+Workflow for collecting, filtering, matching, and cleaning MOF crystal structures and their associated methane adsorption isotherms from the NIST ISODB and Cambridge Structural Database (CSD).
 
 ---
 
@@ -10,25 +8,60 @@ Streamlined workflow for collecting, filtering, matching, and cleaning MOF cryst
 
 | # | Notebook | Kernel | Purpose |
 |---|----------|--------|---------|
+| 00 | `00_README_Data_Collection` | — | Pipeline documentation (this file in notebook form) |
 | 01 | `01_filter_nist_isotherms` | Standard Python | Load NIST ISODB, apply quality filters (experimental only, CH₄, temperature range, unit normalisation), remove non-MOFs, handle duplicates, apply coherence corrections, export cleaned dataset |
 | 02 | `02_scrape_csd_metadata` | **CSD Python** | Extract MOF metadata from CSD MOF subset (~135k entries), curate synonyms, deduplicate by paper |
 | 03 | `03_match_nist_to_csd` | **CSD Python** | Match filtered NIST MOFs to CSD identifiers via DOI matching (MOF subset + full CSD fallback with pickle cache) |
-| 04 | `04_llm_formula_match_2LLM_new` | Standard Python | LLM-assisted matching of remaining unmatched MOFs via formula inference (Anthropic Haiku) + CSD candidate scoring |
-| 04b | `04_clean_cifs_samosa` | **CSD Python** | Convert CIFs to P1 symmetry, run SAMOSA solvent removal pipeline |
-| 05 | `05_gather_cifs_and_isotherms` | **CSD Python** | Merge isotherms with known MOF metadata, retrieve CIF files from MOSAEC / CoRE-MOF / CCDC, copy isotherm JSONs, normalise units on exported copies |
+| 04 | `04_llm_formula_match` | Standard Python | LLM-assisted matching of remaining unmatched MOFs: fetch paper abstracts via OpenAlex, infer empirical formula (Haiku), score against CSD candidates by stoichiometry |
+| 05 | `05_clean_cifs_samosa` | **CSD Python** | Convert CIFs to P1 symmetry, run SAMOSA solvent removal pipeline |
+| 06 | `06_gather_cifs_and_isotherms` | **CSD Python** | Merge isotherms with matched MOF metadata, retrieve CIF files from MOSAEC / CoRE-MOF / CCDC, copy isotherm JSONs, normalise units on exported copies |
 
 ---
 
 ## Pipeline Coverage
 
-| Stage | MOFs | Coverage |
-|-------|------|----------|
-| NIST ISODB after filtering | 418 | 100% |
-| Stage 1 — DOI matching (notebook 03) | 223 | 53.3% |
-| Stage 2 — LLM pass-1 (Haiku API + element filter) | 120 | 28.7% |
-| Stage 2 — LLM pass-2 (synonym / knowledge / formula search) | 48 | 11.5% |
-| **Total matched** | **391** | **93.5%** |
-| Removed (no CSD match found) | 27 | 6.5% |
+| Stage | MOFs | Notes |
+|-------|------|-------|
+| NIST ISODB after filtering (NB01) | 418 | Starting point |
+| DOI-matched to CSD (NB03) | 247 | Matched via publication DOI |
+| LLM-matched (NB04) | 128 | Formula inference + candidate scoring |
+| Unmatched — not collected (NB06) | 94 | No CSD entry found; excluded from final dataset |
+
+The 94 unmatched MOFs are not removed from `filtered_isotherms.xlsx` — they simply receive no CIF file in NB06 and are excluded from the final dataset naturally.
+
+---
+
+## Setup
+
+### 1. Install Python dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 2. CSD Python API
+
+Required for notebooks 02, 03, 05, and 06. Install separately via the CCDC installer — not available on PyPI. See [CCDC documentation](https://downloads.ccdc.cam.ac.uk/documentation/API/).
+
+### 3. SAMOSA (solvent removal)
+
+Cloned as a git submodule at `external/SAMOSA`. Initialise with:
+
+```bash
+git submodule update --init --recursive
+```
+
+### 4. Anthropic API key
+
+Required for notebook 04. Create `data/.env` with:
+
+```
+ANTHROPIC_API_KEY=sk-ant-...
+```
+
+### 5. Set output paths
+
+Notebooks 05 and 06 contain a **user config cell at the top** where you set paths to your local databases (MOSAEC, CoRE-MOF) and your output directory. Edit these before running — no paths are hardcoded elsewhere.
 
 ---
 
@@ -46,6 +79,7 @@ The curated input files are preserved in `data/` and referenced by the notebooks
 ## Key Data Files
 
 **Curated inputs (do not regenerate):**
+
 | File | Description |
 |------|-------------|
 | `data/duplicate_keep_filenames.txt` | Manually curated duplicate resolution |
@@ -54,59 +88,26 @@ The curated input files are preserved in `data/` and referenced by the notebooks
 | `data/MOFs_from_CCDC_sorted_UNKNOWN.xlsx` | Unknown / ambiguous matches |
 | `data/filtered_isotherms_merged_with_CCDC_manual.xlsx` | Manually reviewed merge |
 
-**Generated outputs (tracked in this repo):**
+**Generated outputs (tracked):**
+
 | File | Rows | Description |
 |------|------|-------------|
-| `data/filtered_isotherms.xlsx` | 391 | Final filtered isotherm table (post-removal of unmatched) |
-| `data/matched_mofs.csv` | 247 | DOI-based matches from notebook 03 |
-| `data/llm_matched_mofs.csv` | 179 | LLM-based matches (pass-1 + pass-2) |
-| `data/llm_pass2_audit.csv` | 94 | Full pass-2 audit trail with confidence scores |
-| `data/llm_unmatched.csv` | 16 | Legacy unresolved entries (outside filtered list) |
-| `data/truly_unmatched_mofs.csv` | 27 | MOFs removed from pipeline (no CSD match) |
+| `data/filtered_isotherms.xlsx` | 418 | Filtered NIST isotherm table (output of NB01) |
+| `data/matched_mofs.csv` | 247 | DOI-based CSD matches (output of NB03) |
+| `data/unmatched_mofs.csv` | — | MOFs passed to NB04 (output of NB03) |
+| `data/llm_matched_mofs.csv` | 128 | LLM-based CSD matches (output of NB04) |
+| `data/llm_unmatched.csv` | 94 | MOFs NB04 could not resolve (output of NB04) |
 | `data/step8_unit_normalisation_audit.csv` | — | Unit conversion audit trail |
 | `data/samosa_pipeline/reports/` | — | P1 conversion and SAMOSA reports |
 
 **Not tracked (regenerate or obtain separately):**
-| File | Reason |
-|------|--------|
-| `data/nistdb.pickle` | 121 MB cache — auto-regenerated from `isodb-library/` |
-| `data/full_csd_doi_index.pickle` | Large cache — auto-regenerated on first run of notebook 03 |
-| `data/step-00/01/02.csv` | CSD MOF Subset data — subject to CCDC license |
-| `data/MOSAEC_CIFs_found/` | Third-party CIF files — subject to respective licenses |
+
+| File / Folder | Reason |
+|---------------|--------|
+| `data/nistdb.pickle` | 121 MB — auto-regenerated from `isodb-library/` |
+| `data/full_csd_doi_index.pickle` | Large — auto-regenerated on first run of NB03 |
+| `data/step-00/01/02.csv` | CSD MOF Subset — subject to CCDC licence |
+| `data/MOSAEC_CIFs_found/` | Third-party CIF files |
 | `data/CoRE_MOF_CIFs_found/` | Third-party CIF files |
-| `data/CCDC_CIFs_found/` | Third-party CIF files — requires CCDC access |
-| `data/samosa_pipeline/` (CIF subdirs) | Processed CIF files — regenerate with notebook 04b |
-
----
-
-## Dependencies
-
-```
-pip install -r requirements.txt
-```
-
-- **Python 3.9+** — notebooks 01, 04
-- **CSD Python API (v3.6.1+)** — required for notebooks 02, 03, 04b, 05; install separately via CCDC
-- **SAMOSA** — cloned as a git submodule at `external/SAMOSA`; initialise with:
-  ```bash
-  git submodule update --init --recursive
-  ```
-- **Anthropic API key** — required for notebook 04 LLM matching; set in `data/.env`:
-  ```
-  ANTHROPIC_API_KEY=sk-ant-...
-  ```
-
----
-
-## Archive
-
-Original (pre-streamlined) notebooks are preserved in `archive/`. Obsolete intermediate data files are in `data/archive_data/`.
-
----
-
-## Final Outputs Location
-
-Cleaned CIFs and normalised isotherms are exported to:
-```
-C:\Users\james\OneDrive - Aix-Marseille Universite\CNE Wroclaw 2026\CNE Thesis 2026\MOF CIFs DATABASE - ALL
-```
+| `data/CCDC_CIFs_found/` | Requires CCDC access |
+| `data/samosa_pipeline/` (CIF subdirs) | Regenerate with NB05 |
