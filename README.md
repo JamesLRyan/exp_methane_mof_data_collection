@@ -8,7 +8,6 @@ Workflow for collecting, filtering, matching, and cleaning MOF crystal structure
 
 | # | Notebook | Kernel | Purpose |
 |---|----------|--------|---------|
-| 00 | `00_README_Data_Collection` | — | Pipeline documentation (this file in notebook form) |
 | 01 | `01_filter_nist_isotherms` | Standard Python | Load NIST ISODB, apply quality filters (experimental only, CH₄, temperature range, unit normalisation), remove non-MOFs, handle duplicates, apply coherence corrections, export cleaned dataset |
 | 02 | `02_scrape_csd_metadata` | **CSD Python** | Extract MOF metadata from CSD MOF subset (~135k entries), curate synonyms, deduplicate by paper |
 | 03 | `03_match_nist_to_csd` | **CSD Python** | Match filtered NIST MOFs to CSD identifiers via DOI matching (MOF subset + full CSD fallback with pickle cache) |
