@@ -24,9 +24,10 @@ Workflow for collecting, filtering, matching, and cleaning MOF crystal structure
 | NIST ISODB after filtering (NB01) | 418 | Starting point |
 | DOI-matched to CSD (NB03) | 247 | Matched via publication DOI |
 | LLM-matched (NB04) | 128 | Formula inference + candidate scoring |
-| Unmatched — not collected (NB06) | 94 | No CSD entry found; excluded from final dataset |
+| Manual searching | 54 | Found by searching through respective papers |
+| Unmatched (removed) | 40 | Not found with DOI, LLM or manually |
 
-The 94 unmatched MOFs are not removed from `filtered_isotherms.xlsx` — they simply receive no CIF file in NB06 and are excluded from the final dataset naturally.
+A total of 429 CIFs of MOFs with respective isotherms gathered.
 
 ---
 
