@@ -21,7 +21,7 @@ Workflow for collecting, filtering, matching, and cleaning MOF crystal structure
 
 | Stage | MOFs | Notes |
 |-------|------|-------|
-| NIST ISODB after filtering (NB01) | 418 | Starting point |
+| NIST ISODB after filtering (NB01) | 469 | Starting point |
 | DOI-matched to CSD (NB03) | 247 | Matched via publication DOI |
 | LLM-matched (NB04) | 128 | Formula inference + candidate scoring |
 | Manual searching | 54 | Found by searching through respective papers |
